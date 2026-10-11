@@ -1,0 +1,108 @@
+# Görsel ve Video Üretme / Düzenleme (AI Destekli)
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** AI görsel üretme, text to image, AI video üretme, görsel düzenleme, upscale, arka plan kaldırma, AI image generator, AI video editor
+
+- [Midjourney](https://www.midjourney.com) — Yapay zeka ile görsel oluşturma.
+- [Ideogram](https://ideogram.ai/login) — Yapay zeka destekli yazı ve tasarım oluşturma platformu.
+- [Leonardo AI](https://leonardo.ai) — Yapay zeka ile görsel üretim platformu.
+- [Recraft](https://www.recraft.ai) — AI destekli grafik tasarım aracı.
+- [Artflow](https://artflow.ai) — Yapay zeka ile sanat eseri oluşturma.
+- [PopAI](https://popai.com) — AI destekli e-ticaret görsel üretimi.
+- [Krea](https://www.krea.ai) — AI ile metin ve görsel içerik üretme.
+- [Playground](https://www.playgroundai.com) — AI destekli görsel üretim platformu.
+- [KlingAI](https://klingai.com) — AI destekli video/metin üretim aracı.
+- [Pika Art](https://pika.art) — AI ile video/sanat oluşturma aracı.
+- [PixVerse](https://pixverse.ai) — 4K video oluşturma aracı.
+- [RenderNet AI](https://rendernet.ai) — Karakter oluşturma aracı.
+- [Deep Dream Generator](https://deepdreamgenerator.com) — AI ile sanatsal görseller üretme.
+- [NightCafe](https://creator.nightcafe.studio) — AI ile dijital sanat oluşturma.
+- [D-ID](https://www.d-id.com) — AI ile yüz animasyonu oluşturma.
+- [PhotoTool](https://phototool.ai) — AI destekli fotoğraf düzenleme.
+- [FotoFast](https://www.fotofast.ai) — Hızlı AI destekli fotoğraf iyileştirme.
+- [Lensgo AI](https://www.lensgo.ai) — AI destekli fotoğraf düzenleme platformu.
+- [Letsenhance](https://www.letsenhance.io) — Görsellerin çözünürlüğünü arttıran yapay zeka aracı.
+- [AnimeGANv2](https://github.com/TachibanaYushi/AnimeGANv2) — Gerçek fotoğrafları animeye çevirme.
+- [Synthesia](https://www.synthesia.io) — AI destekli avatar ve video oluşturma.
+- [Runway](https://runwayml.com) — AI destekli video düzenleme.
+- [Dream Machine](https://lumalabs.ai) — AI destekli 3D modelleme / video (Luma).
+- [Lumen5](https://www.lumen5.com) — Metinden videoya dönüştürme aracı.
+- [Pictory](https://pictory.ai) — AI destekli video düzenleme.
+- [Magisto](https://www.magisto.com) — AI ile otomatik video düzenleme.
+- [HeyGen](https://www.heygen.com) — Dudak hareketleriyle dublaj / video dil değiştirme.
+- [Rask AI](https://www.rask.ai) — Dublaj ekleme aracı.
+- [ElevenLabs](https://elevenlabs.io) — AI seslendirme aracı.
+- [Lovo.ai](https://www.lovo.ai) — Yapay zeka seslendirme platformu.
+- [Fakeyou.com](https://fakeyou.com) — Yapay zeka ile ses klonlama ve metin okuma.
+- [Adobe Podcast](https://podcast.adobe.com) — Ses düzenleme/temizleme aracı.
+- [Image to Music](https://www.imagestomusic.com) — Görselden müzik yaratma aracı.
+- [Suno AI](https://suno.com) — Yapay zeka ile müzik üretme.
+- [Stockimg AI](https://stockimg.ai) — AI ile logo/görsel oluşturma.
+- [Logomaster](https://www.logomaster.ai) — AI ile logo oluşturma.
+- [Autodraw](https://www.autodraw.com) — Google'ın yapay zekasıyla çizim yapma.
+- [Bing Image Creator](https://www.bing.com/images/create) — Yapay zeka ile görsel üretimi.
+- [Numerous](https://numerous.ai) — Excel için AI aracı.
+- [Vidu](https://www.vidu.com) — Metinden/görselden video üreten AI aracı.
+- [Kolors AI](https://kolors-ai.com) — AI görsel/metin-görsel üretim aracı.
+- [Backflip AI](https://www.backflip.ai) — Fikirden 3D baskıya AI destekli tasarım aracı.
+- [Coloringbook AI](https://www.coloringbook.ai) — AI ile boyama kitabı sayfaları üretme.
+- [Insmind](https://www.insmind.com) — AI destekli görsel düzenleme ve arka plan araçları.
+- [YouWear AI](https://www.youwear.ai) — AI ile sanal kıyafet deneme (virtual try-on) aracı.
+- [Reimagine Home](https://www.reimaginehome.ai) — AI ile iç mekan/ev tasarımı yeniden hayal etme.
+- [Cartoonify](https://www.cartoonify.de) — Fotoğrafları karikatüre çeviren AI aracı.
+- [Righthair AI](https://righthair.ai) — AI ile saç modeli deneme aracı.
+- [Pica AI Photo Enhancer](https://www.pica-ai.com/photo-enhancer) — AI ile fotoğraf kalitesini artırma.
+- [Colourise](https://colourise.com) — Siyah-beyaz fotoğrafları AI ile renklendirme.
+- [Unblur Image AI](https://unblurimage.ai) — Bulanık görselleri AI ile netleştirme.
+- [Remove.photos](https://remove.photos) — AI ile arka plan kaldırma aracı.
+- [Picwish](https://picwish.com) — AI destekli fotoğraf düzenleme ve iyileştirme araç seti.
+- [EZRemove AI](https://ezremove.ai) — AI ile görsellerden nesne silme aracı.
+- [Watermark Remover](https://www.watermarkremover.io) — AI ile filigran (watermark) kaldırma aracı.
+- [Whitescreen Online](https://www.whitescreen.online) — Beyaz arka plan/ekran oluşturma aracı.
+- [Text Behind Image](https://textbehindimage.com) — Görselin arkasına metin yerleştirme aracı.
+- [Easy Edit](https://www.easyedit.io) — Basit online görsel düzenleme aracı.
+- [Split My Song](https://www.splitmysong.com) — Şarkıları enstrüman/vokal olarak ayırma aracı.
+- [X-Minus](https://x-minus.pro) — AI ile şarkılardan vokal/enstrüman ayırma (karaoke) aracı.
+- [Nemo Video](https://www.nemovideo.com) — Sohbet ederek video düzenleyen AI video editörü.
+- [Google Flow (Veo 3.1)](https://labs.google/flow) — Abone olmayan kullanıcılara günde 50 kredi veren, yüksek kalite/fizik simülasyonlu AI video aracı.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine) — Foto-gerçekçi kamera hareketleri ve ışık geçişleriyle tanınan AI video aracı.
+- [Hailuo AI (MiniMax)](https://hailuoai.com) — Foto-gerçekçi insan/karakter üretiminde güçlü AI video aracı.
+- [Seedance (ByteDance)](https://seed.bytedance.com) — Hareket ve image-to-video işlerinde güçlü AI video aracı.
+- [InVideo AI](https://invideo.io) — Stok görsel/video destekli, tarayıcı tabanlı ücretsiz video üretim aracı.
+- [Higgsfield AI](https://higgsfield.ai) — Tek panelden Kling, Seedance, WAN gibi çoklu modele erişim sunan araç.
+- [Haiper](https://haiper.ai) — Kısa klipler üreten, watermarklı AI video aracı.
+- [DomoAI](https://domoai.app) — Video-to-video stil transferinde (anime, gerçekçi) güçlü AI aracı.
+- [Fliki](https://fliki.ai) — Birden fazla video modelini tek çalışma alanında birleştiren, kredi kartsız ücretsiz plan sunan araç.
+- [Kenerate AI](https://kenerateai.com) — Seedance ve Kling gibi üst düzey modellere erişim sağlayan araç.
+- [Elai.io](https://elai.io) — Metin, URL veya PowerPoint dosyalarını çok dilli avatar videosuna çeviren araç.
+- [Vidnoz](https://www.vidnoz.com) — Konuşan avatar videolarında cömert ücretsiz kota sunan şablon tabanlı araç.
+- [Synthesys](https://synthesys.io) — Eğitim odaklı avatar videosu üretim aracı.
+- [PowToon](https://www.powtoon.com) — Hazır şablonlarla animasyonlu sosyal medya/tanıtım videosu üretim aracı.
+- [revid.ai](https://revid.ai) — Sınırlı ücretsiz kredi sunan video üretim aracı.
+- [Renderforest](https://www.renderforest.com) — Şablon tabanlı tanıtım ve pazarlama videosu üretim aracı.
+- [Wibbitz](https://www.wibbitz.com) — Metni otomatik transkript edip stok görsellerle eşleştiren video üretim aracı.
+- [InkSprout](https://inksprout.ai) — Blog yazılarını kısa-form sosyal medya videolarına dönüştüren araç.
+- [Adobe Firefly](https://firefly.adobe.com) — Adobe'nin ticari kullanım için "içerik güvenli" lisanslı AI görsel/video aracı.
+- [Creatify AI](https://creatify.ai) — Ürün linkinden otomatik sosyal medya reklam videosu üreten araç.
+- [Zeely AI](https://zeely.ai) — UGC tarzı reklam videoları üretiminde uzmanlaşmış araç.
+- [Viggle AI](https://viggle.ai) — Statik karakter fotoğrafını fizik-temelli 3D modelle hareketli videoya dönüştüren araç.
+- [Kaiber](https://kaiber.ai) — Sanatsal, stilize animasyon ve müzik senkronizasyonlu video üretim aracı.
+- [Live3D](https://www.live3d.io) — Görselleri 3D karakterlere ve canlandırılmış avatarlara dönüştüren araç.
+- [LumeFlow AI](https://lumeflow.ai) — Akıllı efektler ve hikaye üretici modülüyle video oluşturan araç.
+- [HitPaw Edimakor](https://www.hitpaw.com) — AI destekli video düzenleme ve efekt uygulama aracı.
+- [Descript](https://www.descript.com) — Videoyu metin gibi düzenleyen (cümle silince klip de kesilen) transkripsiyon/prodüksiyon aracı.
+- [Clipchamp](https://clipchamp.com) — Microsoft'un AI metin-konuşma ve otomatik altyazı özellikli ücretsiz video düzenleyicisi.
+- [Captions](https://www.captions.ai) — Otomatik altyazı ve AI dudak senkronizasyonu odaklı video aracı.
+- [Wistia Remix](https://wistia.com) — Sohbet tabanlı, çoklu kaynaktan video birleştiren düzenleme aracı.
+- [Topview AI](https://www.topview.ai) — Ürün linkinden otomatik "viral" tarz tanıtım videosu üreten araç.
+- [Deevid AI](https://deevid.ai) — Tek tıkla fotoğrafı videoya dönüştüren basit image-to-video aracı.
+- [Cutout.Pro](https://www.cutout.pro) — AI arka plan kaldırma ve görsel/video geliştirme aracı.
+- [Visla](https://www.visla.us) — Takım işbirliği ve marka tutarlılığına odaklı, script'ten videoya dönüşüm sağlayan platform.
+- [Vmake Video Watermark Remover](https://vmake.ai/video-watermark-remover) — AI ile videolardan filigran (watermark) kaldırma aracı.
+- [Motionsites AI](https://motionsites.ai) — AI destekli hareketli/animasyonlu web sitesi tasarım aracı.
+- [Opus.pro (OpusClip)](https://opus.pro) — Uzun videoları AI ile viral kısa klipler haline getiren video kırpma aracı.
+- [Clipscutter](https://clipscutter.com) — Video klip kesme/düzenleme aracı.
+- [Everygen](https://everygen.ai) — AI ile YouTube Shorts, reklam ve dikey video üretme platformu (eski adıyla Viewmax).
+- [Viewmax](https://www.viewmax.io) — AI destekli video üretim platformu (Everygen'e yönlendirilir).
+- [Ausar AI](https://ausar.ai) — Çoklu yapay zeka modellerini tek çatı altında toplayan video, görsel ve ses üretim platformu.

@@ -1,0 +1,93 @@
+# Tasarım, Grafik ve Görsel Kaynaklar
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** grafik tasarım, ikon, mockup, renk paleti, tasarım kaynakları, UI kit, graphic design resources
+
+- [Figma](https://www.figma.com) — UI/UX tasarım ve prototipleme aracı.
+- [Adobe XD](https://www.adobe.com/products/xd.html) — UX/UI tasarım ve prototip araçları.
+- [Sketch](https://www.sketch.com) — Dijital tasarım ve prototip oluşturma yazılımı.
+- [InVision](https://www.invisionapp.com) — Prototip oluşturma ve tasarım işbirliği aracı.
+- [GIMP](https://www.gimp.org) — Açık kaynaklı grafik tasarım yazılımı.
+- [Krita](https://krita.org) — Ücretsiz dijital çizim ve boyama yazılımı.
+- [Lunacy](https://icons8.com/lunacy) — Offline grafik tasarım programı.
+- [Photopea](https://www.photopea.com) — Photoshop alternatifi online editör.
+- [Pixlr](https://www.pixlr.com) — Online fotoğraf düzenleyici.
+- [Remove.bg](https://www.remove.bg) — Görsellerden arka plan kaldırma.
+- [Unscreen](https://www.unscreen.com) — Video arka planı kaldırma.
+- [Cleanup.pictures](https://www.cleanup.pictures) — Görsellerden istenmeyen objeleri kaldırma.
+- [PFPMaker](https://pfpmaker.com) — Profil fotoğrafı oluşturma aracı.
+- [SVG Backgrounds](https://www.svgbackgrounds.com) — Özelleştirilebilir SVG arka planlar.
+- [BGJar](https://bgjar.com) — SVG arka planlar üretme aracı.
+- [Blobmaker](https://blobmaker.app) — Rastgele şekiller oluşturma aracı.
+- [Doodle Ipsum](https://doodleipsum.com) — Rastgele çizimler oluşturan Lorem Ipsum alternatifi.
+- [Icons8](https://icons8.com) — Ücretsiz ikon ve illüstrasyonlar.
+- [Flaticon](https://www.flaticon.com) — Ücretsiz ve premium ikonlar.
+- [Noun Project](https://thenounproject.com) — Geniş ikon ve vektör koleksiyonu.
+- [Lottiefiles](https://www.lottiefiles.com) — Hareketli animasyonlar oluşturma.
+- [Jitter](https://www.jitter.video) — Hareketli grafik video oluşturma.
+- [Vectorizer](https://www.vectorizer.io) — Görselleri vektör formatına dönüştürme.
+- [Coolors](https://coolors.co) — Renk paletleri oluşturma.
+- [Adobe Color](https://color.adobe.com) — Renk paleti oluşturma aracı.
+- [Paletton](https://paletton.com) — Renk kombinasyonu oluşturma.
+- [Color Hunt](https://colorhunt.co) — Renk paletleri keşfetme platformu.
+- [Khroma](https://www.khroma.co) — AI destekli renk önerileri.
+- [UI Colors](https://uicolors.com) — UI tasarım renk önerileri.
+- [MyFonts](https://www.myfonts.com) — Ücretli ve ücretsiz yazı tipleri.
+- [FontPair](https://fontpair.co) — Yazı tipi kombinasyonları önerileri.
+- [WhatTheFont](https://www.myfonts.com/WhatTheFont) — Font tanıma aracı.
+- [Fount](https://fount.arts.ac.uk) — Web sitelerindeki fontları tespit etme aracı.
+- [Llama Font](https://www.llamafont.com) — Llama şeklinde yazılar oluştur.
+- [Mockup World](https://www.mockupworld.co) — Ücretsiz mockup dosyaları.
+- [Placeit](https://www.placeit.net) — Mockup, logo ve şablonlar.
+- [Clone UI](https://clone-ui.design/) — Popüler uygulama/web sitesi arayüzü referansları.
+- [Uiverse](https://uiverse.io/) — UI bileşenlerini paylaşma ve keşfetme platformu.
+- [Maneken Editor](https://editor.maneken.app/) — Web ve mobil uygulamalar için görsel tasarım aracı.
+- [Designspiration](https://www.designspiration.com) — Tasarım ve grafik ilham kaynağı.
+- [Compressor.io](https://compressor.io) — Kaliteli görsel sıkıştırma.
+- [Squoosh](https://squoosh.app) — Online görsel sıkıştırma ve format dönüştürme.
+- [TinyPNG](https://tinypng.com) — Görsel sıkıştırma aracı.
+- [ImageOptim](https://imageoptim.com) — Görsel optimizasyon aracı.
+- [PNG Maker](https://www.pngmaker.com) — PNG dosyaları oluşturma ve düzenleme aracı.
+- [IloveIMG](https://www.iloveimg.com) — Görsel düzenleme araçları.
+- [iLovePDF](https://www.ilovepdf.com) — PDF dosyalarıyla çalışmak için araçlar (birleştirme, bölme vb.).
+- [Ezgif](https://ezgif.com) — GIF düzenleme ve dönüştürme aracı.
+- [Spline](https://spline.design) — 3D tasarım ve modelleme aracı.
+- [Blender](https://www.blender.org) — 3D modelleme ve animasyon yazılımı.
+- [Autodesk](https://www.autodesk.com) — 3D tasarım yazılımları (AutoCAD, Revit, vb.).
+- [Weavesilk](https://weavesilk.com) — Dijital sanat yaratma.
+- [PineTools](https://www.pinetools.com) — Görsel ve metin düzenleme araçları.
+- [Vectr](https://vectr.com) — Ücretsiz vektör grafik tasarım aracı (Canva alternatifi).
+- [Gravit Designer](https://www.designer.io) — Ücretsiz vektör tasarım ve illüstrasyon aracı.
+- [Canva](https://www.canva.com) — Kolayca grafik tasarım yapma.
+- [Mockups Design](https://mockups-design.com) — Ücretsiz ürün ve cihaz mockup şablonları.
+- [3D SVG Design](https://3dsvg.design) — 3D görünümlü SVG grafikler oluşturma.
+- [Thiings](https://www.thiings.co/things) — Ücretsiz 3D ikon/nesne görselleri arşivi.
+- [Logosystem](https://logosystem.co) — Logo tasarım ve marka kimliği aracı.
+- [3D Logo Lab](https://www.3dlogolab.io) — 3D logo tasarım aracı.
+- [Turbologo](https://www.turbologo.com) — Online logo oluşturma aracı.
+- [Wordmark](https://wordmark.abhayramesh.com) — Yazı tipi denemeleri için hızlı önizleme aracı.
+- [Space Type Generator](https://spacetypegenerator.com) — 3D/uzaysal yazı efektleri oluşturma.
+- [Text Studio](https://www.textstudio.com) — Metin efektleri ve logo yazı tasarım aracı.
+- [Type Dither](https://typedither.vercel.app) — Deneysel tipografi/dither efekt aracı.
+- [Copychar](https://copychar.cc) — Özel karakter ve sembolleri kopyalama aracı.
+- [Loading.io](https://loading.io) — Yükleme animasyonu ve ikon oluşturma aracı.
+- [Animejs](https://animejs.com) — JavaScript animasyon kütüphanesi.
+- [Refont](https://refont.ai) — AI destekli yazı tipi/font oluşturma aracı.
+- [QR Code AI](https://qrcode-ai.com/tr) — AI destekli özelleştirilmiş QR kod oluşturma.
+- [Heroforge](https://www.heroforge.com) — 3D masaüstü oyun figürü tasarlama aracı.
+- [Sketchfab](https://sketchfab.com) — 3D model paylaşım ve görüntüleme platformu.
+- [Vecteezy](https://www.vecteezy.com) — Ücretsiz vektör grafik ve illüstrasyon arşivi.
+- [Templyo](https://templyo.io) — Sosyal medya ve tasarım şablonları oluşturma aracı.
+- [Formia](https://formia.so) — AI destekli form/tasarım oluşturma aracı.
+- [Pixie](https://pixie.haus) — Görsel düzenleme ve tasarım aracı.
+- [Builditapp](https://builditapp.com) — Kodsuz uygulama/arayüz oluşturma aracı.
+- [Moshpro](https://moshpro.app) — Datamosh/glitch video efekt aracı.
+- [VibeUI](https://vibeui.online) — UI bileşen ve tasarım ilham galerisi.
+- [Refero Styles](https://styles.refero.design) — Web tasarım stil ilham kaynağı.
+- [Aceternity UI](https://ui.aceternity.com/components) — Hazır, animasyonlu React UI bileşenleri.
+- [Superdesign](https://superdesign.dev) — AI destekli UI/arayüz tasarım aracı.
+- [Blossom Carousel (GitHub)](https://github.com/jespervos/blossom-carousel) — Açık kaynak carousel/slider kütüphanesi.
+- [Context.dev](https://www.context.dev) — Yazılım geliştiriciler için doküman/context arama aracı.
+- [Calligraphr](https://calligraphr.com/en/) — Kendi el yazınızdan özel font oluşturma aracı.
+- [PNGImg](https://pngimg.com) — Şeffaf arka planlı PNG görsel arşivi.

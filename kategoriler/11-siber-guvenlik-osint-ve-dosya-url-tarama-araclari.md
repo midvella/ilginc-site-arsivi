@@ -1,0 +1,94 @@
+# Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** siber güvenlik, OSINT, malware tarama, URL tarama, pentest araçları, cybersecurity tools, açık kaynak istihbarat
+
+- [VirusTotal](https://www.virustotal.com) — Dosya ve URL güvenlik taraması yapma platformu / zararlı yazılım analizi.
+- [Kaspersky](https://www.kaspersky.com) — Antivirüs ve güvenlik yazılımı.
+- [Virusscan](https://www.virusscan.org) — Virüs tarama ve zararlı yazılım tespiti.
+- [MetaDefender](https://www.metadefender.com) — Dosya güvenlik taraması aracı.
+- [Shodan](https://www.shodan.io/) — IoT cihazları / internet bağlantılı cihaz arama motoru.
+- [Censys](https://censys.io/) — İnternet varlık keşfi platformu.
+- [ZoomEye](https://www.zoomeye.org/) — Cihazlar için siber uzay arama motoru.
+- [GreyNoise](https://www.greynoise.io/) — İnternet gürültüsü ve tehdit istihbaratı.
+- [Onyphe](https://www.onyphe.io/) — Siber savunma arama motoru.
+- [BinaryEdge](https://www.binaryedge.io/) — Tehdit istihbaratı verisi platformu.
+- [Fofa](https://www.fofa.info/) — Siber varlık haritalama motoru.
+- [LeakIX](https://leakix.net/) — Bilgi sızıntıları arama motoru.
+- [CriminalIP](https://www.criminalip.io/) — Varlık envanteri ve risk değerlendirmesi.
+- [Netlas](https://www.netlas.io/) — Saldırı yüzeyi keşfi platformu.
+- [Dehashed](https://www.dehashed.com/) — Sızdırılmış kimlik bilgileri arama motoru.
+- [SecurityTrails](https://securitytrails.com/) — DNS ve domain verisi platformu.
+- [Dork Search](https://www.dorksearch.com/) — Google dorking arama aracı.
+- [Exploit-DB](https://www.exploit-db.com/) — Exploit ve güvenlik açığı arşivi.
+- [Pulsedive](https://pulsedive.com/) — Tehdit istihbaratı arama motoru.
+- [Grayhat Warfare](https://grayhatwarfare.com/) — Kamuya açık S3 bucket'ları arama motoru.
+- [Polyswarm](https://polyswarm.io/) — Tehdit tespiti pazaryeri.
+- [URLScan](https://urlscan.io/) — Web site ve URL tarama hizmeti.
+- [Vulners](https://vulners.com/) — Güvenlik açığı veritabanı ve arama motoru.
+- [Archivinci](https://www.archivinci.com) — Dijital tasarım ve mimari platformu.
+- [Archive.org – Web Arşivi](https://archive.org/web/) — Tarihsel web sayfası arşivi.
+- [crt.sh](https://crt.sh/) — Sertifika şeffaflığı arama motoru.
+- [Wigle](https://wigle.net/) — Kablosuz ağ haritalama platformu.
+- [PublicWWW](https://publicwww.com/) — Kaynak kodu arama motoru.
+- [Hunter.io](https://hunter.io/) — E-posta adresi bulma aracı.
+- [IntelX](https://intelx.io/) — OSINT ve veri ihlali araması.
+- [Grep.app](https://grep.app/) — GitHub için kod arama motoru.
+- [Packet Storm Security](https://www.packetstomsecurity.com/) — Güvenlik araçları ve kaynakları.
+- [SearchCode](https://searchcode.com/) — Kaynak kodu ve API arama motoru.
+- [DNSDB](https://www.dnsdb.info/) — Tarihsel DNS verisi araması.
+- [FullHunt](https://fullhunt.io/) — Saldırı yüzeyi keşfi platformu.
+- [DNSDumpster](https://dnsdumpster.com/) — DNS araştırma aracı.
+- [Awesome-OSINT (GitHub)](https://github.com/jivoi/awesome-osint) — Araştırma ve siber güvenlik için açık kaynak liste.
+- [Facecheck](https://facecheck.id/tr) — Yüz tanıma ile sosyal medya hesap analizi.
+- [SOCRadar](https://socradar.io) — Tehdit istihbaratı platformu.
+- [IVRE](https://ivre.rocks) — Ağ keşfi ve OSINT aracı.
+- [Grabify](https://grabify.link) — IP/konum takip linki oluşturma aracı.
+- [ShadyURL](https://www.shadyurl.com) — Normal linkleri şüpheli görünen linklere çevirme.
+- [OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/) — OWASP güvenlik eğitim platformu.
+- [Google Gruyere](https://google-gruyere.appspot.com/) — Web güvenliği açıklarını öğretme platformu (Google).
+- [Hack This Site](https://www.hackthissite.org/) — Etik hackerlık becerileri geliştirme sitesi.
+- [Defend the Web](https://defendtheweb.net/) — Web güvenliği ve etik hackerlık öğrenme sitesi.
+- [Hack Me](https://hackme.io) — Algoritmalar ve güvenlik konularında interaktif öğrenme aracı.
+- [Fake Image Detector](https://www.fakeimagedetector.com) — Sahte görselleri tespit etme aracı.
+- [StopNCII](https://stopncii.org/) — Zorla paylaşılan cinsel içerikleri engelleme platformu.
+- [Instagram Hacked](https://www.instagram.com/hacked/) — Instagram hesap kurtarma rehberi.
+- [Namso Gen](https://namso-gen.com/) — Geçici telefon numarası oluşturma aracı.
+- [OnlineSMSBox](https://onlinesmsbox.com/) — Geçici SMS alımı yapan platform.
+- [IntelTechniques – Radio Tools](https://inteltechniques.com/tools/Radio.html) — OSINT amaçlı radyo frekansı/tarayıcı araçları listesi.
+- [InstantUsername](https://instantusername.com/) — Kullanıcı adının farklı platformlarda müsait olup olmadığını kontrol etme.
+- [Have I Been Pwned](https://haveibeenpwned.com/) — E-posta/parolanızın veri sızıntılarında yer alıp almadığını kontrol etme.
+- [Hacksplaining](https://www.hacksplaining.com/) — Web güvenlik açıklarını interaktif olarak öğretme platformu.
+- [Temp-Mail](https://temp-mail.org/) — Geçici/tek kullanımlık e-posta adresi oluşturma.
+- [Receive SMS](https://receive-smss.com/) — Geçici, herkese açık SMS numaraları ile doğrulama kodu alma.
+- [WifiSpc](https://wifispc.com/) — Wi-Fi ağ bilgisi ve IP adresi görüntüleme aracı.
+- [Pic2Map](https://www.pic2map.com/) — Fotoğrafların EXIF konum verisini haritada gösterme.
+- [Privnote](https://privnote.com/) — Okunduktan sonra kendini silen not/mesaj oluşturma.
+- [ScanWP](https://scanwp.net/) — WordPress sitelerinin kullandığı tema/eklentileri analiz etme.
+- [Start.me – Cybersecurity Tools](https://start.me/p/bpjxDe/cybersec-tools) — Siber güvenlik araçlarının derlendiği bağlantı paneli.
+- [IP-API](https://ip-api.com/) — IP adresinden konum/coğrafi bilgi sorgulama API'si ve aracı.
+- [IntelTechniques – Username Tools](https://inteltechniques.com/tools/Username.html) — Kullanıcı adı OSINT araştırma araçları listesi.
+- [WhatsMyName](https://whatsmyname.app) — Bir kullanıcı adının hangi platformlarda kayıtlı olduğunu tarayan OSINT aracı.
+- [Fingerprint.to](https://fingerprint.to) — Tarayıcı parmak izinizi (fingerprint) test etme aracı.
+- [ANY.RUN](https://app.any.run) — Şüpheli dosya ve URL'leri etkileşimli sandbox ortamında analiz eden zararlı yazılım analiz platformu.
+- [Arkime](https://github.com/arkime/arkime) — Büyük ölçekli paket yakalama, indeksleme ve arama sistemi (GitHub).
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) — MITRE ATT&CK'e eşlenmiş, tespit yeteneklerini test eden küçük saldırı testleri (GitHub).
+- [Chainsaw](https://github.com/WithSecureLabs/chainsaw) — Windows olay günlüklerinde hızlı tehdit avı ve adli analiz aracı (GitHub).
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat) — AWS'de kasıtlı zafiyetli ortamlar kuran, pentest eğitim aracı (GitHub).
+- [DetectionLab](https://github.com/clong/DetectionLab) — Tespit ve savunma denemeleri için hazır siber güvenlik laboratuvarı ortamı (GitHub).
+- [MITRE ATT&CK (STIX Data)](https://github.com/mitre-attack/attack-stix-data) — ATT&CK bilgi tabanının STIX formatındaki verisi (GitHub).
+- [MITRE Caldera](https://github.com/mitre/caldera) — Otomatik saldırgan simülasyonu (adversary emulation) platformu (GitHub).
+- [osquery](https://github.com/osquery/osquery) — İşletim sistemini SQL ile sorgulayan uç nokta izleme aracı (GitHub).
+- [Prowler](https://github.com/prowler-cloud/prowler) — AWS, Azure ve GCP için bulut güvenliği denetim aracı (GitHub).
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) — Çoklu bulut ortamları için güvenlik denetim aracı (GitHub).
+- [Security Onion](https://github.com/Security-Onion-Solutions/securityonion) — Ağ izleme, tehdit avı ve log yönetimi için Linux dağıtımı (GitHub).
+- [Semgrep](https://github.com/semgrep/semgrep) — Kaynak kodda statik analizle açık ve hata tarama aracı (GitHub).
+- [Sigma](https://github.com/SigmaHQ/sigma) — SIEM sistemlerinden bağımsız genel log tespit kuralı formatı (GitHub).
+- [Suricata](https://github.com/OISF/suricata) — Ağ IDS/IPS ve ağ güvenliği izleme motoru (GitHub).
+- [Trivy](https://github.com/aquasecurity/trivy) — Konteyner, kod ve altyapıda güvenlik açığı tarayıcısı (GitHub).
+- [Velociraptor](https://github.com/Velocidex/velociraptor) — Uç nokta görünürlüğü, adli analiz ve olay müdahale aracı (GitHub).
+- [Volatility 3](https://github.com/volatilityfoundation/volatility3) — Bellek (RAM) adli analiz çerçevesi (GitHub).
+- [Wazuh](https://github.com/wazuh/wazuh) — Açık kaynak XDR/SIEM güvenlik izleme platformu (GitHub).
+- [YARA](https://github.com/VirusTotal/yara) — Zararlı yazılımları kurallarla tanımlayıp sınıflandırma aracı (GitHub).
+- [Zeek](https://github.com/zeek/zeek) — Ağ trafiği analizi ve güvenlik izleme çerçevesi (GitHub).

@@ -1,0 +1,75 @@
+# Yapay Zeka Araçları (Genel)
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** yapay zeka, AI, chatbot, AI asistan, artificial intelligence tools, AI chatbot, machine learning, GPT alternatifi
+
+- [Layla AI](https://www.layla.ai) — AI destekli sanal asistan uygulaması.
+- [GPTExcel](https://gptexcel.com) — Excel için GPT destekli yardımcı araç.
+- [Ai Dream Interpreter](https://www.aidreaminterpreter.com) — Yapay zeka destekli rüya tabirleri aracı.
+- [Ai Dream Interpreter (alternatif)](https://aidreaminterpretation.com) — Yapay zeka destekli rüya tabirleri aracı.
+- [Vozo](https://www.vozo.ai) — Sesli mesajlaşma uygulaması.
+- [Travelgpt](https://www.travelgpt.com) — Seyahatle ilgili GPT destekli bilgi ve öneriler.
+- [ChatPDF](https://www.chatpdf.com) — PDF dosyalarını okuma ve analiz etme aracı.
+- [Hugging Face](https://huggingface.co) — AI ve makine öğrenimi modelleri platformu.
+- [OpenAI](https://www.openai.com) — Yapay zeka ve araştırma platformu.
+- [DeepMind](https://deepmind.com) — Yapay zeka araştırma şirketi.
+- [Fast.ai](https://www.fast.ai) — Makine öğrenimi ve yapay zeka eğitimi.
+- [Google AI](https://ai.google) — Google'ın yapay zeka araştırmaları ve araçları.
+- [TensorFlow](https://www.tensorflow.org) — Makine öğrenimi ve yapay zeka framework'ü.
+- [TensorFlow Hub](https://www.tensorflow.org/hub) — TensorFlow için hazır makine öğrenimi modelleri.
+- [PyTorch](https://pytorch.org) — Derin öğrenme ve yapay zeka framework'ü.
+- [Kaggle](https://www.kaggle.com) — Veri bilim yarışmaları ve veri setleri platformu.
+- [OpenCV](https://opencv.org) — Bilgisayarla görü için açık kaynaklı kütüphane.
+- [Eden AI](https://edenx.ai/) — Farklı yapay zeka API'lerini tek platformda birleştirir.
+- [DeepInfra](https://deepinfra.com) — Açık kaynaklı AI modellerini API üzerinden çalıştıran, kullanım başına ücretlendirilen sunucusuz çıkarım (inference) platformu.
+- [AssemblyAI](https://www.assemblyai.com/) — Yüksek doğrulukla konuşmayı metne çeviren (speech-to-text) AI API'si.
+- [Abacus AI](https://abacus.ai) — Tüm dil modellerini tek uygulamada birleştiren araç.
+- [Perplexity](https://www.perplexity.ai) — Yapay zeka destekli arama motoru.
+- [SciSpace Copilot](https://www.scispace.com) — Yapay zeka destekli araştırma asistanı.
+- [Paperpal](https://paperpal.com/) — Akademik yazım için AI destekli dilbilgisi, parafraz ve alıntı aracı.
+- [Consensus](https://consensus.app/) — 200 milyon+ akademik makaleyi tarayan AI araştırma asistanı.
+- [Scholarcy](https://www.scholarcy.com/) — Akademik makaleleri özetleyen ve flashcard'a çeviren AI aracı.
+- [Typewise](https://www.typewise.app/) — Müşteri hizmetleri ve satış ekipleri için AI destekli yazım/klavye aracı.
+- [Quickchat AI](https://www.quickchat.ai/) — Kodsuz özel AI asistan/chatbot oluşturma platformu.
+- [Kaizan](https://kaizan.ai/) — Müşteri ilişkileri ekipleri için AI destekli müşteri zekası platformu.
+- [Postwise](https://postwise.ai/) — AI destekli tweet ve thread yazma aracı.
+- [Tweet Hunter](https://tweethunter.io/) — X (Twitter) büyüme ve içerik yönetim platformu.
+- [Tweetmonk](https://tweetmonk.com/) — AI destekli X (Twitter) içerik zamanlama aracı.
+- [Hypefury](https://hypefury.com/) — X, LinkedIn, Instagram için otomasyon ve zamanlama aracı.
+- [Vondy](https://vondy.com/) — Metin, görsel ve chatbot üretebilen çok amaçlı AI uygulama platformu.
+- [eesel AI](https://www.eesel.ai/) — Yardım masası verileriyle öğrenen AI müşteri destek asistanı.
+- [Brain.fm](https://www.brain.fm/) — Odaklanma, dinlenme ve uyku için işlevsel müzik üreten AI aracı.
+- [Boomy](https://boomy.com/) — AI ile birkaç saniyede orijinal şarkı üreten platform.
+- [Alicent](https://alicent.ai/) — ChatGPT için içerik üretimini hızlandıran Chrome uzantısı.
+- [Compose AI](https://compose.ai/) — Otomatik metin tamamlama ve yazma Chrome uzantısı.
+- [Poised](https://www.poised.com/) — Toplantılarda gerçek zamanlı konuşma/iletişim koçluğu yapan AI aracı.
+- [Voila AI](https://www.getvoila.ai/) — Tarayıcıda her yerde kullanılabilen GPT destekli kişisel asistan.
+- [Wiseone](https://wiseone.io/) — Web okuma ve araştırmayı güçlendiren AI Chrome uzantısı.
+- [FinalScout](https://finalscout.com/) — LinkedIn üzerinden e-posta bulma ve kişiselleştirilmiş e-posta yazma aracı.
+- [ClipMaker](https://www.clipmaker.ai/) — YouTube videolarından AI ile kısa klipler üretip TikTok/Instagram'a planlayan araç.
+- [Steve.AI](https://www.steve.ai/) — Metinden animasyon/canlı çekim video üreten AI video aracı.
+- [Glasp](https://glasp.co/) — YouTube video özetleme ve web vurgulama Chrome uzantısı.
+- [TubeBuddy](https://www.tubebuddy.com/) — YouTube kanal yönetimi ve video optimizasyon araç seti.
+- [Simplified](https://simplified.com/) — Yazı, tasarım ve video üretimini bir araya getiren AI platformu.
+- [Bertha AI](https://bertha.ai/) — WordPress ve Chrome için AI içerik yazma asistanı.
+- [Tome](https://tome.app/) — Anlatı odaklı, AI destekli sunum/hikaye anlatma aracı.
+- [Beautiful.ai](https://www.beautiful.ai/) — Otomatik tasarım düzenlemesi yapan AI sunum aracı.
+- [ChatABC](https://chatabc.ai/) — Takım işbirliği ve prompt kütüphanesi içeren AI sohbet aracı.
+- [Akkio](https://www.akkio.com/) — Kodsuz makine öğrenmesi, tahminleme ve raporlama platformu.
+- [Lavender](https://www.lavender.ai/) — Satış e-postalarını puanlayan ve geliştiren AI e-posta koçu.
+- [Warmer.ai](https://www.warmer.ai/) — LinkedIn ve web verisiyle kişiselleştirilmiş soğuk e-posta açılışları üreten araç.
+- [Octane AI](https://www.octaneai.com/) — Shopify mağazaları için AI destekli ürün önerisi anketleri.
+- [Twain](https://www.usetwain.com/) — Satış e-postaları ve LinkedIn mesajları için AI yazım asistanı.
+- [Regie.ai](https://www.regie.ai/) — Çok kanallı satış dizileri üreten AI içerik/otomasyon platformu.
+- [Thumbly](https://thumbly.ai/) — AI ile YouTube küçük resmi (thumbnail) üretme aracı.
+- [DeepCode AI (Snyk)](https://snyk.io/platform/deepcode-ai/) — Eski Deepcode aracı; artık Snyk'in kod güvenliği özelliği olarak çalışıyor.
+- [Muzeek](https://muzeek.com/) — Canlı müzik endüstrisi için rezervasyon/booking yazılımı.
+- [ChatGPT](https://chat.openai.com) — OpenAI'ın genel amaçlı AI sohbet asistanı.
+- [Gemini](https://gemini.google.com) — Google'ın AI asistanı.
+- [Claude.ai](https://claude.ai) — Anthropic'in AI sohbet asistanı.
+- [Arena AI](https://arena.ai) — Yapay zeka modellerini karşılaştırma platformu.
+- [Manus AI](https://manus.im) — Otonom araştırma ve görev tamamlama ajanı.
+- [NotebookLM](https://notebooklm.google.com) — Belge yükleyip AI ile analiz/özet çıkarma aracı (Google).
+- [Napkin AI](https://napkin.ai) — Metni görsel diyagram ve infografiğe çeviren AI aracı.
+- [Obsidian](https://obsidian.md) — Bağlantılı not alma / ikinci beyin uygulaması.

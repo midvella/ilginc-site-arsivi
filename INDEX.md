@@ -1,0 +1,1282 @@
+# 🔎 Alfabetik Site İndeksi
+
+[← Ana dizine dön (README)](../README.md)
+
+Bu dosya, tüm kategorilerdeki **1187 linkin** tek bir alfabetik listesidir. Belirli bir site veya aracı arıyorsanız bu sayfada **Ctrl+F / Cmd+F** ile isim üzerinden arama yapabilir, doğrudan linke ulaşabilir veya hangi kategoride yer aldığını görebilirsiniz.
+
+> ⚠️ Bu indeks de [README'deki Sorumluluk Reddi ve Kullanım Şartları](../README.md#️-sorumluluk-reddi-ve-kullanım-şartları) kapsamındadır.
+
+---
+
+[#](#diger) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
+
+---
+
+
+## Diğer / Sayı ile Başlayan
+
+- **[100,000 Stars](https://stars.chromeexperiments.com)** — Galaksimizi keşfet. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[1001 Fonts](https://www.1001fonts.com)** — Ücretsiz font indirme sitesi. <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[10Web](https://10web.io)** — Yapay zeka destekli WordPress site oluşturma. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[123apps](https://123apps.com/tr)** — Ses, video ve PDF düzenleme araçları bütünü. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[2048](https://play2048.co/)** — Sayıları birleştirerek 2048'e ulaşma. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[21st.dev](https://21st.dev)** — AI destekli, hazır React/UI bileşen kütüphanesi ve üretim platformu. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[2D Game Art For Programmers](https://2dgameartforprogrammers.blogspot.com)** — Ücretsiz basit 2D sprite blogu. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[360 Cities](https://www.360cities.net)** — 360° şehir fotoğrafları. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[3D Aim Trainer](https://3daimtrainer.com)** — FPS oyunları için nişan alma pratiği yapılan eğitim aracı. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[3D Logo Lab](https://www.3dlogolab.io)** — 3D logo tasarım aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[3D SVG Design](https://3dsvg.design)** — 3D görünümlü SVG grafikler oluşturma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[3D Tuning](https://www.3dtuning.com/)** — Araçları 3D olarak özelleştirme/tuning simülasyonu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[3DExport](https://3dexport.com)** — Ücretsiz ve ücretli 3D model pazarı. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[3DModels.org](https://3dmodels.org)** — Print-ready, UV mapli, özelleştirilebilir model kütüphanesi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[3DOcean (Envato)](https://elements.envato.com/3d)** — Envato'nun 3D model aboneliği. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[3DSky](https://3dsky.org)** — Mobilya, dekor, iç mekan modelleri (3ds Max formatında). <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[3DTextures.me](https://3dtextures.me)** — Kayıtsız, kategorize edilmiş PBR doku sitesi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[3DTotal Forums](https://forums.3dtotal.com)** — 3D tasarım ve animasyon üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[3DXO](https://www.3dxo.com)** — Yüksek çözünürlüklü fotoğraf/doku arşivi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[4FNet](https://www.4fnet.org)** — Dosya/yazılım paylaşım forumu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[56k.rip](https://56k.rip/)** — 1996 dönemi Windows 95 ve 56K çevirmeli ağ (dial-up) internet deneyimini sesleriyle simüle eden nostaljik web projesi. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[8 Ball Pool](https://www.8ballpool.com/)** — Bilardo oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[90'lar Kids Games](https://90kids.com/games)** — 90'lar nostaljisiyle ücretsiz tarayıcı oyunları. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[99Sounds](https://99sounds.org)** — Müzisyenler için ücretsiz ses paketleri. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+
+## A
+
+- **[A Dark Room](https://adarkroom.doublespeakgames.com/)** — Metin tabanlı hayatta kalma/macera oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[A Soft Murmur](https://asoftmurmur.com)** — Kendi beyaz gürültü veya doğa seslerinizi yaratma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Abacus AI](https://abacus.ai)** — Tüm dil modellerini tek uygulamada birleştiren araç. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Aceternity UI](https://ui.aceternity.com/components)** — Hazır, animasyonlu React UI bileşenleri. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Acid Fonts](https://www.acidfonts.com)** — Ücretsiz font arşivi. <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[Adafruit Forums](https://forums.adafruit.com)** — Elektronik projeler ve donanım tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Adescargar](https://adescargar.online)** — İspanyolca oyun/yazılım indirme sitesi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Adobe Color](https://color.adobe.com)** — Renk paleti oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Adobe Firefly](https://firefly.adobe.com)** — Adobe'nin ticari kullanım için "içerik güvenli" lisanslı AI görsel/video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Adobe Podcast](https://podcast.adobe.com)** — Ses düzenleme/temizleme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Adobe XD](https://www.adobe.com/products/xd.html)** — UX/UI tasarım ve prototip araçları. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Agar.io](https://agar.io/)** — Küçük hücrelerle başlayıp büyüme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Age of War](https://www.ageofwar.io/)** — Çağlar boyunca savaş oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Agoodmovietowatch](https://www.agoodmovietowatch.com)** — İyi filmleri keşfetmek için öneri sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[AI Alignment Forum](https://www.alignmentforum.org)** — Yapay zeka güvenliği ve gelişimi. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[AI Chief](https://aichief.com)** — AI araçları dizini/rehberi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Ai Dream Interpreter](https://www.aidreaminterpreter.com)** — Yapay zeka destekli rüya tabirleri aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Ai Dream Interpreter (alternatif)](https://aidreaminterpretation.com)** — Yapay zeka destekli rüya tabirleri aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[AIBucket](https://www.aibucket.io)** — AI araçları keşif ve dizin platformu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[AIEnhancer](https://aienhancer.ai)** — Eski/bulanık fotoğrafları AI ile netleştirip yükselten ücretsiz araç. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[AirConsole](https://www.airconsole.com)** — Telefonu kumanda gibi kullanarak TV/bilgisayarda oynanan çoklu oyuncu oyun platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[AirPano](https://www.airpano.com)** — 360° hava fotoğrafları. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[AISaver](https://aisaver.io)** — AI ile yüz değiştirme (face swap), video üretme ve görsel iyileştirme araç seti. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[AISEO](https://aiseo.ai)** — SEO odaklı yazım aracı. <sub>· [Yazı Yazma ve İçerik Üretimi](kategoriler/02-yazi-yazma-ve-icerik-uretimi.md)</sub>
+- **[Akinator](https://en.akinator.com)** — Düşündüğünüz karakteri tahmin eden yapay zeka. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Akkio](https://www.akkio.com/)** — Kodsuz makine öğrenmesi, tahminleme ve raporlama platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Alicent](https://alicent.ai/)** — ChatGPT için içerik üretimini hızlandıran Chrome uzantısı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[All About Circuits Forum](https://forum.allaboutcircuits.com)** — Elektronik mühendisliği tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Alpha Coders Wallpapers](https://wall.alphacoders.com)** — Geniş duvar kağıdı koleksiyonu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[AlternativeTo](https://alternativeto.net)** — Yazılım/uygulama alternatifleri keşfetme platformu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[ambientCG](https://ambientcg.com)** — 2000+ CC0 PBR doku, HDRI ve model. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[AnandTech Forums](https://forums.anandtech.com)** — Bilgisayar donanımı ve teknolojisi üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Animated Knots](https://animatedknots.com)** — Adım adım animasyonlu düğüm bağlama rehberi. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[AnimeGANv2](https://github.com/TachibanaYushi/AnimeGANv2)** — Gerçek fotoğrafları animeye çevirme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Animejs](https://animejs.com)** — JavaScript animasyon kütüphanesi. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Animoto](https://animoto.com)** — Slayt ve video oluşturma aracı. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Anne Frank House](https://www.annefrank.org/en/museum/)** — Anne Frank'in evine sanal tur. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Anokolisa (itch.io)](https://anokolisa.itch.io)** — Popüler pixel art dungeon/RPG paketleri. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[ansimuz (itch.io)](https://ansimuz.itch.io)** — Sunnyland ve benzeri klasik pixel art platformer paketleri. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[AnTuTu Benchmark](https://www.antutu.com)** — Akıllı telefonlar için performans testleri ve karşılaştırmalar. <sub>· [Elektronik Ürün Performans / Karşılaştırma](kategoriler/28-elektronik-urun-performans-karsilastirma.md)</sub>
+- **[ANY.RUN](https://app.any.run)** — Şüpheli dosya ve URL'leri etkileşimli sandbox ortamında analiz eden zararlı yazılım analiz platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Anything World](https://anything.world)** — Otomatik animasyon ve rigleme platformu. <sub>· [Karakter Animasyonu & Rigging](kategoriler/37-karakter-animasyonu-rigging.md)</sub>
+- **[Apache Spark](https://spark.apache.org)** — Büyük veri işleme ve analiz platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[APOD](https://apod.nasa.gov)** — Her gün yeni bir astronomi fotoğrafı ve açıklaması (NASA). <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Appdoze](https://appdoze.net)** — Uygulama ve site keşif/dizin platformu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Arcade Space](https://www.arcadespace.org/home)** — Retro arcade oyunları koleksiyonu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Archibase Planet](https://archibase-planet.com)** — Mimari görselleştirme modelleri. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Archive.org – Web Arşivi](https://archive.org/web/)** — Tarihsel web sayfası arşivi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Archivinci](https://www.archivinci.com)** — Dijital tasarım ve mimari platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Arduino Forum](https://forum.arduino.cc)** — Arduino projeleri ve elektronik cihazlar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Arena AI](https://arena.ai)** — Yapay zeka modellerini karşılaştırma platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Arkime](https://github.com/arkime/arkime)** — Büyük ölçekli paket yakalama, indeksleme ve arama sistemi (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Armor Games](https://armorgames.com/)** — Flash ve HTML5 oyunlar. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Ars Technica](https://arstechnica.com)** — Teknolojik analiz ve haberler. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Ars Technica OpenForum](https://arstechnica.com/civis)** — Teknoloji ve bilim forumu. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Art of Manliness](https://www.artofmanliness.com)** — Erkekler için yaşam tarzı, beceri ve motivasyon kaynakları. <sub>· [Yemek Tarifleri ve Yaşam Tarzı](kategoriler/18-yemek-tarifleri-ve-yasam-tarzi.md)</sub>
+- **[Artflow](https://artflow.ai)** — Yapay zeka ile sanat eseri oluşturma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Artificial Intelligence Forum](https://www.artificialintelligenceforum.com)** — Yapay zeka uygulamaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[ArtStation](https://www.artstation.com)** — Dijital sanat ve 3D modelleme üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[arXiv](https://arxiv.org/)** — Fizik, matematik ve bilgisayar bilimleri için açık erişimli akademik makaleler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Asana](https://www.asana.com)** — Takım içi iş yönetimi ve proje takibi. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[ASAP Science (YouTube)](https://www.youtube.com/user/AsapSCIENCE)** — Bilim videoları içeren YouTube kanalı. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[Aseprite (araç)](https://www.aseprite.org)** — Ücretli ama endüstri standardı pixel art/animasyon aracı. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[AssemblyAI](https://www.assemblyai.com/)** — Yüksek doğrulukla konuşmayı metne çeviren (speech-to-text) AI API'si. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Atari Salon](http://www.atarisalon.com/)** — Atari salon oyunlarını oynayabileceğiniz site. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Atlas Obscura](https://www.atlasobscura.com)** — Dünyanın en ilginç yerleri. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Atlasfind](https://atlasfind.co)** — Konum/fotoğraf tabanlı keşif ve arama aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)** — MITRE ATT&CK'e eşlenmiş, tespit yeteneklerini test eden küçük saldırı testleri (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Ausar AI](https://ausar.ai)** — Çoklu yapay zeka modellerini tek çatı altında toplayan video, görsel ve ses üretim platformu. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Autodesk](https://www.autodesk.com)** — 3D tasarım yazılımları (AutoCAD, Revit, vb.). <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Autodraw](https://www.autodraw.com)** — Google'ın yapay zekasıyla çizim yapma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Avatto](https://www.avatto.com)** — Mühendislik konularında sınavlar. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[AVS Forum](https://www.avsforum.com)** — Ev sinema sistemleri ve multimedya. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Awesome-OSINT (GitHub)](https://github.com/jivoi/awesome-osint)** — Araştırma ve siber güvenlik için açık kaynak liste. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[AWS](https://aws.amazon.com)** — Amazon Web Services, bulut bilişim hizmetleri. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[AWS Lambda](https://aws.amazon.com/lambda/)** — Sunucusuz işlem platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[AWS Skill Builder](https://skillbuilder.aws)** — AWS sertifikaları ve bulut hizmetleri üzerine kaynaklar. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+
+## B
+
+- **[Backflip AI](https://www.backflip.ai)** — Fikirden 3D baskıya AI destekli tasarım aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Banabikurye (BBK)](https://banabikurye.com)** — Türkiye genelinde bireysel/kurumsal kurye ve teslimat uygulaması. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[BASE](https://www.base-search.net/)** — 240 milyondan fazla akademik kaynağa erişim sağlayan motor. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Basecamp](https://basecamp.com)** — Proje yönetimi ve takım işbirliği yazılımı. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Basketball Stars](https://www.basketballstars.io/)** — 2D basketbol oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Beadifier](https://beadifier.eremes.xyz)** — Fotoğrafı boncuk (bead/Perler) desenine çeviren açık kaynak araç. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Beautiful.ai](https://www.beautiful.ai/)** — Otomatik tasarım düzenlemesi yapan AI sunum aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Bensound](https://www.bensound.com)** — Royalty-free müzik kütüphanesi. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Bertha AI](https://bertha.ai/)** — WordPress ve Chrome için AI içerik yazma asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[BGJar](https://bgjar.com)** — SVG arka planlar üretme aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Big Data Forum](https://www.bigdataforum.com)** — Büyük veri ve analizler. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[BigSoundBank](https://bigsoundbank.com)** — Ticari/kişisel kullanım için ücretsiz ses kütüphanesi. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[BinaryEdge](https://www.binaryedge.io/)** — Tehdit istihbaratı verisi platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Bing Image Creator](https://www.bing.com/images/create)** — Yapay zeka ile görsel üretimi. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Bingebuster](https://bingebuster.net)** — Dizi/film izleme önerisi ve takip platformu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Blackseaai](https://blackseaai.com)** — İçeriği net doğrulanamayan bir site; adından AI ile ilgili olabilir. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[BleepingComputer](https://www.bleepingcomputer.com/forums)** — Bilgisayar güvenliği ve yazılım sorunları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Blend Swap](https://www.blendswap.com)** — Blender kullanıcılarının paylaştığı ücretsiz .blend dosyaları. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Blender](https://www.blender.org)** — 3D modelleme ve animasyon yazılımı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Blender Artists](https://blenderartists.org)** — Blender yazılımı ve 3D modelleme forumu. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[BlenderKit](https://www.blenderkit.com)** — Blender içinden erişilen materyal/model/HDRI eklentisi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Blizzard Entertainment Forums](https://us.battle.net/forums)** — Blizzard oyunları hakkında tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Blob Opera](https://artsandculture.google.com/experiment/blob-opera)** — Şarkı söyleyen blob karakterleriyle oynama. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Blobmaker](https://blobmaker.app)** — Rastgele şekiller oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Bloons TD](https://bloonstd6.com/)** — Kule savunma oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Blossom Carousel (GitHub)](https://github.com/jespervos/blossom-carousel)** — Açık kaynak carousel/slider kütüphanesi. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Board Game Arena](https://boardgamearena.com)** — Çevrimiçi masaüstü/kutu oyunları oynama platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[boat.ocks.org](http://boat.ocks.org)** — Algoritmaların görsel simülasyonları için araç. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Bolt.new](https://bolt.new)** — Kod bilmeden uygulama geliştirme ve deploy etme platformu. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Boomy](https://boomy.com/)** — AI ile birkaç saniyede orijinal şarkı üreten platform. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Bored Button](https://www.boredbutton.com)** — Can sıkıntısını geçirecek rastgele oyunlar. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Bored Panda](https://www.boredpanda.com)** — İlginç haberler ve yaratıcı içerikler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Bouncy Balls](https://bouncyballs.org)** — Ses seviyesine göre zıplayan toplar. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Box](https://www.box.com)** — Bulut tabanlı dosya depolama ve işbirliği. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Brain Pickings](https://www.brainpickings.org)** — Sanat, bilim ve edebiyat üzerine yazılar. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[Brain.fm](https://www.brain.fm/)** — Odaklanma, dinlenme ve uyku için işlevsel müzik üreten AI aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Breach Forums](https://breachforums.net)** — Veri sızıntıları ve siber güvenlik konuları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Britannica](https://www.britannica.com/)** — Akademik kaynak olarak kabul edilen ansiklopedi. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Builditapp](https://builditapp.com)** — Kodsuz uygulama/arayüz oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Business Insider](https://www.businessinsider.com)** — İş dünyası, girişimcilik ve teknoloji üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Buzzfeed](https://www.buzzfeed.com)** — Eğlenceli testler ve içerikler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+
+## C
+
+- **[C++ Forum](https://www.cplusplus.com/forum)** — C++ programlama diline dair tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[CalculatorSoup](https://www.calculatorsoup.com)** — Çeşitli hesaplama araçları (matematik, fizik vb.). <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[Calligraphr](https://calligraphr.com/en/)** — Kendi el yazınızdan özel font oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Camerons World](http://www.cameronsworld.net)** — 90'ların internet arayüzünü keşfet. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Canva](https://www.canva.com)** — Kolayca grafik tasarım yapma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Captions](https://www.captions.ai)** — Otomatik altyazı ve AI dudak senkronizasyonu odaklı video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Cartoonify](https://www.cartoonify.de)** — Fotoğrafları karikatüre çeviren AI aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[ccMixter](https://ccmixter.org)** — Creative Commons remix ve müzik topluluğu. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Censys](https://censys.io/)** — İnternet varlık keşfi platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[CERN Microcosm](https://microcosm.web.cern.ch)** — CERN ve parçacık fiziği hakkında interaktif içerikler. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[CGBookcase](https://www.cgbookcase.com)** — Gerçekçi PBR doku ve model kütüphanesi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[CGSociety](https://forums.cgsociety.org)** — 3D sanat ve animasyon tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[CGTrader](https://www.cgtrader.com)** — 150.000+ ücretsiz model içeren, rigli karakterlerde güçlü pazar yeri. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Chainsaw](https://github.com/WithSecureLabs/chainsaw)** — Windows olay günlüklerinde hızlı tehdit avı ve adli analiz aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[ChatABC](https://chatabc.ai/)** — Takım işbirliği ve prompt kütüphanesi içeren AI sohbet aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[ChatGPT](https://chat.openai.com)** — OpenAI'ın genel amaçlı AI sohbet asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[ChatPDF](https://www.chatpdf.com)** — PDF dosyalarını okuma ve analiz etme aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Chocofur Free](https://chocofur.com/collection/free)** — Ticari model mağazasının ücretsiz bölümü. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Chosic](https://www.chosic.com)** — Royalty-free müzik ve ses efekti sitesi. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Chromelab Experiments](https://chromeexperiments.com)** — Google'ın bilim ve sanat deneyleri. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Chronas](https://chronas.org/)** — Tarihi olayları, savaşları ve nüfus değişimlerini gösteren interaktif tarih haritası. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Cineby](https://www.cineby.gd)** — Film/dizi izleme sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Cinegram](https://cinegram.net/home)** — Film/dizi izleme sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Cinehd](https://cinehd.cc)** — Film/dizi izleme sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[CISSP Forums](https://www.cissp.com/forum)** — CISSP tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[City Car Driving](https://www.citycardriving.com/)** — Araba sürme simülatörü. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[CivClicker](https://www.neal.fun/civclicker)** — Basit bir medeniyet kurma oyunu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Clara.io](https://clara.io)** — Tarayıcı tabanlı 3D modelleme ve model kütüphanesi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Classic Game Zone](https://classicgamezone.com)** — Ücretsiz klasik/retro tarayıcı oyunları. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Classic Reload](https://www.classicreload.com/)** — Klasik PC oyunları koleksiyonu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Claude Code](https://claude.com/product/claude-code)** — Otonom kod yazan AI ajanı. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Claude.ai](https://claude.ai)** — Anthropic'in AI sohbet asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Cleanup.pictures](https://www.cleanup.pictures)** — Görsellerden istenmeyen objeleri kaldırma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Clip.cafe](https://www.clip.cafe)** — Film ve dizi repliklerini keşfetme platformu. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Clipchamp](https://clipchamp.com)** — Microsoft'un AI metin-konuşma ve otomatik altyazı özellikli ücretsiz video düzenleyicisi. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[ClipMaker](https://www.clipmaker.ai/)** — YouTube videolarından AI ile kısa klipler üretip TikTok/Instagram'a planlayan araç. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Clipscutter](https://clipscutter.com)** — Video klip kesme/düzenleme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Clone UI](https://clone-ui.design/)** — Popüler uygulama/web sitesi arayüzü referansları. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Clou.tr](https://clou.tr)** — Türkiye merkezli alan adı/hosting hizmeti sağlayıcısı. <sub>· [Alan Adı (Domain) Hizmetleri](kategoriler/25-alan-adi-domain-hizmetleri.md)</sub>
+- **[Cloudflare](https://www.cloudflare.com)** — İnternet güvenliği ve içerik dağıtım hizmetleri. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Cloudflare Register](https://www.cloudflare.com/products/registrar/)** — Cloudflare'in alan adı kayıt hizmeti. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)** — AWS'de kasıtlı zafiyetli ortamlar kuran, pentest eğitim aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[CMU Graphics Lab Motion Capture Database](http://mocap.cs.cmu.edu)** — Akademik amaçlı ücretsiz motion capture verisi. <sub>· [Karakter Animasyonu & Rigging](kategoriler/37-karakter-animasyonu-rigging.md)</sub>
+- **[CNET](https://www.cnet.com)** — Teknolojik ürün incelemeleri ve haberler. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[CNET Forums](https://www.cnet.com/forums)** — Teknoloji ürünleri ve yazılımlarına dair görüşler. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Codecademy](https://www.codecademy.com)** — Programlama dillerini öğrenme platformu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[CodeChef](https://www.codechef.com)** — Global programlama yarışmaları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[CodeCombat](https://codecombat.com/)** — Oyun tabanlı programlama eğitim platformu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Codenames](https://www.horsepaste.com/)** — Kelime bağlantısı kurma oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[CodePen](https://codepen.io)** — Web geliştirme için interaktif kod paylaşımı. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Coderbyte](https://www.coderbyte.com)** — Çeşitli algoritmalarla problem çözme becerisi geliştiren platform. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[CodeSandbox](https://codesandbox.io)** — Web tabanlı kodlama ortamı. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[CodinGame](https://www.codingame.com/)** — Programlama becerilerini oyunlarla geliştirme platformu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Color Hunt](https://colorhunt.co)** — Renk paletleri keşfetme platformu. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Coloringbook AI](https://www.coloringbook.ai)** — AI ile boyama kitabı sayfaları üretme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Colourise](https://colourise.com)** — Siyah-beyaz fotoğrafları AI ile renklendirme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Comics Maker](https://www.comicsmaker.com)** — Kendi çizgi romanınızı yaratabileceğiniz platform. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Compose AI](https://compose.ai/)** — Otomatik metin tamamlama ve yazma Chrome uzantısı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Compressor.io](https://compressor.io)** — Kaliteli görsel sıkıştırma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[ComputerHope Forums](https://www.computerhope.com/forum)** — Bilgisayar sorunları ve yardım. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Consensus](https://consensus.app/)** — 200 milyon+ akademik makaleyi tarayan AI araştırma asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Construct Store](https://www.construct.net/en/game-assets)** — Construct motoru için asset mağazası. <sub>· [Oyun Motoru Pazar Yerleri](kategoriler/38-oyun-motoru-pazar-yerleri.md)</sub>
+- **[Context.dev](https://www.context.dev)** — Yazılım geliştiriciler için doküman/context arama aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Convertio](https://convertio.co/tr)** — Dosya formatı dönüştürme aracı (300+ format). <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)** — Çılgın tıklama oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Cool Math 4 Kids](https://www.coolmath4kids.com)** — Eğlenceli matematik oyunları. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[Coolors](https://coolors.co)** — Renk paletleri oluşturma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[CoProxy](https://coproxy.io/free-web-proxy/)** — Ücretsiz web proxy hizmeti. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Copy.sh Brainfuck Decoder](https://copy.sh/brainfuck/)** — Brainfuck kod çözücü. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Copychar](https://copychar.cc)** — Özel karakter ve sembolleri kopyalama aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[CORE](https://core.ac.uk/)** — Açık erişimli akademik makaleler ve tezler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Coursera – AI/ML](https://coursera.org)** — Yapay zeka ve makine öğrenmesi kursları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Coverr](https://coverr.co)** — Ücretsiz stok videolar. <sub>· [Stok Görsel, Video ve Ses Kaynakları](kategoriler/07-stok-gorsel-video-ve-ses-kaynaklari.md)</sub>
+- **[Cppbuzz](https://www.cppbuzz.com)** — C++ odaklı çoktan seçmeli sorular. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Cracked](https://www.cracked.com)** — Mizahi makaleler ve eğlenceli listeler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[CraftPix](https://craftpix.net)** — GUI, tileset, karakter sprite'ları içeren mağaza (ücretsiz bölümü mevcut). <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[CraftPix Freebies](https://craftpix.net/freebies)** — CraftPix'in tamamen ücretsiz asset bölümü. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Crazy Games](https://www.crazygames.com/)** — Güncel tarayıcı oyunları. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Creati.ai](https://creati.ai)** — AI araçları dizini ve rehberi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Creatify AI](https://creatify.ai)** — Ürün linkinden otomatik sosyal medya reklam videosu üreten araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Creatopy](https://www.creatopy.com)** — Dijital reklam tasarım platformu. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[CriminalIP](https://www.criminalip.io/)** — Varlık envanteri ve risk değerlendirmesi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[crt.sh](https://crt.sh/)** — Sertifika şeffaflığı arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Crunchbase](https://www.crunchbase.com)** — Girişimler ve şirketler hakkında bilgi. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Cryptozombies](https://cryptozombies.com)** — Blockchain ve akıllı sözleşmeleri öğrenmek için oyun. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[CSM AI](https://www.csm.ai)** — Görüntüden 3D asset üreten platform. <sub>· [AI Destekli 3D Model Üretimi](kategoriler/31-ai-destekli-3d-model-uretimi.md)</sub>
+- **[CSS Diner](https://flukeout.github.io/)** — CSS seçicilerini eğlenceli bir oyunla öğrenme. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[CSS-Tricks](https://css-tricks.com)** — CSS ve web tasarımı hakkında bilgiler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[CTFLearn](https://ctflearn.com/)** — CTF yarışmaları ile siber güvenlik becerilerini geliştirme. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Cube Escape](https://www.rustylake.com/apps/cube-escape/)** — Macera bulmaca oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Cults3D](https://cults3d.com)** — 3D baskı ve tasarım modelleri pazarı. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Cup Nooble (itch.io)](https://cupnooble.itch.io)** — Sevimli pixel art tileset ve karakter paketleri. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[CurseForge – Laser Eyes (Minecraft Mod)](https://www.curseforge.com/minecraft/mc-mods/laser-eyes)** — Minecraft için mod indirme sayfası. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[CurseForge – Viltrumite (Minecraft Mod)](https://www.curseforge.com/minecraft/mc-mods/viltrumite)** — Minecraft için mod indirme sayfası. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Cursor](https://cursor.com)** — AI destekli kod editörü. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Cursors.io](https://cursors.io)** — Fare imleciyle oynanan bir bulmaca. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Cutout.Pro](https://www.cutout.pro)** — AI arka plan kaldırma ve görsel/video geliştirme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+
+## D
+
+- **[D-ID](https://www.d-id.com)** — AI ile yüz animasyonu oluşturma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[DaFont](https://www.dafont.com)** — Geniş, kategorize edilmiş ücretsiz font arşivi (lisans değişken). <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[Dante AI](https://dante-ai.com)** — Chatbot oluşturma platformu. <sub>· [Chatbot, Verimlilik ve Toplantı Araçları (AI)](kategoriler/05-chatbot-verimlilik-ve-toplanti-araclari-ai.md)</sub>
+- **[Darebee](https://darebee.com)** — Ücretsiz egzersiz ve fitness programları arşivi. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Data Science Central](https://www.datasciencecentral.com)** — Veri bilimi ve analitik forumu. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Data.gov](https://www.data.gov/)** — ABD hükümetinin açık veri platformu. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Databricks](https://databricks.com)** — Büyük veri ve AI platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[DataCamp Community](https://www.datacamp.com/community)** — Veri bilimi ve makine öğrenimi tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[David Rumsey Map Collection](https://www.davidrumsey.com)** — 150 bin tarihi harita arşivi. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Deadshot.io](https://deadshot.io)** — Tarayıcıda oynanan çok oyunculu nişancı (shooter) oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Deep Dream Generator](https://deepdreamgenerator.com)** — AI ile sanatsal görseller üretme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Deep Look](https://www.kqed.org/science/deep-look)** — Mikro dünyayı keşfet. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Deep Web Nest – Games](https://deepwebnest.com/games.html)** — Tarayıcı tabanlı ücretsiz oyunlar koleksiyonu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[DeepCode AI (Snyk)](https://snyk.io/platform/deepcode-ai/)** — Eski Deepcode aracı; artık Snyk'in kod güvenliği özelliği olarak çalışıyor. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[DeepInfra](https://deepinfra.com)** — Açık kaynaklı AI modellerini API üzerinden çalıştıran, kullanım başına ücretlendirilen sunucusuz çıkarım (inference) platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[DeepL](https://www.deepl.com)** — Yüksek kaliteli AI çeviri aracı. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[DeepMind](https://deepmind.com)** — Yapay zeka araştırma şirketi. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Deevid AI](https://deevid.ai)** — Tek tıkla fotoğrafı videoya dönüştüren basit image-to-video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Defend the Web](https://defendtheweb.net/)** — Web güvenliği ve etik hackerlık öğrenme sitesi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Defold Asset Portal](https://www.defold.com/assets)** — Defold motoru asset kütüphanesi. <sub>· [Oyun Motoru Pazar Yerleri](kategoriler/38-oyun-motoru-pazar-yerleri.md)</sub>
+- **[Dehashed](https://www.dehashed.com/)** — Sızdırılmış kimlik bilgileri arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Demus](https://demus.app)** — Ücretsiz müzik keşfi ve kişisel çalma listesi oluşturma uygulaması. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Deno](https://deno.land/)** — Güvenli ve modern JavaScript/TypeScript çalışma zamanı. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Descript](https://www.descript.com)** — Videoyu metin gibi düzenleyen (cümle silince klip de kesilen) transkripsiyon/prodüksiyon aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Designspiration](https://www.designspiration.com)** — Tasarım ve grafik ilham kaynağı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Desktop Hut](https://www.desktophut.com)** — Ücretsiz masaüstü/tarayıcı oyunları. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[DetectionLab](https://github.com/clong/DetectionLab)** — Tespit ve savunma denemeleri için hazır siber güvenlik laboratuvarı ortamı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[DeviantArt](https://www.deviantart.com)** — Sanat ve dijital tasarım tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Diep.io](https://diep.io/)** — Tank savaş oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Digital Public Library of America](https://dp.la/)** — Dijital kütüphane koleksiyonları. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Digital Trends](https://www.digitaltrends.com)** — Teknoloji ve tüketici elektroniği haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[DigitalOcean](https://www.digitalocean.com)** — Bulut tabanlı sunucu ve hosting hizmetleri. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[DigitalPoint](https://forums.digitalpoint.com)** — SEO, dijital pazarlama ve web geliştirme. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[DigitalSpy Forums](https://forums.digitalspy.com)** — Dijital medya ve teknoloji tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Discord](https://www.discord.com)** — Sesli ve yazılı iletişim için sosyal platform. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Distrosea](https://distrosea.com)** — Linux dağıtımlarını tarayıcıda test etme aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[DNSDB](https://www.dnsdb.info/)** — Tarihsel DNS verisi araması. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[DNSDumpster](https://dnsdumpster.com/)** — DNS araştırma aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Docker](https://www.docker.com)** — Konteynerleştirme ve DevOps araçları. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Docker Curriculum](https://docker-curriculum.com)** — Docker'ı öğrenmek için kapsamlı bir rehber. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Dollar Street](https://www.gapminder.org/dollar-street)** — Farklı gelir seviyelerindeki ailelerin yaşamlarını karşılaştırma sitesi. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[DomainNameAPI](https://www.domainnameapi.com/)** — Alan adı kayıt ve yönetim hizmeti. <sub>· [Alan Adı (Domain) Hizmetleri](kategoriler/25-alan-adi-domain-hizmetleri.md)</sub>
+- **[DomoAI](https://domoai.app)** — Video-to-video stil transferinde (anime, gerçekçi) güçlü AI aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Doodle Addicts](https://www.doodleaddicts.com)** — Sanatçı topluluğu ve günlük çizim yarışmaları. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Doodle Ipsum](https://doodleipsum.com)** — Rastgele çizimler oluşturan Lorem Ipsum alternatifi. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Dora](https://www.dora.run/)** — Yazılım ekiplerinin performansını izleyen bir platform. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Dork Search](https://www.dorksearch.com/)** — Google dorking arama aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Downdetector](https://downdetector.com/)** — Web sitesi ve servislerin çökme/kesinti durumunu takip etme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Draw a Stickman](https://www.drawastickman.com)** — Çizimlerinize hayat veren bir oyun. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Drawasaurus](https://www.drawasaurus.org/)** — Çizim tabanlı kelime oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Dream Machine](https://lumalabs.ai)** — AI destekli 3D modelleme / video (Luma). <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Dreamteller](https://dreamteller.co/)** — Rüyanızı yazıp bilinçaltı yorumu alma sitesi. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Dribble Game](https://dribbblegame.com/)** — Futbolcu tahmin oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Drift Hunters](https://drifthunters.io/)** — Drift yaparak puan kazanma. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[DrivenListen](https://drivenlisten.com)** — Bir şehir seçip o şehrin radyosunu dinlerken dash-cam sürüş videosu izleme deneyimi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Dropbox](https://www.dropbox.com)** — Bulut depolama ve dosya paylaşımı platformu. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Durable](https://durable.co)** — Yapay zeka ile hızlı website oluşturma aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[DXOMARK](https://www.dxomark.com)** — Elektronik cihazların performans değerlendirme sitesi. <sub>· [Elektronik Ürün Performans / Karşılaştırma](kategoriler/28-elektronik-urun-performans-karsilastirma.md)</sub>
+- **[Dynadot](https://www.dynadot.com)** — Alan adı kayıt hizmeti. <sub>· [Alan Adı (Domain) Hizmetleri](kategoriler/25-alan-adi-domain-hizmetleri.md)</sub>
+
+## E
+
+- **[EA Forums](https://answers.ea.com)** — EA oyunları hakkında sorunlar ve çözümler. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[EarthCam](https://www.earthcam.com)** — Dünyanın farklı yerlerinden canlı kameralar. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Easy Edit](https://www.easyedit.io)** — Basit online görsel düzenleme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Eat This Much](https://www.eatthismuch.com)** — Otomatik beslenme planı ve öğün listesi oluşturma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Eden AI](https://edenx.ai/)** — Farklı yapay zeka API'lerini tek platformda birleştirir. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[edX](https://www.edx.org)** — Üniversitelerden online kurslar ve sertifikalar. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Eel Slap](https://www.eelslap.com)** — Fareyle bir adamı yılan balığıyla tokatlama. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[eesel AI](https://www.eesel.ai/)** — Yardım masası verileriyle öğrenen AI müşteri destek asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Effect.app](https://effect.app)** — Uygulama/hizmet keşif ve dizin platformu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Effekseer](https://effekseer.github.io)** — Ücretsiz, açık kaynak 2D/3D efekt (VFX) editörü. <sub>· [Araçlar (Asset Üretimi/Düzenleme için)](kategoriler/39-araclar-asset-uretimi-duzenleme-icin.md)</sub>
+- **[Eightify](https://eightify.app)** — YouTube video özetleme aracı. <sub>· [Chatbot, Verimlilik ve Toplantı Araçları (AI)](kategoriler/05-chatbot-verimlilik-ve-toplanti-araclari-ai.md)</sub>
+- **[Elai.io](https://elai.io)** — Metin, URL veya PowerPoint dosyalarını çok dilli avatar videosuna çeviren araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Electronics Point](https://www.electronicspoint.com)** — Elektronik devreler ve projeler üzerine forum. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Electude Simülatörü](https://simulator.electude.com/simulator)** — Otomotiv/mekanik eğitimi için interaktif simülasyon aracı. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Elevator Saga](https://yourcodeclass.com/elevator-saga)** — JavaScript ile asansör kontrolü simülasyonu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[ElevenLabs](https://elevenlabs.io)** — AI seslendirme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Elthen's Pixel Art Shop (itch.io)](https://elthen.itch.io)** — Popüler pixel art karakter/canavar sprite'ları. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Emupedia](https://emupedia.net/beta/emous)** — Emülatör tabanlı retro oyun platformu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Encyclopedia.com](https://www.encyclopedia.com/)** — Farklı konular hakkında ansiklopedik bilgiler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Engadget](https://www.engadget.com)** — Teknolojik ürün incelemeleri ve haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Epic Games](https://www.epicgames.com)** — Oyun geliştirme ve dağıtım platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Escape Room Puzzles](https://www.escaperoom.com)** — Online kaçış odaları. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Escape Simulator](https://escapesimulator.com/)** — Bulmaca tabanlı kaçış oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Europe PMC](https://europepmc.org/)** — Biyomedikal araştırmalar için akademik kaynak. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Europeana](https://www.europeana.eu/)** — Avrupa kültürel miras veritabanı. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Ev.io](https://ev.io/)** — Bilim kurgu temalı FPS oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Evernote](https://www.evernote.com)** — Not alma ve düzenleme aracı. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Everygen](https://everygen.ai)** — AI ile YouTube Shorts, reklam ve dikey video üretme platformu (eski adıyla Viewmax). <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Examveda](https://www.examveda.com)** — Teknik sınav soruları ve cevapları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Exercism](https://exercism.io)** — Kodlama alıştırmaları ve çözüm önerileri. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Exercism](https://exercism.org)** — Kodlama alıştırmaları platformu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Exploding Kittens](https://explodingkittens.com)** — Eğlenceli kart oyunu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Exploit-DB](https://www.exploit-db.com/)** — Exploit ve güvenlik açığı arşivi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Explore.org](https://explore.org)** — Canlı doğa ve hayvan kameraları. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Ezgif](https://ezgif.com)** — GIF düzenleme ve dönüştürme aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[EZRemove AI](https://ezremove.ai)** — AI ile görsellerden nesne silme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+
+## F
+
+- **[Facecheck](https://facecheck.id/tr)** — Yüz tanıma ile sosyal medya hesap analizi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[FactSlides](https://www.factslides.com)** — İlginç ve şaşırtıcı bilgiler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Fake Image Detector](https://www.fakeimagedetector.com)** — Sahte görselleri tespit etme aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[FakeDetail](https://fakedetail.com)** — Sahte kimlik bilgisi, WhatsApp/sosyal medya sohbeti üreten şaka (prank) aracı. Phishing/spam ile bağlantılı olarak işaretlenmiş, dikkatli kullanılmalı. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Fakeyou.com](https://fakeyou.com)** — Yapay zeka ile ses klonlama ve metin okuma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Falling Falling](https://fallingfalling.com)** — Ekrandaki düşen renkli daireleri izleme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Fast.ai](https://www.fast.ai)** — Makine öğrenimi ve yapay zeka eğitimi. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Figma](https://www.figma.com)** — UI/UX tasarım ve prototipleme aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[FinalScout](https://finalscout.com/)** — LinkedIn üzerinden e-posta bulma ve kişiselleştirilmiş e-posta yazma aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Find the Invisible Cow](https://findtheinvisiblecow.com)** — Sesi takip ederek görünmez ineği bulma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Fingerprint.to](https://fingerprint.to)** — Tarayıcı parmak izinizi (fingerprint) test etme aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Firebase](https://firebase.google.com)** — Google'ın mobil ve web uygulama geliştirme platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Firebase Realtime Database](https://firebase.google.com/products/realtime-database)** — Gerçek zamanlı veritabanı hizmeti. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[FitGirl Repacks](https://fitgirl-repacks.site)** — Sıkıştırılmış/kırılmış (cracked) PC oyun "repack"leri paylaşan ünlü bir site. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Fiverr](https://www.fiverr.com)** — İlginç hizmetler keşfetme / freelance hizmet platformu. <sub>· [Freelance ve Dijital Hizmetler](kategoriler/26-freelance-ve-dijital-hizmetler.md)</sub>
+- **[Flash Museum](https://flashmuseum.org)** — Eski Flash oyunlarının arşivlendiği müze. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Flash.co](https://flash.co/)** — Klasik Flash oyunlarını tarayıcıda oynatma platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Flaticon](https://www.flaticon.com)** — Ücretsiz ve premium ikonlar. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[FlexClip](https://www.flexclip.com)** — Video oluşturma ve düzenleme. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Flicker Gallery](https://flicker.laurie.fyi/gallery)** — Deneysel/yaratıcı web sanatı galerisi. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Flightlist](https://www.flightlist.com)** — Uçuş listeleri ve fiyat karşılaştırması. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[Flightradar24](https://www.flightradar24.com)** — Şu an gökyüzündeki uçakları canlı takip. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Fliki](https://fliki.ai)** — Birden fazla video modelini tek çalışma alanında birleştiren, kredi kartsız ücretsiz plan sunan araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Flowbite](https://flowbite.com)** — Web bileşen kütüphanesi. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Flutlab.io](https://flutlab.io/)** — Flutter tabanlı mobil uygulamalar için çevrimiçi IDE. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Flutter Templates Widgets](https://www.fluttertemplates.dev/widgets)** — Flutter geliştiricileri için widget örnekleri. <sub>· [Freelance ve Dijital Hizmetler](kategoriler/26-freelance-ve-dijital-hizmetler.md)</sub>
+- **[FMyLife](https://www.fmylife.com)** — Komik ve talihsiz hayat hikayeleri. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Foddy.net](https://foddy.net)** — Zorlayıcı ve eğlenceli oyunlar. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Fofa](https://www.fofa.info/)** — Siber varlık haritalama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Font Library](https://fontlibrary.org)** — Özgür lisanslı font arşivi. <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[Font Squirrel](https://www.fontsquirrel.com)** — Ticari kullanıma uygun ücretsiz fontlar. <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[FontPair](https://fontpair.co)** — Yazı tipi kombinasyonları önerileri. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Fontspace](https://www.fontspace.com)** — Ücretsiz ve ücretli font topluluğu. <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[Forge of Empires](https://www.forgeofempires.com/)** — Şehir kurma ve savaş oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Formia](https://formia.so)** — AI destekli form/tasarım oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[FotoFast](https://www.fotofast.ai)** — Hızlı AI destekli fotoğraf iyileştirme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Fount](https://fount.arts.ac.uk)** — Web sitelerindeki fontları tespit etme aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Framed](https://framed.wtf/)** — Film sahnesine bakarak filmi tahmin etme. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Freaking News](https://www.freakingnews.com)** — Photoshop yarışmaları ve komik fotoğraf düzenlemeleri. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Free Music Archive](https://freemusicarchive.org)** — Geniş, karışık lisanslı müzik arşivi. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Free Pixel Art Icons (itch.io)](https://itch.io/game-assets/free/tag-icons)** — Ücretsiz ikon etiketli asset koleksiyonu. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Free Stock Music](https://www.free-stock-music.com)** — Ücretsiz stok müzik arşivi. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Free-for.dev](https://free-for.dev)** — Geliştiriciler için ücretsiz katmanlı servisler listesi. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Free3D](https://free3d.com)** — Araç ve bitki modellerinde zengin ücretsiz koleksiyon. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Free3DBase](https://free3dbase.com)** — Ücretsiz 3D modeller arşivi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[freeCodeCamp](https://www.freecodecamp.org)** — Ücretsiz yazılım geliştirme kursları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Freesfx](https://www.freesfx.co.uk)** — Ücretsiz ses efekti arşivi. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Freesound](https://freesound.org)** — 700.000+ ses efekti, Creative Commons lisanslı en büyük arşiv. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Froala](https://froala.com)** — WYSIWYG editör aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Fstoppers Forum](https://fstoppers.com)** — Fotoğrafçılık, video prodüksiyon ve teknik tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[FullHunt](https://fullhunt.io/)** — Saldırı yüzeyi keşfi platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Futurepedia](https://www.futurepedia.io)** — AI araçları keşif ve dizin platformu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+
+## G
+
+- **[Game Art 2D](https://www.gameart2d.com)** — Ücretsiz/ücretli 2D karakter ve tileset paketleri. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Game-Icons.net](https://game-icons.net)** — 4000+ ücretsiz, özelleştirilebilir SVG oyun ikonu. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[GameBounty](https://gamebounty.world)** — Oyun ödülleri/etkinlik takip platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[GameDev Market](https://www.gamedevmarket.net)** — El yapımı 2D/3D/GUI/ses asset pazarı. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[GameDev.net Forums](https://www.gamedev.net/forums)** — Oyun geliştirme tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[GameFAQs Forums](https://www.gamefaqs.gamespot.com/boards)** — Oyun rehberleri ve soru-cevap. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[GameMaker Marketplace](https://marketplace.yoyogames.com)** — GameMaker Studio için asset ve eklenti mağazası. <sub>· [Oyun Motoru Pazar Yerleri](kategoriler/38-oyun-motoru-pazar-yerleri.md)</sub>
+- **[Gamma App](https://gamma.app)** — Yapay zeka destekli sunum hazırlama aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Gapminder](https://www.gapminder.org/)** — Küresel gelişim istatistikleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Garfield Minus Garfield](https://garfieldminusgarfield.net)** — Garfield'ın çıkartıldığı Garfield çizgi romanları. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Gartic Phone](https://garticphone.com/)** — Multiplayer çizim oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[GeeksforGeeks](https://www.geeksforgeeks.org)** — Programlama ve bilgisayar bilimleri testi. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Gemini](https://gemini.google.com)** — Google'ın AI asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[GenixKey](https://genixkey.com.tr)** — Yazılım/oyun lisans anahtarı (muhtemelen korsan) paylaşım sitesi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[GeoAxis](https://geoaxis.ai)** — GPS/EXIF verisi olmadan, sadece görsel içerikten fotoğrafın çekildiği konumu tahmin eden AI aracı. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[GeoFS](https://geo-fs.com)** — Tarayıcı tabanlı uçuş simülatörü. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[GeoGuessr](https://www.geoguessr.com)** — Dünya üzerinde rastgele bir yere yerleştirildikten sonra orayı tahmin etme oyunu. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[GeoSeer](https://geoseeer.com)** — Bir fotoğraf/videonun nerede çekildiğini AI ile tahmin eden araç. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Giant Bomb](https://www.giantbomb.com)** — Oyun haberleri ve incelemeleri. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Giant Bomb Forums](https://www.giantbomb.com/forums)** — Video oyunları ve oyun kültürü. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[GigaOM Community](https://gigaom.com/community)** — Teknoloji haberleri ve gelişmeleri. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[GIMP](https://www.gimp.org)** — Açık kaynaklı grafik tasarım yazılımı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Giphy](https://www.giphy.com)** — GIF'ler keşfetme ve paylaşma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[GitHub](https://github.com)** — Yazılım geliştirme platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[GitHub Actions](https://github.com/features/actions)** — CI/CD otomasyon hizmeti. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[GitHub Copilot](https://github.com/features/copilot)** — Yapay zeka destekli kod yazma aracı. <sub>· [Chatbot, Verimlilik ve Toplantı Araçları (AI)](kategoriler/05-chatbot-verimlilik-ve-toplanti-araclari-ai.md)</sub>
+- **[GitHub Discussions](https://github.com/discussions)** — GitHub projeleri için topluluk tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[GitHub Pages](https://pages.github.com)** — GitHub ile web sitesi barındırma. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[GitLab](https://gitlab.com)** — DevOps ve yazılım geliştirme platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Gizmodo](https://www.gizmodo.com)** — Teknoloji ve tasarım dünyasından haberler. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Glasp](https://glasp.co/)** — YouTube video özetleme ve web vurgulama Chrome uzantısı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Glitch](https://glitch.com)** — Kod paylaşım ve iş birliği platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Glitch Art Generator](https://www.glitchart.com)** — Eğlenceli glitch sanatları yaratma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Global Forest Watch](https://www.globalforestwatch.org)** — Ormanların yok oluşunu uydudan izleme. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Gnoosic](https://www.gnoosic.com)** — Müzik öneri servisi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Godot Asset Library](https://godotengine.org/asset-library)** — Godot motoru için resmi eklenti/asset kütüphanesi. <sub>· [Oyun Motoru Pazar Yerleri](kategoriler/38-oyun-motoru-pazar-yerleri.md)</sub>
+- **[GOG.com Forums](https://www.gog.com/forum)** — DRM'siz oyunlar ve tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Golf Battle](https://www.golfbattle.io/)** — Mini golf oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Google AI](https://ai.google)** — Google'ın yapay zeka araştırmaları ve araçları. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Google Arts & Culture](https://artsandculture.google.com/)** — Sanat eserleri ve kültürel miras koleksiyonları. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Google BigQuery](https://cloud.google.com/bigquery)** — Veri ambarı ve analiz platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Google Cloud](https://cloud.google.com)** — Google'ın bulut platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Google Drive](https://www.google.com/drive/)** — Google'ın bulut depolama hizmeti. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Google Earth](https://earth.google.com)** — Dünyayı 3D olarak keşfet / uydu görüntüleri. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Google Flow (Veo 3.1)](https://labs.google/flow)** — Abone olmayan kullanıcılara günde 50 kredi veren, yüksek kalite/fizik simülasyonlu AI video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Google Fonts](https://fonts.google.com)** — En büyük ücretsiz, açık kaynak font kütüphanesi. <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[Google Gruyere](https://google-gruyere.appspot.com/)** — Web güvenliği açıklarını öğretme platformu (Google). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Google Scholar](https://scholar.google.com/)** — Akademik makaleler ve kaynaklar için Google'ın arama motoru. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Google Webmasters (Search Console Help)](https://support.google.com/webmasters)** — Google SEO araçları ve öneriler. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[GPTExcel](https://gptexcel.com)** — Excel için GPT destekli yardımcı araç. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[GrabCAD](https://grabcad.com)** — Mühendislik/CAD odaklı 3D model topluluğu. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Grabify](https://grabify.link)** — IP/konum takip linki oluşturma aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Grammarly](https://www.grammarly.com)** — İngilizce yazım ve dilbilgisi düzeltme aracı. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[GrapesJS](https://grapesjs.com)** — Sürükle-bırak web sayfası oluşturucu. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Grasshopper](https://grasshopper.app)** — Yeni başlayanlar için JavaScript öğreticisi. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Gravit Designer](https://www.designer.io)** — Ücretsiz vektör tasarım ve illüstrasyon aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Grayhat Warfare](https://grayhatwarfare.com/)** — Kamuya açık S3 bucket'ları arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Grep.app](https://grep.app/)** — GitHub için kod arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[GreyNoise](https://www.greynoise.io/)** — İnternet gürültüsü ve tehdit istihbaratı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[GuessTheGame](https://guessthe.game/)** — Oyun ekran görüntüsünden oyunu tahmin etme. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+
+## H
+
+- **[Hack Me](https://hackme.io)** — Algoritmalar ve güvenlik konularında interaktif öğrenme aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Hack This Site](https://www.hackthissite.org/)** — Etik hackerlık becerileri geliştirme sitesi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Hackaday.io](https://hackaday.io)** — Elektronik projeler ve yenilikçi fikirler. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[HackDesign](https://hackdesign.org)** — UI/UX tasarımı öğrenmek için kaynaklar. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Hacker News](https://news.ycombinator.com)** — Teknoloji haberleri ve topluluk sitesi. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[HackerEarth](https://www.hackerearth.com)** — Programlama testleri ve hackathon platformu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[HackerOne Community](https://www.hackerone.com/community)** — Güvenlik araştırmaları ve hacker'lar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[HackerRank](https://www.hackerrank.com)** — Kodlama becerilerinizi geliştirmek için online platform. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Hacksplaining](https://www.hacksplaining.com/)** — Web güvenlik açıklarını interaktif olarak öğretme platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Hailuo AI (MiniMax)](https://hailuoai.com)** — Foto-gerçekçi insan/karakter üretiminde güçlü AI video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Haiper](https://haiper.ai)** — Kısa klipler üreten, watermarklı AI video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Have I Been Pwned](https://haveibeenpwned.com/)** — E-posta/parolanızın veri sızıntılarında yer alıp almadığını kontrol etme. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[HDRI Haven (Poly Haven'a taşındı)](https://polyhaven.com/hdris)** — CC0 HDRI kütüphanesi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[HDRI Hub](https://hdrihub.com)** — Profesyonel HDRI pazarı. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[Head-Fi](https://www.head-fi.org)** — Ses sistemleri ve kulaklıklar hakkında tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Headliner](https://www.headliner.app)** — Podcast ve sesli içerikler için video oluşturma. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Heardle](https://heardle.app/)** — Şarkıyı tahmin etme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Hemingway Editor](https://hemingwayapp.com)** — Yazılarınızı daha etkili hale getirin. <sub>· [Yazı Yazma ve İçerik Üretimi](kategoriler/02-yazi-yazma-ve-icerik-uretimi.md)</sub>
+- **[Heroforge](https://www.heroforge.com)** — 3D masaüstü oyun figürü tasarlama aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Heroku](https://www.heroku.com)** — Bulut platformu ve uygulama geliştirme hizmetleri. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[HeyGen](https://www.heygen.com)** — Dudak hareketleriyle dublaj / video dil değiştirme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Higgsfield AI](https://higgsfield.ai)** — Tek panelden Kling, Seedance, WAN gibi çoklu modele erişim sunan araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Highway Racer](https://highwayracer.io/)** — Sonsuz otoyol yarış oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[HitPaw Edimakor](https://www.hitpaw.com)** — AI destekli video düzenleme ve efekt uygulama aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Home by Me](https://home.by.me/en/)** — Ücretsiz 2D/3D ev/iç mekan tasarım aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Hotel Tonight](https://www.hoteltonight.com)** — Son dakika otel rezervasyon uygulaması. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[How-To Geek](https://www.howtogeek.com)** — Teknoloji ve bilgisayar rehberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[HowStuffWorks](https://www.howstuffworks.com)** — İlginç ve öğretici içerikler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Hugging Face](https://huggingface.co)** — AI ve makine öğrenimi modelleri platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[HumanAlloy](https://humanalloy.com)** — İnsan/karakter 3D modelleri. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Hunter.io](https://hunter.io/)** — E-posta adresi bulma aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Hypefury](https://hypefury.com/)** — X, LinkedIn, Instagram için otomasyon ve zamanlama aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+
+## I
+
+- **[Icons8](https://icons8.com)** — Ücretsiz ikon ve illüstrasyonlar. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Ideogram](https://ideogram.ai/login)** — Yapay zeka destekli yazı ve tasarım oluşturma platformu. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[IEEE Xplore](https://ieeexplore.ieee.org/)** — Mühendislik ve teknoloji alanındaki akademik yayınlar. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[iFixit](https://www.ifixit.com)** — Elektronik cihaz tamiri için ücretsiz kılavuzlar. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[IGN Boards](https://www.ign.com/boards)** — Video oyunları ve pop kültür hakkında tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[IloveIMG](https://www.iloveimg.com)** — Görsel düzenleme araçları. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[iLovePDF](https://www.ilovepdf.com)** — PDF dosyalarıyla çalışmak için araçlar (birleştirme, bölme vb.). <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Image to Music](https://www.imagestomusic.com)** — Görselden müzik yaratma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[ImageOptim](https://imageoptim.com)** — Görsel optimizasyon aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[IMDb](https://www.imdb.com)** — Film ve dizi veritabanı ve değerlendirme platformu. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[imgflip](https://imgflip.com)** — İnternet mizahı ve meme oluşturma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Incompetech](https://incompetech.com)** — Kevin MacLeod'un 2000+ CC-BY lisanslı müzik parçası. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[IndiaBIX](https://www.indiabix.com)** — Teknik mülakatlar için soru bankası. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Information is Beautiful](https://informationisbeautiful.net)** — Karmaşık veriyi görselleştirme. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Infosec Institute](https://www.infosecinstitute.com)** — Siber güvenlik ve sertifikasyonlar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Inkscape](https://inkscape.org)** — Ücretsiz vektör çizim yazılımı. <sub>· [Araçlar (Asset Üretimi/Düzenleme için)](kategoriler/39-araclar-asset-uretimi-duzenleme-icin.md)</sub>
+- **[InkSprout](https://inksprout.ai)** — Blog yazılarını kısa-form sosyal medya videolarına dönüştüren araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Inprogrammer](https://www.inprogrammer.com)** — Programlama üzerine yazılar ve eğitim. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[InShot](https://inshot.com)** — Video ve fotoğraf düzenleme uygulaması. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Insmind](https://www.insmind.com)** — AI destekli görsel düzenleme ve arka plan araçları. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Instagram Hacked](https://www.instagram.com/hacked/)** — Instagram hesap kurtarma rehberi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[InstantUsername](https://instantusername.com/)** — Kullanıcı adının farklı platformlarda müsait olup olmadığını kontrol etme. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Instructables](https://www.instructables.com)** — Kendin yap projeleri. <sub>· [Yemek Tarifleri ve Yaşam Tarzı](kategoriler/18-yemek-tarifleri-ve-yasam-tarzi.md)</sub>
+- **[Instructables Community](https://www.instructables.com/community)** — DIY projeler ve elektronik inşa kılavuzları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[IntelTechniques – Radio Tools](https://inteltechniques.com/tools/Radio.html)** — OSINT amaçlı radyo frekansı/tarayıcı araçları listesi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[IntelTechniques – Username Tools](https://inteltechniques.com/tools/Username.html)** — Kullanıcı adı OSINT araştırma araçları listesi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[IntelX](https://intelx.io/)** — OSINT ve veri ihlali araması. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Internet Archive](https://archive.org)** — Kitap, sesli kitap, video ve yazılım arşivi. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Internet Archive Games (MS-DOS)](https://archive.org/details/softwarelibrary_msdos_games)** — MS-DOS oyunlarını tarayıcıda oynama. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Internet Live Stats](https://www.internetlivestats.com)** — Şu an atılan tweet ve arama sayısı gibi anlık internet istatistikleri. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[InVideo AI](https://invideo.io)** — Stok görsel/video destekli, tarayıcı tabanlı ücretsiz video üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[InVision](https://www.invisionapp.com)** — Prototip oluşturma ve tasarım işbirliği aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[IP-API](https://ip-api.com/)** — IP adresinden konum/coğrafi bilgi sorgulama API'si ve aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[IsThereAnyDeal](https://isthereanydeal.com)** — PC oyun fiyatlarını farklı mağazalarda karşılaştırma. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Itch.io](https://itch.io/games/free)** — Bağımsız oyun koleksiyonu / satış platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[itch.io (Pixel Art & Sprites)](https://itch.io/game-assets/free/tag-pixel-art)** — Pixel art ve sprite etiketli ücretsiz paketler. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[itch.io Game Assets](https://itch.io/game-assets)** — Binlerce ücretli/ücretsiz asset paketi barındıran pazar. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[IVRE](https://ivre.rocks)** — Ağ keşfi ve OSINT aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+
+## J
+
+- **[Jamendo](https://www.jamendo.com)** — Creative Commons lisanslı bağımsız müzik topluluğu (ticari kullanım için Jamendo Licensing). <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Jango](https://www.jango.com)** — Ücretsiz, kişiselleştirilmiş internet radyosu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Jasper](https://www.jasper.ai)** — Yapay zeka destekli içerik üretme aracı. <sub>· [Yazı Yazma ve İçerik Üretimi](kategoriler/02-yazi-yazma-ve-icerik-uretimi.md)</sub>
+- **[JavaRanch](https://www.javaranch.com)** — Java geliştiricileri için forum. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[JavaScript Jabber](https://devchat.tv/javascript-jabber)** — JavaScript geliştirme hakkında podcast ve forum. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Javatpoint](https://www.javatpoint.com)** — Java ve diğer programlama dillerine dair eğitim. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Javatpoint DevOps](https://javatpoint.com/devops)** — DevOps ile ilgili kaynaklar ve öğreticiler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Javii Tools](https://javii.tools)** — Sahte mesaj balonu, sosyal medya arayüzü ve görsel efekt üreten tarayıcı tabanlı küçük araçlar seti. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Jigsaw Explorer](https://www.jigsawexplorer.com)** — Online yapboz oyunları. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[JimPL](https://www.jimpl.com)** — Proje yönetimi ve yazılım geliştirme araçları. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Jira](https://www.atlassian.com/software/jira)** — Yazılım geliştirme ve proje yönetimi aracı. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Jitter](https://www.jitter.video)** — Hareketli grafik video oluşturma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[JS Robot](https://yourcodeclass.com/js-robot)** — JavaScript ile robotları yönlendirme oyunu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[JSFiddle](https://jsfiddle.net)** — Online kod test etme platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[JSTOR](https://www.jstor.org/)** — Tarih, edebiyat ve sosyal bilimler için akademik makaleler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Jupyter Notebooks](https://jupyter.org)** — Veri bilimi ve makine öğrenimi için etkileşimli defterler. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[JustWatch](https://www.justwatch.com)** — Bir filmin/dizinin hangi yasal platformda yayında olduğunu bulma. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+
+## K
+
+- **[Kaedim](https://www.kaedim3d.com)** — 2D görselden 3D model üreten AI aracı. <sub>· [AI Destekli 3D Model Üretimi](kategoriler/31-ai-destekli-3d-model-uretimi.md)</sub>
+- **[Kaggle](https://www.kaggle.com)** — Veri bilim yarışmaları ve veri setleri platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Kaiber](https://kaiber.ai)** — Sanatsal, stilize animasyon ve müzik senkronizasyonlu video üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Kaizan](https://kaizan.ai/)** — Müşteri ilişkileri ekipleri için AI destekli müşteri zekası platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Kaktüs Oyun](https://kaktusoyun.com)** — Mobil oyunları (bazıları mod/hileli APK olarak) indirme sitesi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Kapwing](https://www.kapwing.com)** — Video ve GIF düzenleme. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Kaspersky](https://www.kaspersky.com)** — Antivirüs ve güvenlik yazılımı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Kay Pixel (itch.io)](https://kaylousberg.itch.io)** — KayKit'in pixel/low-poly paketleri. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Keenan Crane's Model Repository](https://www.cs.cmu.edu/~kmcrane/Projects/ModelRepository)** — Shader/subdivision testleri için temiz mesh'ler. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Kenerate AI](https://kenerateai.com)** — Seedance ve Kling gibi üst düzey modellere erişim sağlayan araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Kenney (2D bölümü)](https://kenney.nl/assets?q=2d)** — CC0 sprite ve tileset paketleri. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Kenney (Audio)](https://kenney.nl/assets?q=audio)** — CC0 lisanslı RPG, UI, casino ses paketleri. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Kenney Assets](https://kenney.nl/assets)** — Binlerce CC0 sprite, model, ikon, ses paketi; oyun geliştiricinin altın standardı. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Khan Academy](https://www.khanacademy.org)** — Ücretsiz eğitim içerikleri. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Khroma](https://www.khroma.co)** — AI destekli renk önerileri. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[KickResume](https://www.kickresume.com)** — Yapay zeka destekli CV hazırlama aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Kitapmetre](https://kitapmetre.com)** — Kitap fiyatlarını karşılaştırma sitesi. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[KlingAI](https://klingai.com)** — AI destekli video/metin üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Koalastothemax](https://koalastothemax.com)** — Bir koalayı parçalayarak ortaya çıkarma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Kolors AI](https://kolors-ai.com)** — AI görsel/metin-görsel üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Kongregate](https://www.kongregate.com/)** — Tarayıcı oyunları koleksiyonu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Krea](https://www.krea.ai)** — AI ile metin ve görsel içerik üretme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Krita](https://krita.org)** — Ücretsiz dijital çizim ve boyama yazılımı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Krunker.io](https://krunker.io/)** — Tarayıcıda oynanabilen FPS oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Kubernetes](https://kubernetes.io)** — Konteyner orkestrasyonu platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Kulturenvanteri](https://kulturenvanteri.com)** — Yakındaki ünlü binalar ve gezilecek yerler hakkında bilgi sitesi. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+
+## L
+
+- **[Lalamove](https://www.lalamove.com)** — Anlık kurye ve nakliye hizmeti uygulaması. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Language Guide](https://www.languageguide.org)** — Görsellerle dil öğrenme aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Lavender](https://www.lavender.ai/)** — Satış e-postalarını puanlayan ve geliştiren AI e-posta koçu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Layla AI](https://www.layla.ai)** — AI destekli sanal asistan uygulaması. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[LeakIX](https://leakix.net/)** — Bilgi sızıntıları arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Learn Git Branching](https://learngitbranching.js.org)** — Git ve GitHub komutları için görsel öğrenme aracı. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Learn HTML & CSS](https://learnhtmlcss.online)** — HTML ve CSS öğreten interaktif bir site. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Learn-JS](https://learn-js.org)** — JavaScript öğreticisi. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[LearnCpp](https://learncpp.com)** — C++ dilini öğrenmek için kapsamlı rehber. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[LeetCode](https://leetcode.com)** — Kodlama problemleri ve yarışmalar platformu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Lensgo AI](https://www.lensgo.ai)** — AI destekli fotoğraf düzenleme platformu. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Leonardo AI](https://leonardo.ai)** — Yapay zeka ile görsel üretim platformu. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Letsenhance](https://www.letsenhance.io)** — Görsellerin çözünürlüğünü arttıran yapay zeka aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Letterboxd](https://www.letterboxd.com)** — Film ve dizi koleksiyon ve izleme platformu. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Library Genesis (Libgen)](https://libgen.is/)** — Akademik ve popüler kitaplara erişim. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[Library of Congress](https://www.loc.gov)** — ABD Kongre Kütüphanesi dijital arşivi. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Life of Pix](https://www.lifeofpix.com)** — Yüksek çözünürlüklü fotoğraflar. <sub>· [Stok Görsel, Video ve Ses Kaynakları](kategoriler/07-stok-gorsel-video-ve-ses-kaynaklari.md)</sub>
+- **[Lifehacker](https://www.lifehacker.com)** — Hayatınızı kolaylaştıracak tüyolar. <sub>· [Yemek Tarifleri ve Yaşam Tarzı](kategoriler/18-yemek-tarifleri-ve-yasam-tarzi.md)</sub>
+- **[Lifehacker Community](https://lifehacker.com/community)** — Yaşam tarzı, teknoloji ve verimlilik hakkında tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Lightningmaps.org](https://www.lightningmaps.org)** — Gerçek zamanlı şimşek ve yıldırım izleme. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[LightPDF](https://lightpdf.com)** — PDF düzenleme, dönüştürme ve sıkıştırma araçları. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Linux Journey](https://linuxjourney.com)** — Linux işletim sistemini öğrenmek için kapsamlı dersler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[LinuxQuestions.org](https://www.linuxquestions.org/questions)** — Linux ve açık kaynak yazılım konuları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Listen to Wikipedia](https://listen.hatnote.com)** — Wikipedia düzenlemelerini gerçek zamanlı olarak sese çevirme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Little Alchemy](https://littlealchemy.com)** — Elementleri birleştirerek yeni nesneler oluşturma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Little Alchemy 2](https://littlealchemy2.com)** — Elementleri birleştirerek yeni nesneler oluşturma (devam oyunu). <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Little Big Snake](https://littlebigsnake.com/)** — Gelişmiş yılan oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Live Science](https://www.livescience.com/)** — Popüler bilim haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Live3D](https://www.live3d.io)** — Görselleri 3D karakterlere ve canlandırılmış avatarlara dönüştüren araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Llama Font](https://www.llamafont.com)** — Llama şeklinde yazılar oluştur. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Loading.io](https://loading.io)** — Yükleme animasyonu ve ikon oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[LogoAI Animated Logo](https://logoai.com/design/animated-logo)** — AI ile animasyonlu logo oluşturma aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Logomaster](https://www.logomaster.ai)** — AI ile logo oluşturma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Logomotion](https://logomotion.design)** — AI destekli animasyonlu logo tasarım aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Logosystem](https://logosystem.co)** — Logo tasarım ve marka kimliği aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Loldle](https://loldle.net/)** — League of Legends karakter tahmin oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Lonely Planet](https://www.lonelyplanet.com)** — Seyahat rehberleri. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[Lospec](https://lospec.com)** — Pixel art paletleri, araçlar ve topluluk galerisi. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Lostgamer](https://lostgamer.io)** — Ücretsiz tarayıcı oyunları platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Lottiefiles](https://www.lottiefiles.com)** — Hareketli animasyonlar oluşturma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Lovo.ai](https://www.lovo.ai)** — Yapay zeka seslendirme platformu. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Luma AI (Genie)](https://lumalabs.ai/genie)** — Metinden 3D model üreten AI aracı. <sub>· [AI Destekli 3D Model Üretimi](kategoriler/31-ai-destekli-3d-model-uretimi.md)</sub>
+- **[Luma Dream Machine](https://lumalabs.ai/dream-machine)** — Foto-gerçekçi kamera hareketleri ve ışık geçişleriyle tanınan AI video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[LumeFlow AI](https://lumeflow.ai)** — Akıllı efektler ve hikaye üretici modülüyle video oluşturan araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Lumen5](https://www.lumen5.com)** — Metinden videoya dönüştürme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Lunacy](https://icons8.com/lunacy)** — Offline grafik tasarım programı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[LYRC](https://lyrc.studio)** — Bağımsız müzisyenler için lirik video ve içerik üretim stüdyosu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+
+## M
+
+- **[Machine Learning Forum](https://www.machinelearningforum.com)** — Makine öğrenimi konularında tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[MagicaVoxel](https://ephtracy.github.io)** — Ücretsiz voxel sanat aracı. <sub>· [Araçlar (Asset Üretimi/Düzenleme için)](kategoriler/39-araclar-asset-uretimi-duzenleme-icin.md)</sub>
+- **[Magisto](https://www.magisto.com)** — AI ile otomatik video düzenleme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Make](https://makezine.com)** — Maker hareketi ve DIY projeleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[MalwareTips Forums](https://malwaretips.com)** — Malware ve virüs temizliği tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Maneken Editor](https://editor.maneken.app/)** — Web ve mobil uygulamalar için görsel tasarım aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Manus AI](https://manus.im)** — Otonom araştırma ve görev tamamlama ajanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[ManyChat](https://www.manychat.com)** — Sohbet botları oluşturma platformu. <sub>· [Chatbot, Verimlilik ve Toplantı Araçları (AI)](kategoriler/05-chatbot-verimlilik-ve-toplanti-araclari-ai.md)</sub>
+- **[MapCrunch](https://www.mapcrunch.com)** — Dünyanın rastgele bir noktasına ışınlanma. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[MarineTraffic](https://www.marinetraffic.com)** — Denizdeki gemileri anlık takip. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Mars Rover Photos](https://mars.nasa.gov/msl-raw-images/)** — Mars yüzeyinden en son fotoğraflar. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Mashable](https://www.mashable.com)** — Dijital kültür ve teknoloji haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Material Maker](https://www.materialmaker.org)** — Prosedürel materyal üretim aracı. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[McStumble](https://mcstumble.com)** — Tarayıcı üzerinde çalışan PDF, görsel, metin ve üretkenlik araçları bütünü. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[MDPI](https://www.mdpi.com/)** — Açık erişimli bilimsel dergiler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Memrise](https://www.memrise.com)** — Hafıza teknikleriyle dil öğrenme. <sub>· [Dil Öğrenme](kategoriler/21-dil-ogrenme.md)</sub>
+- **[Mental Floss](https://mentalfloss.com)** — İlginç bilgiler ve zihin açıcı makaleler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Meowtv](https://meowtv.ru)** — Film/dizi/TV yayın sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Merriam-Webster](https://www.merriam-webster.com)** — Sözlük ve anlamları keşfetme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Meshy](https://www.meshy.ai)** — Metinden/görselden 3D model üreten, ücretsiz katmanı CC BY 4.0. <sub>· [AI Destekli 3D Model Üretimi](kategoriler/31-ai-destekli-3d-model-uretimi.md)</sub>
+- **[Metacritic](https://www.metacritic.com)** — Filmler, oyunlar ve müzik hakkında puanlar ve incelemeler. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Metacritic Forums](https://www.metacritic.com/game/forums)** — Oyunlar ve medya hakkında yorumlar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[MetaDefender](https://www.metadefender.com)** — Dosya güvenlik taraması aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Metafilter](https://www.metafilter.com)** — İnsanlar tarafından önerilen ilginç içerikler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Metropolitan Museum of Art (Met)](https://www.metmuseum.org)** — Met Müzesi'nin açık koleksiyonu. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Microgravity Simulator](https://microgravity.unh.edu)** — Yerçekimsiz ortamda cisimlerin hareketini incele. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Microsoft Academic](https://academic.microsoft.com/)** — Akademik araştırmalar için geniş bir veritabanı. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Microsoft Azure](https://azure.microsoft.com)** — Microsoft'un bulut platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Midjourney](https://www.midjourney.com)** — Yapay zeka ile görsel oluşturma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Mimo](https://getmimo.com)** — Python, JavaScript gibi dillerle uygulama geliştirme becerisi kazandıran interaktif uygulama. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Minecraftdle](https://www.minecraftdle.net/)** — Minecraft hakkında tahmin oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[MiniRoyale](https://miniroyale.io/)** — Tarayıcıda battle royale. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[MIT OpenCourseWare](https://ocw.mit.edu)** — MIT'nin ücretsiz ders materyalleri. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[MITRE ATT&CK (STIX Data)](https://github.com/mitre-attack/attack-stix-data)** — ATT&CK bilgi tabanının STIX formatındaki verisi (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[MITRE Caldera](https://github.com/mitre/caldera)** — Otomatik saldırgan simülasyonu (adversary emulation) platformu (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Mixamo](https://www.mixamo.com)** — Otomatik rigleme + binlerce hazır animasyon (Adobe). <sub>· [Karakter Animasyonu & Rigging](kategoriler/37-karakter-animasyonu-rigging.md)</sub>
+- **[Mixkit](https://mixkit.co/)** — Ücretsiz video, müzik, ses efektleri ve şablonlar. <sub>· [Stok Görsel, Video ve Ses Kaynakları](kategoriler/07-stok-gorsel-video-ve-ses-kaynaklari.md)</sub>
+- **[Mixkit (Music)](https://mixkit.co/free-stock-music)** — Ücretsiz stok müzik kütüphanesi. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Mixkit (Sound Effects)](https://mixkit.co/free-sound-effects)** — Ücretsiz ses efekti kütüphanesi. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Mobirise](https://mobirise.com)** — Sürükle-bırak web sitesi oluşturucu. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Mockup World](https://www.mockupworld.co)** — Ücretsiz mockup dosyaları. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Mockups Design](https://mockups-design.com)** — Ücretsiz ürün ve cihaz mockup şablonları. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[ModMyPi Forums](https://www.modmypi.com)** — Raspberry Pi projeleri ve geliştirme. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Modyolo](https://modyolo.com)** — Mobil oyunların hileli/mod APK sürümlerini indirme sitesi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[MoeWalls](https://moewalls.com)** — Anime temalı hareketli/canlı duvar kağıtları. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[MongoDB](https://www.mongodb.com)** — NoSQL veritabanı platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Mope.io](https://mope.io/)** — Hayvanlarla evrim geçirme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Moshpro](https://moshpro.app)** — Datamosh/glitch video efekt aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Motion Backgrounds](https://motionbgs.com)** — Hareketli video duvar kağıtları arşivi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Motionsites AI](https://motionsites.ai)** — AI destekli hareketli/animasyonlu web sitesi tasarım aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Moto X3M](https://www.motox3m.io/)** — Akrobatik motor oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Mount Everest 3D](https://everest3d.de)** — Everest'i sanal olarak tırman. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Mov2Night](https://mov2night.com)** — "Ücretsiz" film/dizi izleme sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Movie Locations](http://www.movie-locations.com/)** — Filmlerde geçen sahnelerin çekildiği şehir/caddeleri gösteren site. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Moz Community](https://moz.com/community)** — SEO ve dijital pazarlama üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Mozilla Discourse](https://discourse.mozilla.org)** — Firefox ve açık web tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Mult.dev](https://mult.dev/)** — Seyahat rotası görselleştirme videoları oluşturma aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[MuscleWiki](https://www.musclewiki.com)** — Fitness hareketleri ve antrenman rehberi. <sub>· [Yemek Tarifleri ve Yaşam Tarzı](kategoriler/18-yemek-tarifleri-ve-yasam-tarzi.md)</sub>
+- **[Musicmap](https://www.musicmap.info)** — Müzik türlerinin soy ağacı. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Muzeek](https://muzeek.com/)** — Canlı müzik endüstrisi için rezervasyon/booking yazılımı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[MyFonts](https://www.myfonts.com)** — Ücretli ve ücretsiz yazı tipleri. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[MyFridgeFood](https://www.myfridgefood.com)** — Buzdolabınızdaki malzemelerle yemek tarifleri önerisi. <sub>· [Yemek Tarifleri ve Yaşam Tarzı](kategoriler/18-yemek-tarifleri-ve-yasam-tarzi.md)</sub>
+- **[MyHeritage](https://www.myheritage.com)** — Genetik ve soy geçmişi araştırma aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[MyMiniFactory](https://www.myminifactory.com)** — 3D baskıya uygun, bir kısmı ücretsiz model kütüphanesi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[MySQL](https://www.mysql.com)** — İlişkisel veritabanı yönetim sistemi. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+
+## N
+
+- **[Namso Gen](https://namso-gen.com/)** — Geçici telefon numarası oluşturma aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Napkin AI](https://napkin.ai)** — Metni görsel diyagram ve infografiğe çeviren AI aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[NASA 3D Resources](https://nasa3d.arc.nasa.gov)** — NASA'nın uzay araçları/gezegen modelleri. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[NASA Eyes](https://eyes.nasa.gov)** — Uzay keşiflerini görselleştiren NASA sitesi. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[NASA Image and Video Library](https://images.nasa.gov)** — NASA'nın tüm görsel arşivi (ücretsiz). <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[NASA Worldview](https://worldview.earthdata.nasa.gov/)** — Uydu görüntüleriyle dünya gözlemi. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[National Geographic](https://www.nationalgeographic.com/)** — Doğa, tarih ve bilim haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[National Geographic Maps](https://www.nationalgeographic.com/maps)** — Çeşitli coğrafi haritalar. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[National Geographic Travel](https://www.nationalgeographic.com/travel)** — Dünya çapında gezilecek yerler. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[Nature](https://www.nature.com/)** — Ünlü bilim dergisi ve araştırma platformu. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Neal.fun](https://neal.fun)** — Eğlenceli interaktif deneyimler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Nemo Video](https://www.nemovideo.com)** — Sohbet ederek video düzenleyen AI video editörü. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[NeoGAF](https://www.neogaf.com)** — Video oyunları, teknoloji ve kültür tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Netflix Codes](https://www.netflixcodes.me)** — Netflix'teki gizli kategorileri bulma aracı. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Netlas](https://www.netlas.io/)** — Saldırı yüzeyi keşfi platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Netlify](https://www.netlify.com)** — Web sitesi dağıtım ve barındırma hizmeti. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Netmirror](https://netmirrorweb.com.in)** — Netflix benzeri bir arayüzle film/dizi akışı sunan (lisansı belirsiz) site. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[New York Public Library](https://www.nypl.org/)** — Büyük bir dijital koleksiyon arşivi. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Newgrounds](https://www.newgrounds.com/)** — Flash ve indie oyunlar. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[NightCafe](https://creator.nightcafe.studio)** — AI ile dijital sanat oluşturma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Nite.games](https://nite.games)** — Tarayıcı tabanlı çoklu oyuncu oyun koleksiyonu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Nobody.live](https://nobody.live)** — Sıfır izleyicili canlı yayınları gösteren platform. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Node.js Dev](http://nodejs.dev)** — Node.js ile ilgili kaynaklar ve öğreticiler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[NoSignups.net](https://nosignups.net)** — Hesap açmadan/giriş yapmadan kullanılabilen açık kaynak tarayıcı araçları dizini. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[NotebookLM](https://notebooklm.google.com)** — Belge yükleyip AI ile analiz/özet çıkarma aracı (Google). <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Notion](https://www.notion.so)** — Not alma ve bilgi organizasyonu aracı. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Notion AI](https://www.notion.so/product/ai)** — Notion içindeki yapay zeka özelliği. <sub>· [Chatbot, Verimlilik ve Toplantı Araçları (AI)](kategoriler/05-chatbot-verimlilik-ve-toplanti-araclari-ai.md)</sub>
+- **[Notpron](http://notpron.org)** — Dünyanın en zor internet bulmacası. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Noun Project](https://thenounproject.com)** — Geniş ikon ve vektör koleksiyonu. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[NOVA Labs](https://www.pbs.org/wgbh/nova/labs/)** — Online bilim laboratuvarları. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[Numbeo](https://www.numbeo.com)** — Şehirler arası yaşam maliyetleri karşılaştırma aracı. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[Numerous](https://numerous.ai)** — Excel için AI aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Nyan Cat](https://nyan.cat)** — Sonsuz Nyan Cat. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+
+## O
+
+- **[Observable](https://observablehq.com)** — Veriyi canlı kodla görselleştirme platformu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Obsidian](https://obsidian.md)** — Bağlantılı not alma / ikinci beyin uygulaması. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Ocearch.org](https://www.ocearch.org)** — Köpekbalığı ve deniz canlılarını takip etme. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Octane AI](https://www.octaneai.com/)** — Shopify mağazaları için AI destekli ürün önerisi anketleri. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Oddee](https://www.oddee.com)** — Garip ve eğlenceli içerikler. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Old Maps Online](https://www.oldmapsonline.org)** — Yüzyıllar öncesinin haritaları. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[OldGamesDownload](https://oldgamesdownload.com)** — Eski PC oyunlarını indirme sitesi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[OneNote](https://www.onenote.com)** — Microsoft'un not alma uygulaması. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[OnlineSMSBox](https://onlinesmsbox.com/)** — Geçici SMS alımı yapan platform. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Onyphe](https://www.onyphe.io/)** — Siber savunma arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Open Culture](https://www.openculture.com)** — Ücretsiz dersler ve kaynaklar. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Open Library](https://openlibrary.org/)** — Ücretsiz kitap okuma ve araştırma kaynağı. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[Open3DModel](https://open3dmodel.com)** — Ücretsiz model arşivi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[OpenAI](https://www.openai.com)** — Yapay zeka ve araştırma platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[OpenCV](https://opencv.org)** — Bilgisayarla görü için açık kaynaklı kütüphane. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[OpenGameArt Tilesets](https://opengameart.org/art-search-advanced?field_art_type_tid%5B%5D=10)** — Tileset odaklı filtreli koleksiyon. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[OpenGameArt.org](https://opengameart.org)** — 2009'dan beri aktif, lisansa göre filtrelenebilen topluluk arşivi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[OpenGameArt.org (2D)](https://opengameart.org/art-search-advanced?field_art_type_tid%5B%5D=9)** — 2D sprite ve tileset filtreli arama. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[OpenGameArt.org (Audio)](https://opengameart.org/art-search-advanced?field_art_type_tid%5B%5D=12)** — Oyuna özel ses efekti ve müzik koleksiyonu. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[OpenStreetMap](https://www.openstreetmap.org)** — Gönüllülerin çizdiği dünya haritası. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Opus.pro (OpusClip)](https://opus.pro)** — Uzun videoları AI ile viral kısa klipler haline getiren video kırpma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[osquery](https://github.com/osquery/osquery)** — İşletim sistemini SQL ile sorgulayan uç nokta izleme aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Our World in Data](https://ourworldindata.org/)** — Küresel istatistikler ve analizler. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Overclock.net](https://www.overclock.net)** — Bilgisayar donanımını hız aşırtma. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[OWASP Community](https://www.owasp.org/community)** — Güvenlik açıkları ve siber güvenlik. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[OWASP Security Shepherd](https://owasp.org/www-project-security-shepherd/)** — OWASP güvenlik eğitim platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+
+## P
+
+- **[PacDV Sound Effects](https://www.pacdv.com/sounds)** — Kategorilere ayrılmış royalty-free ses efektleri. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Packet Storm Security](https://www.packetstomsecurity.com/)** — Güvenlik araçları ve kaynakları. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Pacman (Google)](https://www.google.com/search?q=pacman)** — Google'ın Pac-Man versiyonu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Paletton](https://paletton.com)** — Renk kombinasyonu oluşturma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Paper Animator](https://www.paperanimator.com)** — Çevrimiçi kağıt animasyon aracı. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Paper Planes](https://paperplanes.world)** — Sanal kâğıt uçakları fırlatma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Paper.io](https://paper.io/)** — Alan fethetme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Paperpal](https://paperpal.com/)** — Akademik yazım için AI destekli dilbilgisi, parafraz ve alıntı aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Passport Index](https://www.passportindex.org)** — Ülkelerin pasaport gücünü karşılaştırma aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Patatap](https://patatap.com)** — Müzik ve görsellerle oynama. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[PDF Drive](https://www.pdfdrive.com/)** — Ücretsiz PDF kitap arama motoru. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[PDF24 Tools](https://tools.pdf24.org)** — Ücretsiz online PDF araç seti. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Penny Arcade Forums](https://forums.penny-arcade.com)** — Video oyunları ve kültür üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Periodic Table of Videos](https://www.periodicvideos.com)** — Kimya elementleri hakkında videolar. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Perplexity](https://www.perplexity.ai)** — Yapay zeka destekli arama motoru. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Pexels](https://www.pexels.com)** — Ücretsiz stok fotoğraf ve videolar. <sub>· [Stok Görsel, Video ve Ses Kaynakları](kategoriler/07-stok-gorsel-video-ve-ses-kaynaklari.md)</sub>
+- **[PFPMaker](https://pfpmaker.com)** — Profil fotoğrafı oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Photo.net Forums](https://photo.net)** — Fotoğrafçılık ve kamera ekipmanları tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Photography-on-the.net](https://photography-on-the.net/forum)** — Fotoğrafçılık donanımı ve teknikleri. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Photopea](https://www.photopea.com)** — Photoshop alternatifi online editör. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[PhotoTool](https://phototool.ai)** — AI destekli fotoğraf düzenleme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[PHP Freaks](https://www.phpfreaks.com)** — PHP ve web geliştirme konuları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[PHP.net](https://php.net)** — PHP dilini öğrenmek için resmi kaynak. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Phys.org](https://phys.org/)** — Bilim ve teknoloji haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Pic2Map](https://www.pic2map.com/)** — Fotoğrafların EXIF konum verisini haritada gösterme. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Pica AI Photo Enhancer](https://www.pica-ai.com/photo-enhancer)** — AI ile fotoğraf kalitesini artırma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[PickAMovieForMe](https://www.pickamovieforme.com)** — Film öneri sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[PicoTux](https://www.picotux.com)** — Küçük, keyifli web tabanlı oyunlar. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Pictory](https://pictory.ai)** — AI destekli video düzenleme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Picwish](https://picwish.com)** — AI destekli fotoğraf düzenleme ve iyileştirme araç seti. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Pika Art](https://pika.art)** — AI ile video/sanat oluşturma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[PineTools](https://www.pinetools.com)** — Görsel ve metin düzenleme araçları. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[PIPOYA Free RPG Character Sprites](https://pipoya.itch.io)** — Ücretsiz RPG karakter sprite'ları. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Piskel](https://www.piskelapp.com)** — Tarayıcı tabanlı ücretsiz sprite/pixel art editörü. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Pixabay](https://pixabay.com)** — Ücretsiz stok fotoğraf ve videolar. <sub>· [Stok Görsel, Video ve Ses Kaynakları](kategoriler/07-stok-gorsel-video-ve-ses-kaynaklari.md)</sub>
+- **[Pixabay Music](https://pixabay.com/music)** — Atıfsız kullanılabilir ücretsiz müzik. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Pixabay Sound Effects](https://pixabay.com/sound-effects)** — Ücretsiz, atıfsız kullanılabilir ses efektleri. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Pixel Frog (itch.io)](https://pixelfrog-assets.itch.io)** — Popüler "Pixel Adventure" ve "Treasure Hunters" gibi paketler. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Pixel Prospector Textures](https://www.pixelprospector.com/textures)** — Doku kaynaklarını derleyen liste sitesi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[Pixie](https://pixie.haus)** — Görsel düzenleme ve tasarım aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Pixilart](https://www.pixilart.com)** — Ücretsiz online pixel art çizim ve paylaşım platformu. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Pixlr](https://www.pixlr.com)** — Online fotoğraf düzenleyici. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[PixVerse](https://pixverse.ai)** — 4K video oluşturma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Placeit](https://www.placeit.net)** — Mockup, logo ve şablonlar. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Play Untrusted](https://playuntrusted.com/)** — JavaScript kullanarak bulmacalar çözme oyunu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Play-CS – Sunucular](https://play-cs.com/tr/servers)** — Counter-Strike 1.6 sunucu listesi ve indirme. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Playback.fm](https://www.playback.fm)** — Müzik dinleme ve keşfetme platformu. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[PlayDOSGames](https://www.playdosgames.com/)** — Eski DOS oyunlarını oynama. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Playground](https://www.playgroundai.com)** — AI destekli görsel üretim platformu. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Plex](https://www.plex.tv)** — Kişisel medya kütüphanesi ve ücretsiz yasal içerik yayın platformu. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[PLOS ONE](https://journals.plos.org/plosone/)** — Açık erişimli bilimsel makaleler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Pluralsight](https://www.pluralsight.com)** — Teknoloji ve yazılım geliştirme eğitimi. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[PNG Maker](https://www.pngmaker.com)** — PNG dosyaları oluşturma ve düzenleme aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[PNGImg](https://pngimg.com)** — Şeffaf arka planlı PNG görsel arşivi. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Poeltl](https://poeltl.dunk.town/)** — NBA oyuncu tahmin oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Pointer Pointer](https://pointerpointer.com)** — Fareyi nereye koyarsan oraya işaret eden fotoğraf. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Poised](https://www.poised.com/)** — Toplantılarda gerçek zamanlı konuşma/iletişim koçluğu yapan AI aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Poliigon](https://www.poliigon.com)** — Fotogerçekçi doku, HDRI ve bazı model içeren platform. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[Poly Haven](https://polyhaven.com)** — CC0 lisanslı, kalitesi çok tutarlı model/texture/HDRI kütüphanesi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Poly Haven Textures](https://polyhaven.com/textures)** — Poly Haven'ın doku bölümü. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[Poly Pizza](https://poly.pizza)** — Eski Google Poly arşivinden gelen low-poly modeller. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Polyswarm](https://polyswarm.io/)** — Tehdit tespiti pazaryeri. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[PopAI](https://popai.com)** — AI destekli e-ticaret görsel üretimi. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Popurls](https://www.popurls.com)** — İnternetteki popüler içerikleri takip etme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Porkbun](https://porkbun.com/products/domains)** — Uygun fiyatlı alan adı (domain) kayıt ve yönetim hizmeti. <sub>· [Alan Adı (Domain) Hizmetleri](kategoriler/25-alan-adi-domain-hizmetleri.md)</sub>
+- **[PostgreSQL](https://www.postgresql.org)** — Açık kaynaklı ilişkisel veritabanı yönetim sistemi. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[PostHog](https://posthog.com)** — Ürün analitiği platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Postwise](https://postwise.ai/)** — AI destekli tweet ve thread yazma aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[PowToon](https://www.powtoon.com)** — Hazır şablonlarla animasyonlu sosyal medya/tanıtım videosu üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Privnote](https://privnote.com/)** — Okunduktan sonra kendini silen not/mesaj oluşturma. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[ProductionCrate](https://www.productioncrate.com)** — Ücretsiz video efektleri ve VFX kaynak kütüphanesi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Programiz](https://www.programiz.com)** — Eğitim materyalleri ve kod örnekleri. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[ProgrammingHub](https://programminghub.io)** — Birçok programlama diliyle ilgili dersler ve örnekler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Project Gutenberg](https://www.gutenberg.org/)** — Telif hakkı bitmiş 60.000'den fazla ücretsiz kitap. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[Prowler](https://github.com/prowler-cloud/prowler)** — AWS, Azure ve GCP için bulut güvenliği denetim aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Ptable](https://www.ptable.com)** — Etkileşimli periyodik tablo. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[PublicWWW](https://publicwww.com/)** — Kaynak kodu arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[PubMed](https://pubmed.ncbi.nlm.nih.gov/)** — Tıp ve biyoloji alanında makaleler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Pulsedive](https://pulsedive.com/)** — Tehdit istihbaratı arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Purple Planet Music](https://www.purple-planet.com)** — Ücretsiz royalty-free müzik. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Python Tutorial](https://pythontutorial.net)** — Python dilini öğrenmek için öğreticiler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Python.org Forum](https://discuss.python.org)** — Python programlama dili hakkında tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[PyTorch](https://pytorch.org)** — Derin öğrenme ve yapay zeka framework'ü. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+
+## Q
+
+- **[Qmove](https://www.qmove.tr)** — Şehir içi/şehirler arası nakliye ve kurye eşleştirme uygulaması. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[QR Code AI](https://qrcode-ai.com/tr)** — AI destekli özelleştirilmiş QR kod oluşturma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Quaternius](https://quaternius.com)** — Stilize low-poly karakter/araç/çevre paketleri. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Quickchat AI](https://www.quickchat.ai/)** — Kodsuz özel AI asistan/chatbot oluşturma platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Quillbot](https://quillbot.com)** — Parafraz ve yazım aracı. <sub>· [Yazı Yazma ve İçerik Üretimi](kategoriler/02-yazi-yazma-ve-icerik-uretimi.md)</sub>
+- **[Quixel Megascans](https://quixel.com)** — Fotogrametri taramalı fotogerçekçi asset kütüphanesi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Quora](https://www.quora.com)** — Sorular sorup cevaplar alma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[QWOP](http://www.foddy.net/Athletics.html)** — Koşu oyunu (zor). <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+
+## R
+
+- **[R Programming Community](https://community.rstudio.com)** — R dilinde veri bilimi ve istatistik. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[R10.net](https://www.r10.net)** — Türkçe teknoloji/oyun forumu ve site alım-satım platformu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Radio Garden](https://radio.garden)** — Dünyanın her yerinden radyo istasyonlarını dinleme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Radiooooo](https://radiooooo.com)** — Ülke ve on yıl seçip o dönemin müziğini dinleme. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Random Street View](https://randomstreetview.com)** — Rastgele bir sokak görüntüsü keşfet. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Rask AI](https://www.rask.ai)** — Dublaj ekleme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Raspberry Pi Forums](https://www.raspberrypi.org/forums)** — Raspberry Pi projeleri ve uygulamaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[React Tutorial](https://react-tutorial.app)** — React ile uygulama geliştirmeyi öğreten bir rehber. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Readlang](https://www.readlang.com)** — Diller arası çeviri ve okuma pratiği platformu. <sub>· [Dil Öğrenme](kategoriler/21-dil-ogrenme.md)</sub>
+- **[Receive SMS](https://receive-smss.com/)** — Geçici, herkese açık SMS numaraları ile doğrulama kodu alma. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Recordly](https://www.recordly.ai)** — Ses kaydı yapabilen uygulama. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Recraft](https://www.recraft.ai)** — AI destekli grafik tasarım aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Reddit](https://www.reddit.com)** — Çeşitli konularda topluluklar. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Redis](https://redis.io)** — Bellek içi veri yapıları sunucusu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Reelgood](https://www.reelgood.com)** — Çeşitli platformlardaki içerikleri keşfetme aracı. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Refero Styles](https://styles.refero.design)** — Web tasarım stil ilham kaynağı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Refont](https://refont.ai)** — AI destekli yazı tipi/font oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[RefSeek](https://www.refseek.com/)** — Akademik kaynaklar için alternatif bir arama motoru. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Regie.ai](https://www.regie.ai/)** — Çok kanallı satış dizileri üreten AI içerik/otomasyon platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Reimagine Home](https://www.reimaginehome.ai)** — AI ile iç mekan/ev tasarımı yeniden hayal etme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Remove.bg](https://www.remove.bg)** — Görsellerden arka plan kaldırma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Remove.photos](https://remove.photos)** — AI ile arka plan kaldırma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Render](https://render.com/)** — Web uygulamalarını dağıtmak ve barındırmak için bulut platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Renderforest](https://www.renderforest.com)** — Şablon tabanlı tanıtım ve pazarlama videosu üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Renderhub](https://www.renderhub.com)** — Render motorlarına özel 3D model pazarı. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[RenderNet AI](https://rendernet.ai)** — Karakter oluşturma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Replient Fake Chat Generator](https://replient.ai/en/tools/fake-chat-generator)** — Sahte sohbet ekran görüntüsü oluşturma aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Replit](https://replit.com/)** — Tarayıcı tabanlı kodlama platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[ResearchGate](https://www.researchgate.net/)** — Akademisyenler ve araştırmacılar için makale paylaşım ağı. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[REST API Tutorial](https://restapitutorial.com)** — RESTful API'ler hakkında öğreticiler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Retro Bowl](https://retro-bowl.com/)** — Amerikan futbolu simülasyonu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Retro Games Online](https://www.retrogames.onl)** — Tarayıcıda klasik konsol/retro oyunlar oynama. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[revid.ai](https://revid.ai)** — Sınırlı ücretsiz kredi sunan video üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Righthair AI](https://righthair.ai)** — AI ile saç modeli deneme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Rigmodels](https://www.rigmodels.com)** — Riglenmiş karakter modelleri arşivi. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Rigmodels3D](https://www.turbosquid.com/Search/3D-Models/free)** — TurboSquid'in ücretsiz filtre sayfası. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Rijksmuseum](https://www.rijksmuseum.nl)** — Sanat eserlerini yüksek çözünürlükte indirme. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Rodin (Hyper3D)](https://hyper3d.ai)** — Metin/görselden yüksek kaliteli 3D model üretimi. <sub>· [AI Destekli 3D Model Üretimi](kategoriler/31-ai-destekli-3d-model-uretimi.md)</sub>
+- **[Rokoko Motion Library](https://www.rokoko.com/motion-library)** — Ücretsiz motion capture animasyon dosyaları. <sub>· [Karakter Animasyonu & Rigging](kategoriler/37-karakter-animasyonu-rigging.md)</sub>
+- **[RomsPedia](https://www.romspedia.com)** — Konsol emülatör ROM'ları arşivi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[RomsPure](https://romspure.co)** — Konsol emülatör ROM'ları arşivi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Rotten Tomatoes](https://www.rottentomatoes.com)** — Film ve dizi değerlendirme ve yorum sitesi. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[RPG Maker Resources (itch.io)](https://itch.io/game-assets/tag-rpg-maker)** — RPG Maker'a özel asset koleksiyonu. <sub>· [Oyun Motoru Pazar Yerleri](kategoriler/38-oyun-motoru-pazar-yerleri.md)</sub>
+- **[RPGCodex](https://rpgcodex.net/forums)** — RPG oyunları tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Rumble](https://rumble.com)** — Video paylaşım ve yayın platformu (YouTube alternatifi). <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Runway](https://runwayml.com)** — AI destekli video düzenleme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[RVros (itch.io)](https://rvros.itch.io)** — "Animated Pixel Adventurer" gibi tanınmış paketlerin yaratıcısı. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+
+## S
+
+- **[SampleFocus](https://samplefocus.com)** — Müzik prodüksiyonu için ücretsiz ses örnekleri. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Sanfoundry](https://www.sanfoundry.com)** — Çeşitli mühendislik ve teknik testler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[SANS Institute](https://www.sans.org)** — Siber güvenlik eğitimi ve sertifikaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Scale of the Universe](https://htwins.net/scale2)** — Atomdan evrene ölçek yolculuğu. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[ScanWP](https://scanwp.net/)** — WordPress sitelerinin kullandığı tema/eklentileri analiz etme. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Scary Stories Generator](https://www.scarystorygenerator.com)** — Rastgele korku hikayeleri oluşturma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Scholarcy](https://www.scholarcy.com/)** — Akademik makaleleri özetleyen ve flashcard'a çeviren AI aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Scholarpedia](http://www.scholarpedia.org/)** — Akademisyenler tarafından yazılmış makaleler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Sci-fi 3D Models (CGTrader kategori)](https://www.cgtrader.com/3d-models/sci-fi)** — Bilim kurgu temalı modeller. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Sci-Hub](https://sci-hub.se/)** — Ücretli akademik makalelere ücretsiz erişim. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Science News](https://www.sciencenews.org/)** — Güncel bilim haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[ScienceDaily](https://www.sciencedaily.com)** — Güncel bilim haberleri akışı. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[ScienceDirect](https://www.sciencedirect.com/)** — Bilimsel makaleler ve dergiler. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Scinapse](https://www.scinapse.io/)** — Hızlı akademik makale arama motoru. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[SciShow (YouTube)](https://www.youtube.com/user/scishow)** — Bilimsel videolar içeren YouTube kanalı. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[SciSpace Copilot](https://www.scispace.com)** — Yapay zeka destekli araştırma asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[ScoutSuite](https://github.com/nccgroup/ScoutSuite)** — Çoklu bulut ortamları için güvenlik denetim aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Screeps](https://screeps.com/)** — Gerçek zamanlı strateji ve programlama oyunu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Scribd](https://scribd.com)** — Abonelik tabanlı e-kitap, sesli kitap ve doküman okuma platformu. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[Scrimba](https://scrimba.com)** — JavaScript ve diğer diller için interaktif öğreticiler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[ScummVM Games](https://www.scummvm.org/games/)** — Eski macera oyunlarını ücretsiz oynama. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[SearchCode](https://searchcode.com/)** — Kaynak kodu ve API arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Security Onion](https://github.com/Security-Onion-Solutions/securityonion)** — Ağ izleme, tehdit avı ve log yönetimi için Linux dağıtımı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[SecurityFocus Forums](https://www.securityfocus.com/forums)** — Bilgisayar güvenliği ve etik hacking. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[SecurityTrails](https://securitytrails.com/)** — DNS ve domain verisi platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Sedo](https://sedo.com/)** — Alan adı alım-satım platformu. <sub>· [Alan Adı (Domain) Hizmetleri](kategoriler/25-alan-adi-domain-hizmetleri.md)</sub>
+- **[Seedance (ByteDance)](https://seed.bytedance.com)** — Hareket ve image-to-video işlerinde güçlü AI video aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Semantic Scholar](https://www.semanticscholar.org/)** — Yapay zeka destekli akademik makale arama motoru. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Semgrep](https://github.com/semgrep/semgrep)** — Kaynak kodda statik analizle açık ve hata tarama aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Sentry](https://sentry.io)** — Prodüksiyon hata takip platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[SEO Chat Forums](https://www.seochat.com)** — SEO ve dijital pazarlama stratejileri. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[SEOmoz Community](https://www.seomoz.org/community)** — SEO stratejileri ve tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Serendipity](https://serendipity.mit.edu)** — Yaratıcı yazı yazma egzersizleri. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Seterra](https://www.seterra.com)** — Harita ve coğrafya oyunları. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[ShadyURL](https://www.shadyurl.com)** — Normal linkleri şüpheli görünen linklere çevirme. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Share Textures](https://sharetextures.com)** — Gerçekçi ve stilize PBR materyaller. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[ShareCG](https://www.sharecg.com)** — Ücretsiz 2D/3D içerik paylaşım topluluğu. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Shell Shockers](https://shellshock.io/)** — Yumurtaların savaştığı FPS oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Shodan](https://www.shodan.io/)** — IoT cihazları / internet bağlantılı cihaz arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Shutterbug Community](https://www.shutterbug.com/community)** — Fotoğrafçılık üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Sigma](https://github.com/SigmaHQ/sigma)** — SIEM sistemlerinden bağımsız genel log tespit kuralı formatı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Simplified](https://simplified.com/)** — Yazı, tasarım ve video üretimini bir araya getiren AI platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Sketch](https://www.sketch.com)** — Dijital tasarım ve prototip oluşturma yazılımı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Sketchfab](https://sketchfab.com)** — 3D model paylaşım ve görüntüleme platformu. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Sketchfab](https://sketchfab.com/3d-models)** — İnteraktif önizlemeli, en büyük 3D model arama motorlarından biri. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Sketchfab Store](https://sketchfab.com/store)** — Sketchfab'in ücretli/ücretsiz model mağazası bölümü. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Sketchful.io](https://sketchful.io)** — Çevrimiçi çizim oyunu. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Sketchpad](https://sketch.io/sketchpad/en/)** — Çevrimiçi çizim aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Skribbl.io](https://skribbl.io/)** — Çizim yaparak tahmin etme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Skyline Webcams](https://www.skylinewebcams.com)** — Canlı şehir kameraları. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Skype](https://www.skype.com)** — İnternet üzerinden sesli ve görüntülü görüşme. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Slack](https://slack.com)** — Takım içi iletişim ve işbirliği aracı. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Slither.io](https://slither.io/)** — Yılanı büyüterek diğerlerini yenme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Slow Roads](https://slowroads.io/)** — Rahatlatıcı açık dünya sürüş oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Smithsonian 3D Digitization](https://3d.si.edu)** — Müze objelerinin taranmış 3D modelleri. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[Smithsonian Institution](https://www.si.edu/)** — Tarih, sanat ve bilim üzerine kaynaklar / sanal müze turu. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Snowflake](https://www.snowflake.com)** — Bulut tabanlı veri ambarı ve analiz platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Sobrief](https://sobrief.com)** — Kitapları kısa özetler halinde sunan platform. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Soccer Random](https://soccer-random.com/)** — Eğlenceli futbol oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[SOCRadar](https://socradar.io)** — Tehdit istihbaratı platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Sololearn](https://www.sololearn.com)** — İnteraktif kodlama dersleri. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Sonniss GameAudioGDC](https://sonniss.com/gameaudiogdc)** — Her yıl GDC'de dağıtılan devasa ücretsiz profesyonel ses arşivi. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[SoundBible](https://soundbible.com)** — Ticari kullanıma uygun royalty-free ses klipleri. <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[Space Engine](http://spaceengine.org)** — Evreni keşfetmek için ücretsiz simülasyon. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Space Type Generator](https://spacetypegenerator.com)** — 3D/uzaysal yazı efektleri oluşturma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Speedrun.com](https://www.speedrun.com)** — Hızlı oyun oynama rekorlarını izleme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Spline](https://spline.design)** — 3D tasarım ve modelleme aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Spline AI](https://spline.design/ai)** — Tarayıcı tabanlı 3D tasarım + AI üretim aracı. <sub>· [AI Destekli 3D Model Üretimi](kategoriler/31-ai-destekli-3d-model-uretimi.md)</sub>
+- **[Split My Song](https://www.splitmysong.com)** — Şarkıları enstrüman/vokal olarak ayırma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Spoken – Deals](https://www.spoken.io/deals)** — Oyun/yazılım indirim takip platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[SpringerLink](https://link.springer.com/)** — Bilimsel makaleler ve kitaplar. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Sprite Cow](https://spritecow.com)** — Sprite sheet'lerden CSS koordinatı çıkaran araç. <sub>· [2D Sprite, Pixel Art & Tileset Siteleri](kategoriler/33-2d-sprite-pixel-art-tileset-siteleri.md)</sub>
+- **[Spriter (BrashMonkey)](https://brashmonkey.com)** — 2D iskelet animasyon aracı. <sub>· [Araçlar (Asset Üretimi/Düzenleme için)](kategoriler/39-araclar-asset-uretimi-duzenleme-icin.md)</sub>
+- **[Spyfall](https://spyfall.app/)** — Casus tahmin etme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[SQL Murder Mystery](https://mystery.knightlab.com/)** — SQL kullanarak cinayet çözme oyunu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[SQLBolt](https://sqlbolt.com)** — SQL öğrenmek için etkileşimli dersler. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[SQLite](https://www.sqlite.org)** — Hafif ve taşınabilir ilişkisel veritabanı motoru. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Squoosh](https://squoosh.app)** — Online görsel sıkıştırma ve format dönüştürme. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Stack Overflow](https://stackoverflow.com)** — Yazılım geliştirme topluluğu ve soru-cevap sitesi. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Staggering Beauty](https://www.staggeringbeauty.com)** — Eğlenceli bir interaktif solucan. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)** — Felsefe alanında kapsamlı ansiklopedi. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Start.me – Cybersecurity Tools](https://start.me/p/bpjxDe/cybersec-tools)** — Siber güvenlik araçlarının derlendiği bağlantı paneli. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Statista](https://www.statista.com/)** — Farklı alanlarda istatistiksel veriler. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Steam Community Forums](https://steamcommunity.com/app)** — Steam oyunları ve yazılımı. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[SteamUnlocked](https://steamunlocked.org/all-games)** — Steam oyunlarının kırılmış sürümlerini indirme sitesi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Stellarium](https://stellarium.org)** — Canlı olarak gökyüzünü incele. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Stellarium Web](https://stellarium-web.org)** — Tarayıcıda gerçek gökyüzü haritası. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Steve.AI](https://www.steve.ai/)** — Metinden animasyon/canlı çekim video üreten AI video aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Stockimg AI](https://stockimg.ai)** — AI ile logo/görsel oluşturma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[StopNCII](https://stopncii.org/)** — Zorla paylaşılan cinsel içerikleri engelleme platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Story Navigation](https://www.storynavigation.com)** — Hikaye geliştirme aracı. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Strudel](https://strudel.cc)** — Tarayıcıda kod yazarak canlı müzik/ritim üretme (live coding) platformu. <sub>· [Müzik & Loop Siteleri](kategoriler/36-muzik-loop-siteleri.md)</sub>
+- **[Studytonight](https://www.studytonight.com)** — Algoritmalar ve programlama konuları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[StumbleUpon (Mix)](https://mix.com)** — Rastgele web siteleri keşfetme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Submarine Cable Map](https://www.submarinecablemap.com)** — İnterneti taşıyan okyanus altı kablolarının haritası. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Substance 3D Assets (Adobe)](https://substance3d.adobe.com/assets)** — Adobe'nin materyal/model kütüphanesi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[Suno AI](https://suno.com)** — Yapay zeka ile müzik üretme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Supabase](https://supabase.com)** — Postgres veritabanı ve backend altyapısı. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Super User](https://superuser.com)** — Genel teknoloji ve yazılım soruları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Supercook](https://www.supercook.com)** — Evdeki malzemelerle yemek tarifleri bulma. <sub>· [Yemek Tarifleri ve Yaşam Tarzı](kategoriler/18-yemek-tarifleri-ve-yasam-tarzi.md)</sub>
+- **[Superdesign](https://superdesign.dev)** — AI destekli UI/arayüz tasarım aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Suricata](https://github.com/OISF/suricata)** — Ağ IDS/IPS ve ağ güvenliği izleme motoru (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Surviv.io](https://surviv.io/)** — Battle royale tarzı hayatta kalma oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[SVG Backgrounds](https://www.svgbackgrounds.com)** — Özelleştirilebilir SVG arka planlar. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Sweezy Cursors](https://sweezy-cursors.com)** — Chrome için özelleştirilmiş fare imleci (cursor) uzantısı. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Swishy](https://swishy.ai)** — Yapay zeka destekli tasarım aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Synthesia](https://www.synthesia.io)** — AI destekli avatar ve video oluşturma. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Synthesys](https://synthesys.io)** — Eğitim odaklı avatar videosu üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[SysAdmin Forums](https://www.sysadminforums.com)** — Sistem yönetimi ve IT destek. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[System Requirements Lab](https://www.systemrequirementslab.com)** — Bilgisayarın oyun/yazılım sistem gereksinimlerini karşılayıp karşılamadığını test etme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+
+## T
+
+- **[Taskade](https://www.taskade.com)** — İşleri düzene koyma / otomasyon aracı. <sub>· [Chatbot, Verimlilik ve Toplantı Araçları (AI)](kategoriler/05-chatbot-verimlilik-ve-toplanti-araclari-ai.md)</sub>
+- **[Tastedive](https://tastedive.com)** — Film, müzik ve kitap önerileri sunan platform. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[TechCrunch](https://techcrunch.com)** — Teknoloji ve girişimcilik haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[TechCrunch Forum](https://techcrunch.com/forums)** — Girişimler ve yeni teknoloji ürünleri. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Techdirt](https://www.techdirt.com)** — Teknolojik gelişmeler ve yasal sorunlar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[TechMeetups](https://techmeetups.com/forums)** — Teknoloji etkinlikleri ve iş ilanları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[TechPowerUp Forums](https://www.techpowerup.com/forums)** — Bilgisayar donanımı ve yazılımı tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[TechRadar](https://www.techradar.com)** — Teknolojik ürün incelemeleri ve haberler. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[TechSoup Forums](https://forums.techsoup.org)** — Teknoloji bağışları ve nonprofit organizasyonlar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[TechSpot Forums](https://www.techspot.com/community)** — Teknoloji ve bilgisayar tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Techtarget](https://www.techtarget.com)** — Teknoloji endüstrisi üzerine tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Telegram.js](https://telegram.js.org/)** — Telegram botları oluşturmak için JavaScript kütüphanesi. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Temp-Mail](https://temp-mail.org/)** — Geçici/tek kullanımlık e-posta adresi oluşturma. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Templyo](https://templyo.io)** — Sosyal medya ve tasarım şablonları oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[TensorFlow](https://www.tensorflow.org)** — Makine öğrenimi ve yapay zeka framework'ü. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[TensorFlow Hub](https://www.tensorflow.org/hub)** — TensorFlow için hazır makine öğrenimi modelleri. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Tesana AI](https://tesana.ai)** — Metin komutlarıyla kod yazmadan 3D oyun üreten AI oyun motoru (kredi tabanlı, kullanıcı yorumlarında tutarsız sonuçlar bildirilmiş). <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Test English](https://www.test-english.com)** — İngilizce dil yeterlilik testi platformu. <sub>· [Dil Öğrenme](kategoriler/21-dil-ogrenme.md)</sub>
+- **[Tetris](https://tetris.com/play-tetris)** — Orijinal Tetris oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Text Behind Image](https://textbehindimage.com)** — Görselin arkasına metin yerleştirme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Text Studio](https://www.textstudio.com)** — Metin efektleri ve logo yazı tasarım aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[TextureCan](https://www.texturecan.com)** — Ücretsiz PBR doku kütüphanesi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[Texturelabs](https://texturelabs.org)** — Fotoğraf tabanlı doku arşivi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[TexturePacker](https://www.codeandweb.com/texturepacker)** — Sprite sheet oluşturma aracı (ücretsiz sürümü mevcut). <sub>· [Araçlar (Asset Üretimi/Düzenleme için)](kategoriler/39-araclar-asset-uretimi-duzenleme-icin.md)</sub>
+- **[Textures.com](https://www.textures.com)** — Aranabilir, ticari kullanıma uygun serbest dokular. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[Texturify](https://texturify.com)** — Ücretsiz PBR doku kütüphanesi. <sub>· [Texture, Materyal (PBR) & HDRI Siteleri](kategoriler/32-texture-materyal-pbr-hdri-siteleri.md)</sub>
+- **[The Base Mesh](https://thebasemesh.com)** — Heykel/modelleme için temiz base mesh modeller. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[The British Library](https://www.bl.uk/)** — İngiltere'nin ulusal kütüphanesi. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[The British Museum](https://www.britishmuseum.org)** — İngiltere'deki müzeleri online keşfet. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[The Detector AI](https://thedetector.ai)** — AI ile üretilmiş metin/görselleri tespit etme aracı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[The Evolution of Trust](https://ncase.me/trust)** — Oyun teorisiyle güvenin nasıl oluştuğunu anlatan etkileşimli oyun. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[The Great Wall of China](https://www.thegreatwallofchina.org)** — Çin Seddi'nin sanal keşfi. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[The Impossible Quiz](https://theimpossiblequiz.io/)** — Zor sorular içeren test oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[The League of Moveable Type](https://www.theleagueofmoveabletype.com)** — Açık kaynak, özenle seçilmiş fontlar. <sub>· [Font & Tipografi](kategoriler/34-font-tipografi.md)</sub>
+- **[The Louvre – Sanal Tur](https://www.louvre.fr/en/visites-en-ligne)** — Louvre müzesinde sanal yürüyüş. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[The Public Domain Review](https://publicdomainreview.org)** — Tarihin unutulmuş görsel hazineleri. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[The Pudding](https://pudding.cool)** — Veriyle anlatılan görsel makaleler. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[The Secret Door](https://www.thesecretdoor.com)** — Rastgele bir yere açılan kapı. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[The True Size Of](https://thetruesize.com)** — Ülkelerin gerçek boyutlarını karşılaştırma. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[The Useless Web](https://theuselessweb.com)** — Webin en saçma ve komik sitelerine yönlendirme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[The Verge](https://www.theverge.com)** — Teknoloji ve dijital kültür haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[The Verge Forums](https://www.theverge.com/forums)** — Teknoloji, pop kültür ve bilim tartışmaları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Thiings](https://www.thiings.co/things)** — Ücretsiz 3D ikon/nesne görselleri arşivi. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Thingiverse](https://www.thingiverse.com)** — 3D baskı odaklı, dev ücretsiz model topluluğu. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[This is Sand](https://thisissand.com)** — Dijital kum sanatı yapma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[This Is The Deep Sea](https://thisisthedeepsea.com)** — Okyanusun derinliklerine bir yolculuk. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Thumbly](https://thumbly.ai/)** — AI ile YouTube küçük resmi (thumbnail) üretme aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Tiled Map Editor](https://www.mapeditor.org)** — Ücretsiz, açık kaynak tilemap editörü. <sub>· [Araçlar (Asset Üretimi/Düzenleme için)](kategoriler/39-araclar-asset-uretimi-duzenleme-icin.md)</sub>
+- **[timeanddate](https://www.timeanddate.com)** — Zaman, gündoğumu ve gökyüzü olayları bilgisi. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Tindie](https://www.tindie.com)** — Elektronik ve donanım projeleri. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Tinkered](https://www.tinkered.ai)** — Tarayıcıda 3D devre simülasyonu aracı (viral olan Withdiode artık kapalı, bu aktif alternatifi). <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Tiny Desk Concerts](https://www.npr.org/sections/tiny-desk-concerts/)** — Sanatçıların mini konserlerini izleme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[TinyPNG](https://tinypng.com)** — Görsel sıkıştırma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[TinyWow](https://tinywow.com)** — Ücretsiz PDF, görsel ve metin araçları bütünü. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[TLDV](https://tldv.io)** — Online toplantı yardımcısı. <sub>· [Chatbot, Verimlilik ve Toplantı Araçları (AI)](kategoriler/05-chatbot-verimlilik-ve-toplanti-araclari-ai.md)</sub>
+- **[Tom's Hardware](https://www.tomshardware.com)** — Donanım incelemeleri ve rehberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Tom's Hardware Forums](https://forums.tomshardware.com)** — Donanım, yazılım ve bilgisayar teknolojisi. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Tome](https://tome.app/)** — Anlatı odaklı, AI destekli sunum/hikaye anlatma aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[ToolFK](https://www.toolfk.com)** — Online dosya/metin dönüştürme araçları. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Toolify.ai](https://www.toolify.ai)** — AI araçları keşif ve karşılaştırma dizini. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Toon3D](https://toon3d.com)** — Karikatür/cizgi film tarzı 3D modeller. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[TopCoder](https://www.topcoder.com)** — Yazılım geliştirme yarışmaları ve zorluklar. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Topview AI](https://www.topview.ai)** — Ürün linkinden otomatik "viral" tarz tanıtım videosu üreten araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Torgamez](https://torgamez.com)** — Torrent üzerinden oyun indirme sitesi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Townscaper](https://oskarstalberg.com/Townscaper/)** — Renkli şehir inşa etme oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Travelgpt](https://www.travelgpt.com)** — Seyahatle ilgili GPT destekli bilgi ve öneriler. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Treehouse](https://teamtreehouse.com)** — Online teknoloji ve yazılım geliştirme kursları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Trello](https://www.trello.com)** — Proje yönetimi ve işbirliği aracı. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[TripAdvisor](https://www.tripadvisor.com)** — Seyahat planlama ve yorumlar. <sub>· [Seyahat ve Konaklama](kategoriler/17-seyahat-ve-konaklama.md)</sub>
+- **[Tripo (Tripo3D Studio)](https://studio.tripo3d.ai)** — Metin/görselden dokulu, riglenebilir mesh üretir. <sub>· [AI Destekli 3D Model Üretimi](kategoriler/31-ai-destekli-3d-model-uretimi.md)</sub>
+- **[Trivia Plaza](https://www.triviaplaza.com)** — Farklı kategorilerde bilgi yarışmaları. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Trivy](https://github.com/aquasecurity/trivy)** — Konteyner, kod ve altyapıda güvenlik açığı tarayıcısı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Truebones Motions](https://truebones.com)** — Motion capture animasyon kütüphanesi (ücretli ağırlıklı, bazı ücretsizler mevcut). <sub>· [Karakter Animasyonu & Rigging](kategoriler/37-karakter-animasyonu-rigging.md)</sub>
+- **[TryHackMe](https://tryhackme.com)** — Etkileşimli siber güvenlik öğrenme platformu. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[TubeBuddy](https://www.tubebuddy.com/)** — YouTube kanal yönetimi ve video optimizasyon araç seti. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Tubi](https://tubitv.com)** — Reklam destekli, ücretsiz ve yasal film/dizi izleme platformu. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[Turbologo](https://www.turbologo.com)** — Online logo oluşturma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[TurboSquid](https://www.turbosquid.com)** — Sertifikalı, stüdyo kalitesinde modellerin satıldığı büyük pazar. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[TuringForum](https://www.turingforum.com)** — Yapay zeka ve teknoloji forumu. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Tutorialspoint](https://www.tutorialspoint.com)** — Teknoloji ve programlama dersleri. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[TV Garden](https://tvgarden.net/watch-live/)** — Dünyadan canlı TV kanalları izleme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Twain](https://www.usetwain.com/)** — Satış e-postaları ve LinkedIn mesajları için AI yazım asistanı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[TweakTown Forums](https://forums.tweaktown.com)** — Donanım ve yazılım hakkında tartışmalar. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Tweet Hunter](https://tweethunter.io/)** — X (Twitter) büyüme ve içerik yönetim platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Tweetmonk](https://tweetmonk.com/)** — AI destekli X (Twitter) içerik zamanlama aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Type Dither](https://typedither.vercel.app)** — Deneysel tipografi/dither efekt aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Typeface Animator](https://www.typefaceanimator.com)** — Metin animasyonu oluşturma aracı. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Typewise](https://www.typewise.app/)** — Müşteri hizmetleri ve satış ekipleri için AI destekli yazım/klavye aracı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Typing Club](https://www.typingclub.com)** — Klavye hız testi. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[Tyrone Unblocked Games](https://tyroneunblockedgames.com)** — Okul/işyeri filtrelerini aşan tarayıcı oyunları. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[TÜİK Veri Portalı](https://data.tuik.gov.tr)** — Türkiye'nin resmi istatistik veritabanı. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+
+## U
+
+- **[Udacity](https://www.udacity.com)** — Online eğitim ve teknoloji kursları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Udemy](https://www.udemy.com)** — Çeşitli konularda online kurslar. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[UI Colors](https://uicolors.com)** — UI tasarım renk önerileri. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Uiverse](https://uiverse.io/)** — UI bileşenlerini paylaşma ve keşfetme platformu. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[UN Data](http://data.un.org/)** — Birleşmiş Milletler veri ve istatistikleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Unblur Image AI](https://unblurimage.ai)** — Bulanık görselleri AI ile netleştirme. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Unity](https://unity.com)** — Oyun geliştirme platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Unity Asset Store](https://assetstore.unity.com)** — Unity için resmi model/script/araç mağazası. <sub>· [Oyun Motoru Pazar Yerleri](kategoriler/38-oyun-motoru-pazar-yerleri.md)</sub>
+- **[Universal Animation Library (itch.io)](https://itch.io/game-assets/free/tag-3d)** — Çok sayıda oyun motoru için hazır animasyon setleri. <sub>· [Karakter Animasyonu & Rigging](kategoriler/37-karakter-animasyonu-rigging.md)</sub>
+- **[Unnecessary Inventions](https://unnecessaryinventions.com)** — Gerekli olmayan, komik icatlar. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Unreal Engine](https://www.unrealengine.com)** — Oyun motoru ve geliştirme aracı. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Unscreen](https://www.unscreen.com)** — Video arka planı kaldırma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Unsplash](https://unsplash.com)** — Telifsiz yüksek kaliteli fotoğraflar. <sub>· [Stok Görsel, Video ve Ses Kaynakları](kategoriler/07-stok-gorsel-video-ve-ses-kaynaklari.md)</sub>
+- **[URLScan](https://urlscan.io/)** — Web site ve URL tarama hizmeti. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[USGS Earth Explorer](https://earthexplorer.usgs.gov/)** — Jeoloji ve arazi verileri. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[USGS Earthquake Hazards](https://earthquake.usgs.gov)** — Son depremlerin canlı listesi. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+
+## V
+
+- **[V0.dev](https://v0.dev/)** — Yapay zeka destekli yazılım geliştirme platformu. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[V7N Community Forums](https://www.v7n.com/forums)** — Web geliştirme, SEO ve dijital pazarlama. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Valodle](https://www.valdle.gg/)** — Valorant ajanlarını tahmin etme. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Vecteezy](https://www.vecteezy.com)** — Ücretsiz vektör grafik ve illüstrasyon arşivi. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Vectorizer](https://www.vectorizer.io)** — Görselleri vektör formatına dönüştürme. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Vectr](https://vectr.com)** — Ücretsiz vektör grafik tasarım aracı (Canva alternatifi). <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Veed.io](https://www.veed.io)** — Online video düzenleme platformu. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Velociraptor](https://github.com/Velocidex/velociraptor)** — Uç nokta görünürlüğü, adli analiz ve olay müdahale aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Venge.io](https://venge.io/)** — Hızlı tempolu FPS oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[VentureBeat](https://venturebeat.com)** — Teknoloji ve girişimcilik haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Vercel](https://vercel.com)** — Web geliştirme ve dağıtım platformu. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Versus.com](https://versus.com/tr)** — Ürün/oyun karşılaştırma platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[VFXTalk](https://www.vfxtalk.com)** — Görsel efektler ve animasyonlar üzerine forum. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[VibeUI](https://vibeui.online)** — UI bileşen ve tasarım ilham galerisi. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Videvo](https://www.videvo.net)** — Stok videolar ve hareketli grafikler. <sub>· [Stok Görsel, Video ve Ses Kaynakları](kategoriler/07-stok-gorsel-video-ve-ses-kaynaklari.md)</sub>
+- **[Vidnoz](https://www.vidnoz.com)** — Konuşan avatar videolarında cömert ücretsiz kota sunan şablon tabanlı araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Vidu](https://www.vidu.com)** — Metinden/görselden video üreten AI aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Viewmax](https://www.viewmax.io)** — AI destekli video üretim platformu (Everygen'e yönlendirilir). <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Viggle AI](https://viggle.ai)** — Statik karakter fotoğrafını fizik-temelli 3D modelle hareketli videoya dönüştüren araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Virtual Vacation](https://virtualvacation.us)** — Şehirlerde sanal yürüyüş. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Virtual Yosemite](https://www.virtualyosemite.org)** — Yosemite Ulusal Parkı'nı gez. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[Virusscan](https://www.virusscan.org)** — Virüs tarama ve zararlı yazılım tespiti. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[VirusTotal](https://www.virustotal.com)** — Dosya ve URL güvenlik taraması yapma platformu / zararlı yazılım analizi. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Visla](https://www.visla.us)** — Takım işbirliği ve marka tutarlılığına odaklı, script'ten videoya dönüşüm sağlayan platform. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[VisuAlgo](https://visualgo.net)** — Veri yapıları ve algoritmaların görsel simülasyonları. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+- **[Vmake Video Watermark Remover](https://vmake.ai/video-watermark-remover)** — AI ile videolardan filigran (watermark) kaldırma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Voila AI](https://www.getvoila.ai/)** — Tarayıcıda her yerde kullanılabilen GPT destekli kişisel asistan. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Volatility 3](https://github.com/volatilityfoundation/volatility3)** — Bellek (RAM) adli analiz çerçevesi (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Vondy](https://vondy.com/)** — Metin, görsel ve chatbot üretebilen çok amaçlı AI uygulama platformu. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Voscreen](https://www.voscreen.com)** — Dil öğrenme aracı, kısa videolarla dil pratiği. <sub>· [Dil Öğrenme](kategoriler/21-dil-ogrenme.md)</sub>
+- **[Vozo](https://www.vozo.ai)** — Sesli mesajlaşma uygulaması. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[VSThemes – Duvar Kağıtları](https://vsthemes.org/en/wallpapers/)** — Windows temaları ve duvar kağıdı arşivi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Vulners](https://vulners.com/)** — Güvenlik açığı veritabanı ve arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+
+## W
+
+- **[W3Schools TryIt](https://www.w3schools.com/html/tryit.asp)** — HTML, CSS ve JavaScript test aracı. <sub>· [Yazılım Geliştirme Platformları / IDE / Barındırma](kategoriler/09-yazilim-gelistirme-platformlari-ide-barindirma.md)</sub>
+- **[Wacom Community](https://community.wacom.com)** — Dijital çizim tabletleri ve sanatsal üretim. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Wait But Why](https://waitbutwhy.com)** — Eğlenceli ve düşündürücü blog. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Wallhaven](https://wallhaven.cc)** — Yüksek çözünürlüklü duvar kağıdı arşivi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Wallpaper Waifu](https://wallpaperwaifu.com)** — Anime temalı duvar kağıtları arşivi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Wallpapers Clan](https://wallpapers-clan.com)** — Çeşitli kategori duvar kağıtları arşivi. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Warmer.ai](https://www.warmer.ai/)** — LinkedIn ve web verisiyle kişiselleştirilmiş soğuk e-posta açılışları üreten araç. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Watch2Gether](https://w2g.tv/)** — Arkadaşlarla senkronize video/içerik izleme platformu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Watermark Remover](https://www.watermarkremover.io)** — AI ile filigran (watermark) kaldırma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Wavve](https://www.wavve.co)** — Ses kayıtlarını sosyal medya videosuna çevirme. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>
+- **[Wazuh](https://github.com/wazuh/wazuh)** — Açık kaynak XDR/SIEM güvenlik izleme platformu (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Weavesilk](https://weavesilk.com)** — Dijital sanat yaratma. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Web Developer Forum](https://www.webdeveloper.com/forum)** — Web geliştirme hakkında her şey. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Web Hosting Talk](https://www.webhostingtalk.com)** — Web barındırma ve internet teknolojileri. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[WebmasterWorld](https://www.webmasterworld.com)** — Web geliştirme, SEO ve dijital pazarlama. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Webstudio](https://webstudio.is)** — Görsel web tasarım aracı. <sub>· [Sunum, CV ve Web Sitesi Oluşturma](kategoriler/03-sunum-cv-ve-web-sitesi-olusturma.md)</sub>
+- **[Weird or Confusing](https://weirdorconfusing.com)** — İlginç içerikler sunan site. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Weris](https://weris.ordinall.me)** — Kişilik/dünya görüşü keşfeden interaktif deneme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[WeTransfer](https://wetransfer.com)** — Dosya gönderme ve paylaşma hizmeti. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[What If? (xkcd)](https://what-if.xkcd.com)** — İlginç bilimsel soruların cevapları. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[What Should I Read Next?](https://www.whatshouldireadnext.com)** — Okuma önerileri almak için. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[What Song](https://www.whatsong.com)** — Şarkı bulma ve tanımlama aracı. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[What's on Netflix](https://www.whats-on-netflix.com)** — Netflix'teki içerikler hakkında bilgi ve öneriler. <sub>· [Film, Dizi ve Müzik Keşif / İnceleme](kategoriler/12-film-dizi-ve-muzik-kesif-inceleme.md)</sub>
+- **[WhatsMyName](https://whatsmyname.app)** — Bir kullanıcı adının hangi platformlarda kayıtlı olduğunu tarayan OSINT aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[WhatTheFont](https://www.myfonts.com/WhatTheFont)** — Font tanıma aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[Which Book?](https://www.openingthebook.com/whichbook)** — Ruh haline göre kitap önerileri. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[Whitescreen Online](https://www.whitescreen.online)** — Beyaz arka plan/ekran oluşturma aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Wibbitz](https://www.wibbitz.com)** — Metni otomatik transkript edip stok görsellerle eşleştiren video üretim aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[WifiSpc](https://wifispc.com/)** — Wi-Fi ağ bilgisi ve IP adresi görüntüleme aracı. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Wigle](https://wigle.net/)** — Kablosuz ağ haritalama platformu. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[WikiArt](https://www.wikiart.org)** — 250 bin sanat eserinin arşivi. <sub>· [Kütüphane, Müze ve Kültürel Arşivler](kategoriler/15-kutuphane-muze-ve-kulturel-arsivler.md)</sub>
+- **[WikiHow](https://www.wikihow.com)** — Herhangi bir konuda rehberler ve nasıl yapılır yazıları. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Wikipedia](https://www.wikipedia.org/)** — Dünyanın en büyük açık ansiklopedisi. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Wikipedia (Rastgele Sayfa)](https://en.wikipedia.org/wiki/Special:Random)** — Rastgele bir Wikipedia maddesine giderek bilgi kuyusuna dalma. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Window Swap](https://window-swap.com)** — Dünyanın dört bir yanından paylaşılan pencere manzaraları izleme. <sub>· [Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler](kategoriler/19-eglence-vakit-gecirme-ve-ilginc-tuhaf-siteler.md)</sub>
+- **[Windy](https://www.windy.com)** — Rüzgar ve fırtınaların canlı haritası. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Wired](https://www.wired.com)** — Teknoloji, kültür ve bilim haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Wiseone](https://wiseone.io/)** — Web okuma ve araştırmayı güçlendiren AI Chrome uzantısı. <sub>· [Yapay Zeka Araçları (Genel)](kategoriler/01-yapay-zeka-araclari-genel.md)</sub>
+- **[Wistia Remix](https://wistia.com)** — Sohbet tabanlı, çoklu kaynaktan video birleştiren düzenleme aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Wolfram Alpha](https://www.wolframalpha.com)** — İleri düzey matematik hesaplamaları. <sub>· [Matematik, Bilim Eğitimi ve Hesaplama Araçları](kategoriler/22-matematik-bilim-egitimi-ve-hesaplama-araclari.md)</sub>
+- **[Wordle](https://www.nytimes.com/games/wordle/index.html)** — Günlük kelime tahmin oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Wordmark](https://wordmark.abhayramesh.com)** — Yazı tipi denemeleri için hızlı önizleme aracı. <sub>· [Tasarım, Grafik ve Görsel Kaynaklar](kategoriler/06-tasarim-grafik-ve-gorsel-kaynaklar.md)</sub>
+- **[WordPress.org Forums](https://wordpress.org/support/forums)** — WordPress kullanımı ve eklentileri. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+- **[Wordtune](https://www.wordtune.com)** — Metin özetleme ve yeniden yazma aracı. <sub>· [Yazı Yazma ve İçerik Üretimi](kategoriler/02-yazi-yazma-ve-icerik-uretimi.md)</sub>
+- **[World Bank Open Data](https://data.worldbank.org/)** — Dünya Bankası açık veri setleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[WorldCat](https://www.worldcat.org/)** — Dünya genelindeki kütüphaneleri tarayan arama motoru. <sub>· [Akademik Araştırma, Bilimsel Makale ve Ansiklopedi Kaynakları](kategoriler/14-akademik-arastirma-bilimsel-makale-ve-ansiklopedi-kaynaklari.md)</sub>
+- **[Worldometer](https://www.worldometers.info)** — Dünya ile ilgili canlı istatistikler. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[Wormax.io](https://wormax.io/)** — Slither.io benzeri yılan oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Writesonic](https://www.writesonic.com)** — Metin oluşturma ve yazı yazma aracı. <sub>· [Yazı Yazma ve İçerik Üretimi](kategoriler/02-yazi-yazma-ve-icerik-uretimi.md)</sub>
+- **[www.cs.usfca.edu](https://www.cs.usfca.edu)** — Algoritmaların görselleştirildiği etkileşimli platform. <sub>· [Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar](kategoriler/10-programlama-ogrenme-kod-egzersizleri-ve-bulmacalar.md)</sub>
+
+## X
+
+- **[X-Minus](https://x-minus.pro)** — AI ile şarkılardan vokal/enstrüman ayırma (karaoke) aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[XDA Developers](https://www.xda-developers.com)** — Android, yazılım ve cihaz modifikasyonları. <sub>· [Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md)</sub>
+
+## Y
+
+- **[YARA](https://github.com/VirusTotal/yara)** — Zararlı yazılımları kurallarla tanımlayıp sınıflandırma aracı (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Yarn](https://yarn.co)** — Film/dizi repliklerinden video klip arama aracı. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Yarrlist](https://yarrlist.com)** — Torrent/korsan içerik indeksleme sitesi. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Yobi3D](https://www.yobi3d.com)** — Birden fazla siteyi tarayan 3D model arama motoru. <sub>· [3D Model Kütüphaneleri & Pazar Yerleri](kategoriler/30-3d-model-kutuphaneleri-pazar-yerleri.md)</sub>
+- **[YouTube to Transcript](https://youtubetotranscript.com)** — YouTube videolarını yazıya döken (transkript) araç. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[YouWear AI](https://www.youwear.ai)** — AI ile sanal kıyafet deneme (virtual try-on) aracı. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+
+## Z
+
+- **[Z-Library](https://z-lib.io/)** — Dijital kitap arşivi. <sub>· [Kitap ve Okuma Kaynakları](kategoriler/13-kitap-ve-okuma-kaynaklari.md)</sub>
+- **[Zapsplat](https://www.zapsplat.com)** — Geniş gerçek dünya kayıtları arşivi (üyelik gerekli). <sub>· [Ses Efekti (SFX) Siteleri](kategoriler/35-ses-efekti-sfx-siteleri.md)</sub>
+- **[ZDNet](https://www.zdnet.com)** — İş dünyası ve teknoloji haberleri. <sub>· [Haber, Blog ve Teknoloji Medyası](kategoriler/23-haber-blog-ve-teknoloji-medyasi.md)</sub>
+- **[Zeek](https://github.com/zeek/zeek)** — Ağ trafiği analizi ve güvenlik izleme çerçevesi (GitHub). <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Zeely AI](https://zeely.ai)** — UGC tarzı reklam videoları üretiminde uzmanlaşmış araç. <sub>· [Görsel ve Video Üretme / Düzenleme (AI Destekli)](kategoriler/04-gorsel-ve-video-uretme-duzenleme-ai-destekli.md)</sub>
+- **[Zombs Royale](https://zombsroyale.io/)** — 2D battle royale oyunu. <sub>· [Online Oyunlar](kategoriler/20-online-oyunlar.md)</sub>
+- **[Zoom](https://zoom.us)** — Video konferans platformu. <sub>· [Proje Yönetimi ve İletişim Araçları](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md)</sub>
+- **[Zoom Earth](https://zoom.earth)** — Dünyayı canlı uydu görüntüsüyle izleme. <sub>· [Coğrafya, Harita, Uzay ve Bilim Keşif Siteleri](kategoriler/16-cografya-harita-uzay-ve-bilim-kesif-siteleri.md)</sub>
+- **[ZoomEye](https://www.zoomeye.org/)** — Cihazlar için siber uzay arama motoru. <sub>· [Siber Güvenlik, OSINT ve Dosya/URL Tarama Araçları](kategoriler/11-siber-guvenlik-osint-ve-dosya-url-tarama-araclari.md)</sub>
+- **[Zty.pe](https://zty.pe)** — Eğlenceli, yarışmalı klavye/daktilo hızı oyunu. <sub>· [Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md)</sub>
+- **[Zubtitle](https://www.zubtitle.com)** — Videolar için otomatik altyazı ekleme. <sub>· [Video Düzenleme ve Sosyal Medya İçerik Araçları](kategoriler/08-video-duzenleme-ve-sosyal-medya-icerik-araclari.md)</sub>

@@ -1,0 +1,106 @@
+# Online Oyunlar
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** online oyun, tarayıcı oyunu, ücretsiz oyun, browser game, io oyunları, flash oyun alternatifi
+
+- [Wordle](https://www.nytimes.com/games/wordle/index.html) — Günlük kelime tahmin oyunu.
+- [Heardle](https://heardle.app/) — Şarkıyı tahmin etme oyunu.
+- [Framed](https://framed.wtf/) — Film sahnesine bakarak filmi tahmin etme.
+- [GuessTheGame](https://guessthe.game/) — Oyun ekran görüntüsünden oyunu tahmin etme.
+- [Loldle](https://loldle.net/) — League of Legends karakter tahmin oyunu.
+- [Valodle](https://www.valdle.gg/) — Valorant ajanlarını tahmin etme.
+- [Minecraftdle](https://www.minecraftdle.net/) — Minecraft hakkında tahmin oyunu.
+- [Poeltl](https://poeltl.dunk.town/) — NBA oyuncu tahmin oyunu.
+- [Dribble Game](https://dribbblegame.com/) — Futbolcu tahmin oyunu.
+- [Tetris](https://tetris.com/play-tetris) — Orijinal Tetris oyunu.
+- [Pacman (Google)](https://www.google.com/search?q=pacman) — Google'ın Pac-Man versiyonu.
+- [2048](https://play2048.co/) — Sayıları birleştirerek 2048'e ulaşma.
+- [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) — Çılgın tıklama oyunu.
+- [The Impossible Quiz](https://theimpossiblequiz.io/) — Zor sorular içeren test oyunu.
+- [QWOP](http://www.foddy.net/Athletics.html) — Koşu oyunu (zor).
+- [Foddy.net](https://foddy.net) — Zorlayıcı ve eğlenceli oyunlar.
+- [Slow Roads](https://slowroads.io/) — Rahatlatıcı açık dünya sürüş oyunu.
+- [Drift Hunters](https://drifthunters.io/) — Drift yaparak puan kazanma.
+- [Moto X3M](https://www.motox3m.io/) — Akrobatik motor oyunu.
+- [Highway Racer](https://highwayracer.io/) — Sonsuz otoyol yarış oyunu.
+- [City Car Driving](https://www.citycardriving.com/) — Araba sürme simülatörü.
+- [Krunker.io](https://krunker.io/) — Tarayıcıda oynanabilen FPS oyunu.
+- [Shell Shockers](https://shellshock.io/) — Yumurtaların savaştığı FPS oyunu.
+- [Venge.io](https://venge.io/) — Hızlı tempolu FPS oyunu.
+- [MiniRoyale](https://miniroyale.io/) — Tarayıcıda battle royale.
+- [Ev.io](https://ev.io/) — Bilim kurgu temalı FPS oyunu.
+- [Zombs Royale](https://zombsroyale.io/) — 2D battle royale oyunu.
+- [Surviv.io](https://surviv.io/) — Battle royale tarzı hayatta kalma oyunu.
+- [Agar.io](https://agar.io/) — Küçük hücrelerle başlayıp büyüme oyunu.
+- [Slither.io](https://slither.io/) — Yılanı büyüterek diğerlerini yenme oyunu.
+- [Paper.io](https://paper.io/) — Alan fethetme oyunu.
+- [Diep.io](https://diep.io/) — Tank savaş oyunu.
+- [Wormax.io](https://wormax.io/) — Slither.io benzeri yılan oyunu.
+- [Little Big Snake](https://littlebigsnake.com/) — Gelişmiş yılan oyunu.
+- [Age of War](https://www.ageofwar.io/) — Çağlar boyunca savaş oyunu.
+- [Bloons TD](https://bloonstd6.com/) — Kule savunma oyunu.
+- [Mope.io](https://mope.io/) — Hayvanlarla evrim geçirme oyunu.
+- [Forge of Empires](https://www.forgeofempires.com/) — Şehir kurma ve savaş oyunu.
+- [Townscaper](https://oskarstalberg.com/Townscaper/) — Renkli şehir inşa etme oyunu.
+- [Basketball Stars](https://www.basketballstars.io/) — 2D basketbol oyunu.
+- [Soccer Random](https://soccer-random.com/) — Eğlenceli futbol oyunu.
+- [Retro Bowl](https://retro-bowl.com/) — Amerikan futbolu simülasyonu.
+- [Golf Battle](https://www.golfbattle.io/) — Mini golf oyunu.
+- [8 Ball Pool](https://www.8ballpool.com/) — Bilardo oyunu.
+- [Skribbl.io](https://skribbl.io/) — Çizim yaparak tahmin etme oyunu.
+- [Gartic Phone](https://garticphone.com/) — Multiplayer çizim oyunu.
+- [Drawasaurus](https://www.drawasaurus.org/) — Çizim tabanlı kelime oyunu.
+- [Codenames](https://www.horsepaste.com/) — Kelime bağlantısı kurma oyunu.
+- [Spyfall](https://spyfall.app/) — Casus tahmin etme oyunu.
+- [A Dark Room](https://adarkroom.doublespeakgames.com/) — Metin tabanlı hayatta kalma/macera oyunu.
+- [Escape Simulator](https://escapesimulator.com/) — Bulmaca tabanlı kaçış oyunu.
+- [Cube Escape](https://www.rustylake.com/apps/cube-escape/) — Macera bulmaca oyunu.
+- [PlayDOSGames](https://www.playdosgames.com/) — Eski DOS oyunlarını oynama.
+- [Classic Reload](https://www.classicreload.com/) — Klasik PC oyunları koleksiyonu.
+- [Internet Archive Games (MS-DOS)](https://archive.org/details/softwarelibrary_msdos_games) — MS-DOS oyunlarını tarayıcıda oynama.
+- [ScummVM Games](https://www.scummvm.org/games/) — Eski macera oyunlarını ücretsiz oynama.
+- [Itch.io](https://itch.io/games/free) — Bağımsız oyun koleksiyonu / satış platformu.
+- [Newgrounds](https://www.newgrounds.com/) — Flash ve indie oyunlar.
+- [Armor Games](https://armorgames.com/) — Flash ve HTML5 oyunlar.
+- [Kongregate](https://www.kongregate.com/) — Tarayıcı oyunları koleksiyonu.
+- [Crazy Games](https://www.crazygames.com/) — Güncel tarayıcı oyunları.
+- [Retro Games Online](https://www.retrogames.onl) — Tarayıcıda klasik konsol/retro oyunlar oynama.
+- [Classic Game Zone](https://classicgamezone.com) — Ücretsiz klasik/retro tarayıcı oyunları.
+- [Arcade Space](https://www.arcadespace.org/home) — Retro arcade oyunları koleksiyonu.
+- [Flash Museum](https://flashmuseum.org) — Eski Flash oyunlarının arşivlendiği müze.
+- [Flash.co](https://flash.co/) — Klasik Flash oyunlarını tarayıcıda oynatma platformu.
+- [Deep Web Nest – Games](https://deepwebnest.com/games.html) — Tarayıcı tabanlı ücretsiz oyunlar koleksiyonu.
+- [90'lar Kids Games](https://90kids.com/games) — 90'lar nostaljisiyle ücretsiz tarayıcı oyunları.
+- [Tyrone Unblocked Games](https://tyroneunblockedgames.com) — Okul/işyeri filtrelerini aşan tarayıcı oyunları.
+- [Nite.games](https://nite.games) — Tarayıcı tabanlı çoklu oyuncu oyun koleksiyonu.
+- [Tesana AI](https://tesana.ai) — Metin komutlarıyla kod yazmadan 3D oyun üreten AI oyun motoru (kredi tabanlı, kullanıcı yorumlarında tutarsız sonuçlar bildirilmiş).
+- [Play-CS – Sunucular](https://play-cs.com/tr/servers) — Counter-Strike 1.6 sunucu listesi ve indirme.
+- [GameBounty](https://gamebounty.world) — Oyun ödülleri/etkinlik takip platformu.
+- [Lostgamer](https://lostgamer.io) — Ücretsiz tarayıcı oyunları platformu.
+- [Desktop Hut](https://www.desktophut.com) — Ücretsiz masaüstü/tarayıcı oyunları.
+- [AirConsole](https://www.airconsole.com) — Telefonu kumanda gibi kullanarak TV/bilgisayarda oynanan çoklu oyuncu oyun platformu.
+- [Versus.com](https://versus.com/tr) — Ürün/oyun karşılaştırma platformu.
+- [IsThereAnyDeal](https://isthereanydeal.com) — PC oyun fiyatlarını farklı mağazalarda karşılaştırma.
+- [Spoken – Deals](https://www.spoken.io/deals) — Oyun/yazılım indirim takip platformu.
+- [Board Game Arena](https://boardgamearena.com) — Çevrimiçi masaüstü/kutu oyunları oynama platformu.
+- [GeoFS](https://geo-fs.com) — Tarayıcı tabanlı uçuş simülatörü.
+- [Deadshot.io](https://deadshot.io) — Tarayıcıda oynanan çok oyunculu nişancı (shooter) oyunu.
+- [3D Aim Trainer](https://3daimtrainer.com) — FPS oyunları için nişan alma pratiği yapılan eğitim aracı.
+- [Watch2Gether](https://w2g.tv/) — Arkadaşlarla senkronize video/içerik izleme platformu.
+- [CurseForge – Laser Eyes (Minecraft Mod)](https://www.curseforge.com/minecraft/mc-mods/laser-eyes) — Minecraft için mod indirme sayfası.
+- [CurseForge – Viltrumite (Minecraft Mod)](https://www.curseforge.com/minecraft/mc-mods/viltrumite) — Minecraft için mod indirme sayfası.
+
+**⚠️ Kırılmış oyun / ROM indirme (bkz. sorumluluk reddi):**
+- [FitGirl Repacks](https://fitgirl-repacks.site) — Sıkıştırılmış/kırılmış (cracked) PC oyun "repack"leri paylaşan ünlü bir site.
+- [SteamUnlocked](https://steamunlocked.org/all-games) — Steam oyunlarının kırılmış sürümlerini indirme sitesi.
+- [RomsPedia](https://www.romspedia.com) — Konsol emülatör ROM'ları arşivi.
+- [RomsPure](https://romspure.co) — Konsol emülatör ROM'ları arşivi.
+- [OldGamesDownload](https://oldgamesdownload.com) — Eski PC oyunlarını indirme sitesi.
+- [Torgamez](https://torgamez.com) — Torrent üzerinden oyun indirme sitesi.
+- [Modyolo](https://modyolo.com) — Mobil oyunların hileli/mod APK sürümlerini indirme sitesi.
+- [Adescargar](https://adescargar.online) — İspanyolca oyun/yazılım indirme sitesi.
+- [GenixKey](https://genixkey.com.tr) — Yazılım/oyun lisans anahtarı (muhtemelen korsan) paylaşım sitesi.
+- [Yarrlist](https://yarrlist.com) — Torrent/korsan içerik indeksleme sitesi.
+- [4FNet](https://www.4fnet.org) — Dosya/yazılım paylaşım forumu.
+- [Blackseaai](https://blackseaai.com) — İçeriği net doğrulanamayan bir site; adından AI ile ilgili olabilir.

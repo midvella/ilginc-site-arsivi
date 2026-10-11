@@ -1,0 +1,97 @@
+# Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular)
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** forum, tartışma platformu, topluluk sitesi, teknoloji forumu, oyun forumu, güvenlik forumu, programlama forumu
+
+- [Super User](https://superuser.com) — Genel teknoloji ve yazılım soruları.
+- [GitHub Discussions](https://github.com/discussions) — GitHub projeleri için topluluk tartışmaları.
+- [XDA Developers](https://www.xda-developers.com) — Android, yazılım ve cihaz modifikasyonları.
+- [Tom's Hardware Forums](https://forums.tomshardware.com) — Donanım, yazılım ve bilgisayar teknolojisi.
+- [Ars Technica OpenForum](https://arstechnica.com/civis) — Teknoloji ve bilim forumu.
+- [TechPowerUp Forums](https://www.techpowerup.com/forums) — Bilgisayar donanımı ve yazılımı tartışmaları.
+- [BleepingComputer](https://www.bleepingcomputer.com/forums) — Bilgisayar güvenliği ve yazılım sorunları.
+- [TechSpot Forums](https://www.techspot.com/community) — Teknoloji ve bilgisayar tartışmaları.
+- [DigitalSpy Forums](https://forums.digitalspy.com) — Dijital medya ve teknoloji tartışmaları.
+- [AnandTech Forums](https://forums.anandtech.com) — Bilgisayar donanımı ve teknolojisi üzerine tartışmalar.
+- [CNET Forums](https://www.cnet.com/forums) — Teknoloji ürünleri ve yazılımlarına dair görüşler.
+- [The Verge Forums](https://www.theverge.com/forums) — Teknoloji, pop kültür ve bilim tartışmaları.
+- [LinuxQuestions.org](https://www.linuxquestions.org/questions) — Linux ve açık kaynak yazılım konuları.
+- [V7N Community Forums](https://www.v7n.com/forums) — Web geliştirme, SEO ve dijital pazarlama.
+- [Web Hosting Talk](https://www.webhostingtalk.com) — Web barındırma ve internet teknolojileri.
+- [ComputerHope Forums](https://www.computerhope.com/forum) — Bilgisayar sorunları ve yardım.
+- [Overclock.net](https://www.overclock.net) — Bilgisayar donanımını hız aşırtma.
+- [GameDev.net Forums](https://www.gamedev.net/forums) — Oyun geliştirme tartışmaları.
+- [Giant Bomb Forums](https://www.giantbomb.com/forums) — Video oyunları ve oyun kültürü.
+- [NeoGAF](https://www.neogaf.com) — Video oyunları, teknoloji ve kültür tartışmaları.
+- [IGN Boards](https://www.ign.com/boards) — Video oyunları ve pop kültür hakkında tartışmalar.
+- [Metacritic Forums](https://www.metacritic.com/game/forums) — Oyunlar ve medya hakkında yorumlar.
+- [GameFAQs Forums](https://www.gamefaqs.gamespot.com/boards) — Oyun rehberleri ve soru-cevap.
+- [RPGCodex](https://rpgcodex.net/forums) — RPG oyunları tartışmaları.
+- [Blizzard Entertainment Forums](https://us.battle.net/forums) — Blizzard oyunları hakkında tartışmalar.
+- [EA Forums](https://answers.ea.com) — EA oyunları hakkında sorunlar ve çözümler.
+- [Steam Community Forums](https://steamcommunity.com/app) — Steam oyunları ve yazılımı.
+- [GOG.com Forums](https://www.gog.com/forum) — DRM'siz oyunlar ve tartışmalar.
+- [TweakTown Forums](https://forums.tweaktown.com) — Donanım ve yazılım hakkında tartışmalar.
+- [Head-Fi](https://www.head-fi.org) — Ses sistemleri ve kulaklıklar hakkında tartışmalar.
+- [AVS Forum](https://www.avsforum.com) — Ev sinema sistemleri ve multimedya.
+- [Photo.net Forums](https://photo.net) — Fotoğrafçılık ve kamera ekipmanları tartışmaları.
+- [Penny Arcade Forums](https://forums.penny-arcade.com) — Video oyunları ve kültür üzerine tartışmalar.
+- [Techdirt](https://www.techdirt.com) — Teknolojik gelişmeler ve yasal sorunlar.
+- [All About Circuits Forum](https://forum.allaboutcircuits.com) — Elektronik mühendisliği tartışmaları.
+- [Arduino Forum](https://forum.arduino.cc) — Arduino projeleri ve elektronik cihazlar.
+- [Raspberry Pi Forums](https://www.raspberrypi.org/forums) — Raspberry Pi projeleri ve uygulamaları.
+- [TuringForum](https://www.turingforum.com) — Yapay zeka ve teknoloji forumu.
+- [AI Alignment Forum](https://www.alignmentforum.org) — Yapay zeka güvenliği ve gelişimi.
+- [Data Science Central](https://www.datasciencecentral.com) — Veri bilimi ve analitik forumu.
+- [DataCamp Community](https://www.datacamp.com/community) — Veri bilimi ve makine öğrenimi tartışmaları.
+- [Machine Learning Forum](https://www.machinelearningforum.com) — Makine öğrenimi konularında tartışmalar.
+- [Big Data Forum](https://www.bigdataforum.com) — Büyük veri ve analizler.
+- [Artificial Intelligence Forum](https://www.artificialintelligenceforum.com) — Yapay zeka uygulamaları.
+- [TechMeetups](https://techmeetups.com/forums) — Teknoloji etkinlikleri ve iş ilanları.
+- [TechCrunch Forum](https://techcrunch.com/forums) — Girişimler ve yeni teknoloji ürünleri.
+- [HackerOne Community](https://www.hackerone.com/community) — Güvenlik araştırmaları ve hacker'lar.
+- [SecurityFocus Forums](https://www.securityfocus.com/forums) — Bilgisayar güvenliği ve etik hacking.
+- [OWASP Community](https://www.owasp.org/community) — Güvenlik açıkları ve siber güvenlik.
+- [Breach Forums](https://breachforums.net) — Veri sızıntıları ve siber güvenlik konuları.
+- [MalwareTips Forums](https://malwaretips.com) — Malware ve virüs temizliği tartışmaları.
+- [Infosec Institute](https://www.infosecinstitute.com) — Siber güvenlik ve sertifikasyonlar.
+- [SANS Institute](https://www.sans.org) — Siber güvenlik eğitimi ve sertifikaları.
+- [CISSP Forums](https://www.cissp.com/forum) — CISSP tartışmaları.
+- [SysAdmin Forums](https://www.sysadminforums.com) — Sistem yönetimi ve IT destek.
+- [TechSoup Forums](https://forums.techsoup.org) — Teknoloji bağışları ve nonprofit organizasyonlar.
+- [Mozilla Discourse](https://discourse.mozilla.org) — Firefox ve açık web tartışmaları.
+- [Python.org Forum](https://discuss.python.org) — Python programlama dili hakkında tartışmalar.
+- [R Programming Community](https://community.rstudio.com) — R dilinde veri bilimi ve istatistik.
+- [JavaRanch](https://www.javaranch.com) — Java geliştiricileri için forum.
+- [C++ Forum](https://www.cplusplus.com/forum) — C++ programlama diline dair tartışmalar.
+- [JavaScript Jabber](https://devchat.tv/javascript-jabber) — JavaScript geliştirme hakkında podcast ve forum.
+- [PHP Freaks](https://www.phpfreaks.com) — PHP ve web geliştirme konuları.
+- [WordPress.org Forums](https://wordpress.org/support/forums) — WordPress kullanımı ve eklentileri.
+- [WebmasterWorld](https://www.webmasterworld.com) — Web geliştirme, SEO ve dijital pazarlama.
+- [SEO Chat Forums](https://www.seochat.com) — SEO ve dijital pazarlama stratejileri.
+- [Moz Community](https://moz.com/community) — SEO ve dijital pazarlama üzerine tartışmalar.
+- [Google Webmasters (Search Console Help)](https://support.google.com/webmasters) — Google SEO araçları ve öneriler.
+- [SEOmoz Community](https://www.seomoz.org/community) — SEO stratejileri ve tartışmalar.
+- [Web Developer Forum](https://www.webdeveloper.com/forum) — Web geliştirme hakkında her şey.
+- [DigitalPoint](https://forums.digitalpoint.com) — SEO, dijital pazarlama ve web geliştirme.
+- [Shutterbug Community](https://www.shutterbug.com/community) — Fotoğrafçılık üzerine tartışmalar.
+- [Photography-on-the.net](https://photography-on-the.net/forum) — Fotoğrafçılık donanımı ve teknikleri.
+- [Fstoppers Forum](https://fstoppers.com) — Fotoğrafçılık, video prodüksiyon ve teknik tartışmalar.
+- [DeviantArt](https://www.deviantart.com) — Sanat ve dijital tasarım tartışmaları.
+- [ArtStation](https://www.artstation.com) — Dijital sanat ve 3D modelleme üzerine tartışmalar.
+- [Blender Artists](https://blenderartists.org) — Blender yazılımı ve 3D modelleme forumu.
+- [CGSociety](https://forums.cgsociety.org) — 3D sanat ve animasyon tartışmaları.
+- [VFXTalk](https://www.vfxtalk.com) — Görsel efektler ve animasyonlar üzerine forum.
+- [3DTotal Forums](https://forums.3dtotal.com) — 3D tasarım ve animasyon üzerine tartışmalar.
+- [Wacom Community](https://community.wacom.com) — Dijital çizim tabletleri ve sanatsal üretim.
+- [Adafruit Forums](https://forums.adafruit.com) — Elektronik projeler ve donanım tartışmaları.
+- [Hackaday.io](https://hackaday.io) — Elektronik projeler ve yenilikçi fikirler.
+- [Tindie](https://www.tindie.com) — Elektronik ve donanım projeleri.
+- [ModMyPi Forums](https://www.modmypi.com) — Raspberry Pi projeleri ve geliştirme.
+- [Electronics Point](https://www.electronicspoint.com) — Elektronik devreler ve projeler üzerine forum.
+- [Instructables Community](https://www.instructables.com/community) — DIY projeler ve elektronik inşa kılavuzları.
+- [Techtarget](https://www.techtarget.com) — Teknoloji endüstrisi üzerine tartışmalar.
+- [Lifehacker Community](https://lifehacker.com/community) — Yaşam tarzı, teknoloji ve verimlilik hakkında tartışmalar.
+- [GigaOM Community](https://gigaom.com/community) — Teknoloji haberleri ve gelişmeleri.
+- [Business Insider](https://www.businessinsider.com) — İş dünyası, girişimcilik ve teknoloji üzerine tartışmalar.

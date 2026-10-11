@@ -1,0 +1,71 @@
+# Programlama Öğrenme, Kod Egzersizleri ve Bulmacalar
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** programlama öğrenme, kodlama pratiği, algoritma bulmacası, coding practice, LeetCode alternatifi, online kurs
+
+- [Stack Overflow](https://stackoverflow.com) — Yazılım geliştirme topluluğu ve soru-cevap sitesi.
+- [freeCodeCamp](https://www.freecodecamp.org) — Ücretsiz yazılım geliştirme kursları.
+- [Codecademy](https://www.codecademy.com) — Programlama dillerini öğrenme platformu.
+- [Sololearn](https://www.sololearn.com) — İnteraktif kodlama dersleri.
+- [Programiz](https://www.programiz.com) — Eğitim materyalleri ve kod örnekleri.
+- [Inprogrammer](https://www.inprogrammer.com) — Programlama üzerine yazılar ve eğitim.
+- [Tutorialspoint](https://www.tutorialspoint.com) — Teknoloji ve programlama dersleri.
+- [Studytonight](https://www.studytonight.com) — Algoritmalar ve programlama konuları.
+- [Javatpoint](https://www.javatpoint.com) — Java ve diğer programlama dillerine dair eğitim.
+- [GeeksforGeeks](https://www.geeksforgeeks.org) — Programlama ve bilgisayar bilimleri testi.
+- [LeetCode](https://leetcode.com) — Kodlama problemleri ve yarışmalar platformu.
+- [HackerRank](https://www.hackerrank.com) — Kodlama becerilerinizi geliştirmek için online platform.
+- [TopCoder](https://www.topcoder.com) — Yazılım geliştirme yarışmaları ve zorluklar.
+- [CodeChef](https://www.codechef.com) — Global programlama yarışmaları.
+- [HackerEarth](https://www.hackerearth.com) — Programlama testleri ve hackathon platformu.
+- [Exercism](https://exercism.io) — Kodlama alıştırmaları ve çözüm önerileri.
+- [Coderbyte](https://www.coderbyte.com) — Çeşitli algoritmalarla problem çözme becerisi geliştiren platform.
+- [CTFLearn](https://ctflearn.com/) — CTF yarışmaları ile siber güvenlik becerilerini geliştirme.
+- [CodeCombat](https://codecombat.com/) — Oyun tabanlı programlama eğitim platformu.
+- [CodinGame](https://www.codingame.com/) — Programlama becerilerini oyunlarla geliştirme platformu.
+- [CSS Diner](https://flukeout.github.io/) — CSS seçicilerini eğlenceli bir oyunla öğrenme.
+- [SQL Murder Mystery](https://mystery.knightlab.com/) — SQL kullanarak cinayet çözme oyunu.
+- [JS Robot](https://yourcodeclass.com/js-robot) — JavaScript ile robotları yönlendirme oyunu.
+- [Elevator Saga](https://yourcodeclass.com/elevator-saga) — JavaScript ile asansör kontrolü simülasyonu.
+- [Play Untrusted](https://playuntrusted.com/) — JavaScript kullanarak bulmacalar çözme oyunu.
+- [Screeps](https://screeps.com/) — Gerçek zamanlı strateji ve programlama oyunu.
+- [Learn Git Branching](https://learngitbranching.js.org) — Git ve GitHub komutları için görsel öğrenme aracı.
+- [Cryptozombies](https://cryptozombies.com) — Blockchain ve akıllı sözleşmeleri öğrenmek için oyun.
+- [ProgrammingHub](https://programminghub.io) — Birçok programlama diliyle ilgili dersler ve örnekler.
+- [Grasshopper](https://grasshopper.app) — Yeni başlayanlar için JavaScript öğreticisi.
+- [Mimo](https://getmimo.com) — Python, JavaScript gibi dillerle uygulama geliştirme becerisi kazandıran interaktif uygulama.
+- [Scrimba](https://scrimba.com) — JavaScript ve diğer diller için interaktif öğreticiler.
+- [VisuAlgo](https://visualgo.net) — Veri yapıları ve algoritmaların görsel simülasyonları.
+- [www.cs.usfca.edu](https://www.cs.usfca.edu) — Algoritmaların görselleştirildiği etkileşimli platform.
+- [boat.ocks.org](http://boat.ocks.org) — Algoritmaların görsel simülasyonları için araç.
+- [Learn HTML & CSS](https://learnhtmlcss.online) — HTML ve CSS öğreten interaktif bir site.
+- [CSS-Tricks](https://css-tricks.com) — CSS ve web tasarımı hakkında bilgiler.
+- [Node.js Dev](http://nodejs.dev) — Node.js ile ilgili kaynaklar ve öğreticiler.
+- [Docker Curriculum](https://docker-curriculum.com) — Docker'ı öğrenmek için kapsamlı bir rehber.
+- [Linux Journey](https://linuxjourney.com) — Linux işletim sistemini öğrenmek için kapsamlı dersler.
+- [REST API Tutorial](https://restapitutorial.com) — RESTful API'ler hakkında öğreticiler.
+- [AWS Skill Builder](https://skillbuilder.aws) — AWS sertifikaları ve bulut hizmetleri üzerine kaynaklar.
+- [Javatpoint DevOps](https://javatpoint.com/devops) — DevOps ile ilgili kaynaklar ve öğreticiler.
+- [LearnCpp](https://learncpp.com) — C++ dilini öğrenmek için kapsamlı rehber.
+- [SQLBolt](https://sqlbolt.com) — SQL öğrenmek için etkileşimli dersler.
+- [TryHackMe](https://tryhackme.com) — Etkileşimli siber güvenlik öğrenme platformu.
+- [PHP.net](https://php.net) — PHP dilini öğrenmek için resmi kaynak.
+- [Learn-JS](https://learn-js.org) — JavaScript öğreticisi.
+- [React Tutorial](https://react-tutorial.app) — React ile uygulama geliştirmeyi öğreten bir rehber.
+- [Python Tutorial](https://pythontutorial.net) — Python dilini öğrenmek için öğreticiler.
+- [HackDesign](https://hackdesign.org) — UI/UX tasarımı öğrenmek için kaynaklar.
+- [Coursera – AI/ML](https://coursera.org) — Yapay zeka ve makine öğrenmesi kursları.
+- [MIT OpenCourseWare](https://ocw.mit.edu) — MIT'nin ücretsiz ders materyalleri.
+- [Udacity](https://www.udacity.com) — Online eğitim ve teknoloji kursları.
+- [edX](https://www.edx.org) — Üniversitelerden online kurslar ve sertifikalar.
+- [Pluralsight](https://www.pluralsight.com) — Teknoloji ve yazılım geliştirme eğitimi.
+- [Treehouse](https://teamtreehouse.com) — Online teknoloji ve yazılım geliştirme kursları.
+- [Udemy](https://www.udemy.com) — Çeşitli konularda online kurslar.
+- [Khan Academy](https://www.khanacademy.org) — Ücretsiz eğitim içerikleri.
+- [Examveda](https://www.examveda.com) — Teknik sınav soruları ve cevapları.
+- [Cppbuzz](https://www.cppbuzz.com) — C++ odaklı çoktan seçmeli sorular.
+- [Sanfoundry](https://www.sanfoundry.com) — Çeşitli mühendislik ve teknik testler.
+- [IndiaBIX](https://www.indiabix.com) — Teknik mülakatlar için soru bankası.
+- [Avatto](https://www.avatto.com) — Mühendislik konularında sınavlar.
+- [Observable](https://observablehq.com) — Veriyi canlı kodla görselleştirme platformu.

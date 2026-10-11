@@ -1,0 +1,102 @@
+# Eğlence, Vakit Geçirme ve İlginç/Tuhaf Siteler
+
+[← Ana dizine dön (README)](../README.md) · [🔎 Alfabetik İndeks](../INDEX.md)
+
+**🔑 Anahtar Kelimeler:** eğlenceli siteler, ilginç web siteleri, tuhaf siteler, vakit geçirme, zaman öldürme siteleri, random site
+
+- [Little Alchemy](https://littlealchemy.com) — Elementleri birleştirerek yeni nesneler oluşturma.
+- [Little Alchemy 2](https://littlealchemy2.com) — Elementleri birleştirerek yeni nesneler oluşturma (devam oyunu).
+- [Window Swap](https://window-swap.com) — Dünyanın dört bir yanından paylaşılan pencere manzaraları izleme.
+- [StumbleUpon (Mix)](https://mix.com) — Rastgele web siteleri keşfetme.
+- [The Useless Web](https://theuselessweb.com) — Webin en saçma ve komik sitelerine yönlendirme.
+- [Falling Falling](https://fallingfalling.com) — Ekrandaki düşen renkli daireleri izleme.
+- [Weird or Confusing](https://weirdorconfusing.com) — İlginç içerikler sunan site.
+- [Radio Garden](https://radio.garden) — Dünyanın her yerinden radyo istasyonlarını dinleme.
+- [A Soft Murmur](https://asoftmurmur.com) — Kendi beyaz gürültü veya doğa seslerinizi yaratma.
+- [TV Garden](https://tvgarden.net/watch-live/) — Dünyadan canlı TV kanalları izleme.
+- [Sketchful.io](https://sketchful.io) — Çevrimiçi çizim oyunu.
+- [Bored Button](https://www.boredbutton.com) — Can sıkıntısını geçirecek rastgele oyunlar.
+- [HowStuffWorks](https://www.howstuffworks.com) — İlginç ve öğretici içerikler.
+- [Glitch Art Generator](https://www.glitchart.com) — Eğlenceli glitch sanatları yaratma.
+- [PicoTux](https://www.picotux.com) — Küçük, keyifli web tabanlı oyunlar.
+- [The Secret Door](https://www.thesecretdoor.com) — Rastgele bir yere açılan kapı.
+- [Freaking News](https://www.freakingnews.com) — Photoshop yarışmaları ve komik fotoğraf düzenlemeleri.
+- [Popurls](https://www.popurls.com) — İnternetteki popüler içerikleri takip etme.
+- [FactSlides](https://www.factslides.com) — İlginç ve şaşırtıcı bilgiler.
+- [Wait But Why](https://waitbutwhy.com) — Eğlenceli ve düşündürücü blog.
+- [Unnecessary Inventions](https://unnecessaryinventions.com) — Gerekli olmayan, komik icatlar.
+- [Giphy](https://www.giphy.com) — GIF'ler keşfetme ve paylaşma.
+- [imgflip](https://imgflip.com) — İnternet mizahı ve meme oluşturma.
+- [Speedrun.com](https://www.speedrun.com) — Hızlı oyun oynama rekorlarını izleme.
+- [Tiny Desk Concerts](https://www.npr.org/sections/tiny-desk-concerts/) — Sanatçıların mini konserlerini izleme.
+- [Quora](https://www.quora.com) — Sorular sorup cevaplar alma.
+- [Merriam-Webster](https://www.merriam-webster.com) — Sözlük ve anlamları keşfetme.
+- [Metafilter](https://www.metafilter.com) — İnsanlar tarafından önerilen ilginç içerikler.
+- [Buzzfeed](https://www.buzzfeed.com) — Eğlenceli testler ve içerikler.
+- [Blob Opera](https://artsandculture.google.com/experiment/blob-opera) — Şarkı söyleyen blob karakterleriyle oynama.
+- [Emupedia](https://emupedia.net/beta/emous) — Emülatör tabanlı retro oyun platformu.
+- [Dreamteller](https://dreamteller.co/) — Rüyanızı yazıp bilinçaltı yorumu alma sitesi.
+- [Copy.sh Brainfuck Decoder](https://copy.sh/brainfuck/) — Brainfuck kod çözücü.
+- [Atari Salon](http://www.atarisalon.com/) — Atari salon oyunlarını oynayabileceğiniz site.
+- [Chromelab Experiments](https://chromeexperiments.com) — Google'ın bilim ve sanat deneyleri.
+- [Sketchpad](https://sketch.io/sketchpad/en/) — Çevrimiçi çizim aracı.
+- [Draw a Stickman](https://www.drawastickman.com) — Çizimlerinize hayat veren bir oyun.
+- [Scary Stories Generator](https://www.scarystorygenerator.com) — Rastgele korku hikayeleri oluşturma.
+- [Serendipity](https://serendipity.mit.edu) — Yaratıcı yazı yazma egzersizleri.
+- [Doodle Addicts](https://www.doodleaddicts.com) — Sanatçı topluluğu ve günlük çizim yarışmaları.
+- [This is Sand](https://thisissand.com) — Dijital kum sanatı yapma.
+- [Patatap](https://patatap.com) — Müzik ve görsellerle oynama.
+- [Pointer Pointer](https://pointerpointer.com) — Fareyi nereye koyarsan oraya işaret eden fotoğraf.
+- [Eel Slap](https://www.eelslap.com) — Fareyle bir adamı yılan balığıyla tokatlama.
+- [Bouncy Balls](https://bouncyballs.org) — Ses seviyesine göre zıplayan toplar.
+- [Garfield Minus Garfield](https://garfieldminusgarfield.net) — Garfield'ın çıkartıldığı Garfield çizgi romanları.
+- [Nyan Cat](https://nyan.cat) — Sonsuz Nyan Cat.
+- [Exploding Kittens](https://explodingkittens.com) — Eğlenceli kart oyunu.
+- [Find the Invisible Cow](https://findtheinvisiblecow.com) — Sesi takip ederek görünmez ineği bulma.
+- [FMyLife](https://www.fmylife.com) — Komik ve talihsiz hayat hikayeleri.
+- [Neal.fun](https://neal.fun) — Eğlenceli interaktif deneyimler.
+- [Staggering Beauty](https://www.staggeringbeauty.com) — Eğlenceli bir interaktif solucan.
+- [Koalastothemax](https://koalastothemax.com) — Bir koalayı parçalayarak ortaya çıkarma.
+- [Paper Planes](https://paperplanes.world) — Sanal kâğıt uçakları fırlatma.
+- [Oddee](https://www.oddee.com) — Garip ve eğlenceli içerikler.
+- [Mental Floss](https://mentalfloss.com) — İlginç bilgiler ve zihin açıcı makaleler.
+- [Cracked](https://www.cracked.com) — Mizahi makaleler ve eğlenceli listeler.
+- [Bored Panda](https://www.boredpanda.com) — İlginç haberler ve yaratıcı içerikler.
+- [Akinator](https://en.akinator.com) — Düşündüğünüz karakteri tahmin eden yapay zeka.
+- [Camerons World](http://www.cameronsworld.net) — 90'ların internet arayüzünü keşfet.
+- [Nobody.live](https://nobody.live) — Sıfır izleyicili canlı yayınları gösteren platform.
+- [CivClicker](https://www.neal.fun/civclicker) — Basit bir medeniyet kurma oyunu.
+- [Cursors.io](https://cursors.io) — Fare imleciyle oynanan bir bulmaca.
+- [Jigsaw Explorer](https://www.jigsawexplorer.com) — Online yapboz oyunları.
+- [Escape Room Puzzles](https://www.escaperoom.com) — Online kaçış odaları.
+- [Notpron](http://notpron.org) — Dünyanın en zor internet bulmacası.
+- [Trivia Plaza](https://www.triviaplaza.com) — Farklı kategorilerde bilgi yarışmaları.
+- [MyHeritage](https://www.myheritage.com) — Genetik ve soy geçmişi araştırma aracı.
+- [Flicker Gallery](https://flicker.laurie.fyi/gallery) — Deneysel/yaratıcı web sanatı galerisi.
+- [Distrosea](https://distrosea.com) — Linux dağıtımlarını tarayıcıda test etme aracı.
+- [Weris](https://weris.ordinall.me) — Kişilik/dünya görüşü keşfeden interaktif deneme.
+- [The Detector AI](https://thedetector.ai) — AI ile üretilmiş metin/görselleri tespit etme aracı.
+- [Passport Index](https://www.passportindex.org) — Ülkelerin pasaport gücünü karşılaştırma aracı.
+- [AlternativeTo](https://alternativeto.net) — Yazılım/uygulama alternatifleri keşfetme platformu.
+- [Sobrief](https://sobrief.com) — Kitapları kısa özetler halinde sunan platform.
+- [Darebee](https://darebee.com) — Ücretsiz egzersiz ve fitness programları arşivi.
+- [System Requirements Lab](https://www.systemrequirementslab.com) — Bilgisayarın oyun/yazılım sistem gereksinimlerini karşılayıp karşılamadığını test etme.
+- [iFixit](https://www.ifixit.com) — Elektronik cihaz tamiri için ücretsiz kılavuzlar.
+- [Language Guide](https://www.languageguide.org) — Görsellerle dil öğrenme aracı.
+- [Eat This Much](https://www.eatthismuch.com) — Otomatik beslenme planı ve öğün listesi oluşturma.
+- [3D Tuning](https://www.3dtuning.com/) — Araçları 3D olarak özelleştirme/tuning simülasyonu.
+- [Free-for.dev](https://free-for.dev) — Geliştiriciler için ücretsiz katmanlı servisler listesi.
+- [NoSignups.net](https://nosignups.net) — Hesap açmadan/giriş yapmadan kullanılabilen açık kaynak tarayıcı araçları dizini.
+- [Javii Tools](https://javii.tools) — Sahte mesaj balonu, sosyal medya arayüzü ve görsel efekt üreten tarayıcı tabanlı küçük araçlar seti.
+- [Mult.dev](https://mult.dev/) — Seyahat rotası görselleştirme videoları oluşturma aracı.
+- [Effect.app](https://effect.app) — Uygulama/hizmet keşif ve dizin platformu.
+- [Animated Knots](https://animatedknots.com) — Adım adım animasyonlu düğüm bağlama rehberi.
+- [Downdetector](https://downdetector.com/) — Web sitesi ve servislerin çökme/kesinti durumunu takip etme.
+- [Appdoze](https://appdoze.net) — Uygulama ve site keşif/dizin platformu.
+- [Replient Fake Chat Generator](https://replient.ai/en/tools/fake-chat-generator) — Sahte sohbet ekran görüntüsü oluşturma aracı.
+- [Bingebuster](https://bingebuster.net) — Dizi/film izleme önerisi ve takip platformu.
+- [Atlasfind](https://atlasfind.co) — Konum/fotoğraf tabanlı keşif ve arama aracı.
+- [Listen to Wikipedia](https://listen.hatnote.com) — Wikipedia düzenlemelerini gerçek zamanlı olarak sese çevirme.
+- [The Evolution of Trust](https://ncase.me/trust) — Oyun teorisiyle güvenin nasıl oluştuğunu anlatan etkileşimli oyun.
+- [Wikipedia (Rastgele Sayfa)](https://en.wikipedia.org/wiki/Special:Random) — Rastgele bir Wikipedia maddesine giderek bilgi kuyusuna dalma.
+- [56k.rip](https://56k.rip/) — 1996 dönemi Windows 95 ve 56K çevirmeli ağ (dial-up) internet deneyimini sesleriyle simüle eden nostaljik web projesi.
