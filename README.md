@@ -34,7 +34,7 @@ Web siteleri kapanabilir, el değiştirebilir, kötü amaçlı hale gelebilir ve
 **5. Yürürlükteki mevzuata uyum kullanıcının yükümlülüğüdür.**
 Bulunduğunuz ülke veya bölgenin telif hakkı, veri koruma ve internet kullanımına dair yasaları farklılık gösterebilir. Bu listeyi kullanmadan önce kendi hukuki yükümlülüklerinizi araştırmak sizin sorumluluğunuzdadır.
 
-Bu şartları kabul etmiyorsanız, listeyi kullanmayı bırakınız.
+Eğer bu listeyi kullanırsanız bu şartları kabul etmiş varsayılırsınız.
 
 ---
 
