@@ -114,7 +114,7 @@ Aşağıda her kategori, içerdiği link sayısı ve kısa açıklamasıyla birl
 | Proje Yönetimi ve İletişim Araçları | Proje yönetimi, görev takibi ve ekip içi iletişim araçları. | 16 | [24-proje-yonetimi-ve-iletisim-araclari.md](kategoriler/24-proje-yonetimi-ve-iletisim-araclari.md) |
 | Alan Adı (Domain) Hizmetleri | Alan adı (domain) arama, satın alma ve yönetim hizmetleri. | 5 | [25-alan-adi-domain-hizmetleri.md](kategoriler/25-alan-adi-domain-hizmetleri.md) |
 | Freelance ve Dijital Hizmetler | Freelance iş bulma ve dijital hizmet pazar yeri platformları. | 2 | [26-freelance-ve-dijital-hizmetler.md](kategoriler/26-freelance-ve-dijital-hizmetler.md) |
-| Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular) | Teknoloji, oyun, güvenlik, programlama ve genel konularda topluluk forumları. | 91 | [27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md) |
+| Forumlar (Teknoloji, Oyun, Güvenlik, Programlama ve Diğer Konular) | Teknoloji, oyun, güvenlik, programlama ve genel konularda topluluk forumları. | 92 | [27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md](kategoriler/27-forumlar-teknoloji-oyun-guvenlik-programlama-ve-diger-konular.md) |
 | Elektronik Ürün Performans / Karşılaştırma | Elektronik ürün/donanım performans karşılaştırma ve benchmark siteleri. | 2 | [28-elektronik-urun-performans-karsilastirma.md](kategoriler/28-elektronik-urun-performans-karsilastirma.md) |
 | Duvar Kağıdı, Dosya Dönüştürme ve Çeşitli Araçlar | Duvar kağıdı, dosya format dönüştürme ve çeşitli online yardımcı araçlar. | 45 | [29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md](kategoriler/29-duvar-kagidi-dosya-donusturme-ve-cesitli-araclar.md) |
 
