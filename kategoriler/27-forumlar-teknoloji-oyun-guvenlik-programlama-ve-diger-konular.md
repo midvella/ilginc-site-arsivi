@@ -95,3 +95,4 @@
 - [Lifehacker Community](https://lifehacker.com/community) — Yaşam tarzı, teknoloji ve verimlilik hakkında tartışmalar.
 - [GigaOM Community](https://gigaom.com/community) — Teknoloji haberleri ve gelişmeleri.
 - [Business Insider](https://www.businessinsider.com) — İş dünyası, girişimcilik ve teknoloji üzerine tartışmalar.
+- [The Hustle Blower](https://thehustleblower.com/) - Gerçek hayatta işe yarayan pratik, sıra dışı iş modellerini ve girişimcilik hikayelerini paylasan platform
