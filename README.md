@@ -1,6 +1,6 @@
 # 🔗 İnternet Kaynakları Listesi (Ücretsiz Yapay Zeka Araçları, Tasarım, Oyun Geliştirme ve Daha Fazlası)
 
-Yapay zeka araçları, tasarım ve stok kaynaklar, yazılım geliştirme ve siber güvenlik siteleri, akademik araştırma kaynakları, oyun geliştirme (3D model, texture, pixel art, font, ses efekti, müzik) asset siteleri, online oyunlar ve daha fazlasını kapsayan **39 kategori, 1187 linkten** oluşan derlenmiş bir kaynak/link dizinidir. Her kategori kendi dosyasında ayrı ayrı tutulur, bu sayede hem gezinmesi hem de güncellenmesi kolaydır.
+Yapay zeka araçları, tasarım ve stok kaynaklar, yazılım geliştirme ve siber güvenlik siteleri, akademik araştırma kaynakları, oyun geliştirme (3D model, texture, pixel art, font, ses efekti, müzik) asset siteleri, online oyunlar ve daha fazlasını kapsayan **39 kategori, 1188 linkten** oluşan derlenmiş bir kaynak/link dizinidir. Her kategori kendi dosyasında ayrı ayrı tutulur, bu sayede hem gezinmesi hem de güncellenmesi kolaydır.
 
 📁 Tüm kategori dosyaları [`kategoriler/`](kategoriler) klasöründe yer alır. Aşağıdaki **Kategori Haritası** bölümünden hangi kategoride ne tür linkler bulunduğunu görüp doğrudan ilgili dosyaya geçebilirsiniz.
 
